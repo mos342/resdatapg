@@ -1,0 +1,5688 @@
+dataset,xwhich,xvarchar,xvardt,yval,yvllb,text
+aq_ds,2,,16467,28.16249999999999,,Feb 15
+aq_ds,2,,16495,31.15456989247309,,Mar 15
+aq_ds,2,,16526,25.544583333333357,,Apr 15
+aq_ds,2,,16556,20.13508064516128,,May 15
+aq_ds,2,,16587,22.599583333333335,,Jun 15
+aq_ds,2,,16617,20.00645161290323,,Jul 15
+aq_ds,2,,16648,20.514247311827972,,Aug 15
+aq_ds,2,,16679,20.42486111111111,,Sep 15
+aq_ds,2,,16709,26.014247311827937,,Oct 15
+aq_ds,2,,16740,21.824722222222206,,Nov 15
+aq_ds,2,,16770,24.14704301075268,,Dec 15
+aq_ds,2,,16801,23.206989247311824,,Jan 16
+aq_ds,2,,16832,23.089655172413774,,Feb 16
+aq_ds,2,,16861,26.07150537634409,,Mar 16
+aq_ds,2,,16892,21.074861111111115,,Apr 16
+aq_ds,2,,16922,22.38467741935483,,May 16
+aq_ds,2,,16953,21.27659722222221,,Jun 16
+aq_ds,2,,16983,16.991129032258073,,Jul 16
+aq_ds,2,,17014,20.73387096774192,,Aug 16
+aq_ds,2,,17045,21.541388888888914,,Sep 16
+aq_ds,2,,17075,24.327822580645122,,Oct 16
+aq_ds,2,,17106,24.587777777777784,,Nov 16
+aq_ds,2,,17136,33.17930107526886,,Dec 16
+aq_ds,2,,17167,31.25430107526879,,Jan 17
+aq_ds,2,,17198,25.618005952380962,,Feb 17
+aq_ds,2,,17226,23.054435483870982,,Mar 17
+aq_ds,2,,17257,22.397916666666674,,Apr 17
+aq_ds,2,,17287,22.330645161290306,,May 17
+aq_ds,2,,17318,21.073055555555555,,Jun 17
+aq_ds,2,,17348,17.15819892473116,,Jul 17
+aq_ds,2,,17379,17.810483870967747,,Aug 17
+aq_ds,2,,17410,19.244583333333313,,Sep 17
+aq_ds,2,,17440,19.97311827956985,,Oct 17
+aq_ds,2,,17471,22.804583333333362,,Nov 17
+aq_ds,2,,17501,17.50618279569893,,Dec 17
+aq_ds,2,,17532,19.253360215053746,,Jan 18
+aq_ds,2,,17563,23.483482142857138,,Feb 18
+aq_ds,2,,17591,26.291532258064507,,Mar 18
+aq_ds,2,,17622,25.677916666666682,,Apr 18
+aq_ds,2,,17652,29.30806451612902,,May 18
+aq_ds,2,,17683,21.25236111111111,,Jun 18
+aq_ds,2,,17713,22.91935483870968,,Jul 18
+aq_ds,2,,17744,16.284946236559136,,Aug 18
+aq_ds,2,,17775,18.960277777777783,,Sep 18
+aq_ds,2,,17805,19.320430107526878,,Oct 18
+aq_ds,2,,17836,23.891944444444448,,Nov 18
+aq_ds,2,,17866,19.69139784946236,,Dec 18
+aq_ds,2,,17897,22.723333333333336,,Jan 19
+aq_ds,2,,17928,28.672916666666676,,Feb 19
+aq_ds,2,,17956,20.914650537634405,,Mar 19
+aq_ds,2,,17987,32.253750000000075,,Apr 19
+aq_ds,2,,18017,19.479973118279556,,May 19
+aq_ds,2,,18048,17.953333333333333,,Jun 19
+aq_ds,2,,18078,18.469086021505365,,Jul 19
+fpov,1,2012.0,NA,0.085,London,
+fpov,1,2012.0,NA,0.107,England,
+fpov,1,2013.0,NA,0.096,London,
+fpov,1,2013.0,NA,0.105,England,
+fpov,1,2014.0,NA,0.096,London,
+fpov,1,2014.0,NA,0.105,England,
+fpov,1,2015.0,NA,0.09699999999999999,London,
+fpov,1,2015.0,NA,0.11,England,
+fpov,1,2016.0,NA,0.1,London,
+fpov,1,2016.0,NA,0.111,England,
+fpov,1,2017.0,NA,0.11800000000000001,London,
+fpov,1,2017.0,NA,0.109,England,
+gp,2,,17956,2727508,Face-to-Face,01 Mar 19
+gp,2,,17956,17578,Home Visit,01 Mar 19
+gp,2,,17956,470866,Telephone,01 Mar 19
+gp,2,,17956,289407,Unknown,01 Mar 19
+gp,2,,17956,11686,Video/Online,01 Mar 19
+gp,2,,17987,2516711,Face-to-Face,01 Apr 19
+gp,2,,17987,16425,Home Visit,01 Apr 19
+gp,2,,17987,443286,Telephone,01 Apr 19
+gp,2,,17987,263417,Unknown,01 Apr 19
+gp,2,,17987,10266,Video/Online,01 Apr 19
+gp,2,,18017,2630785,Face-to-Face,01 May 19
+gp,2,,18017,17623,Home Visit,01 May 19
+gp,2,,18017,462628,Telephone,01 May 19
+gp,2,,18017,261042,Unknown,01 May 19
+gp,2,,18017,10680,Video/Online,01 May 19
+gp,2,,18048,2485079,Face-to-Face,01 Jun 19
+gp,2,,18048,16126,Home Visit,01 Jun 19
+gp,2,,18048,429354,Telephone,01 Jun 19
+gp,2,,18048,243266,Unknown,01 Jun 19
+gp,2,,18048,10434,Video/Online,01 Jun 19
+gp,2,,18078,2843869,Face-to-Face,01 Jul 19
+gp,2,,18078,18613,Home Visit,01 Jul 19
+gp,2,,18078,495486,Telephone,01 Jul 19
+gp,2,,18078,256998,Unknown,01 Jul 19
+gp,2,,18078,11963,Video/Online,01 Jul 19
+gp,2,,18109,2429474,Face-to-Face,01 Aug 19
+gp,2,,18109,16560,Home Visit,01 Aug 19
+gp,2,,18109,424300,Telephone,01 Aug 19
+gp,2,,18109,213753,Unknown,01 Aug 19
+gp,2,,18109,10153,Video/Online,01 Aug 19
+gp,2,,18140,2770549,Face-to-Face,01 Sep 19
+gp,2,,18140,18301,Home Visit,01 Sep 19
+gp,2,,18140,460076,Telephone,01 Sep 19
+gp,2,,18140,232120,Unknown,01 Sep 19
+gp,2,,18140,10869,Video/Online,01 Sep 19
+gp,2,,18170,3203618,Face-to-Face,01 Oct 19
+gp,2,,18170,21894,Home Visit,01 Oct 19
+gp,2,,18170,513323,Telephone,01 Oct 19
+gp,2,,18170,271776,Unknown,01 Oct 19
+gp,2,,18170,11847,Video/Online,01 Oct 19
+gp,2,,18201,2899859,Face-to-Face,01 Nov 19
+gp,2,,18201,20305,Home Visit,01 Nov 19
+gp,2,,18201,497733,Telephone,01 Nov 19
+gp,2,,18201,233701,Unknown,01 Nov 19
+gp,2,,18201,10909,Video/Online,01 Nov 19
+gp,2,,18231,2531057,Face-to-Face,01 Dec 19
+gp,2,,18231,18184,Home Visit,01 Dec 19
+gp,2,,18231,466455,Telephone,01 Dec 19
+gp,2,,18231,190585,Unknown,01 Dec 19
+gp,2,,18231,9388,Video/Online,01 Dec 19
+gp,2,,18262,2936572,Face-to-Face,01 Jan 20
+gp,2,,18262,21249,Home Visit,01 Jan 20
+gp,2,,18262,542857,Telephone,01 Jan 20
+gp,2,,18262,216439,Unknown,01 Jan 20
+gp,2,,18262,11446,Video/Online,01 Jan 20
+gp,2,,18293,2645649,Face-to-Face,01 Feb 20
+gp,2,,18293,19147,Home Visit,01 Feb 20
+gp,2,,18293,501563,Telephone,01 Feb 20
+gp,2,,18293,199920,Unknown,01 Feb 20
+gp,2,,18293,9829,Video/Online,01 Feb 20
+gp,2,,18322,1995200,Face-to-Face,01 Mar 20
+gp,2,,18322,13841,Home Visit,01 Mar 20
+gp,2,,18322,1108553,Telephone,01 Mar 20
+gp,2,,18322,205623,Unknown,01 Mar 20
+gp,2,,18322,6806,Video/Online,01 Mar 20
+gp,2,,18353,797449,Face-to-Face,01 Apr 20
+gp,2,,18353,8057,Home Visit,01 Apr 20
+gp,2,,18353,1271841,Telephone,01 Apr 20
+gp,2,,18353,126127,Unknown,01 Apr 20
+gp,2,,18353,1321,Video/Online,01 Apr 20
+gp,2,,18383,871728,Face-to-Face,01 May 20
+gp,2,,18383,8278,Home Visit,01 May 20
+gp,2,,18383,1281249,Telephone,01 May 20
+gp,2,,18383,131724,Unknown,01 May 20
+gp,2,,18383,2569,Video/Online,01 May 20
+gp,2,,18414,1191383,Face-to-Face,01 Jun 20
+gp,2,,18414,11115,Home Visit,01 Jun 20
+gp,2,,18414,1552191,Telephone,01 Jun 20
+gp,2,,18414,159220,Unknown,01 Jun 20
+gp,2,,18414,5934,Video/Online,01 Jun 20
+gp,2,,18444,1403213,Face-to-Face,01 Jul 20
+gp,2,,18444,11471,Home Visit,01 Jul 20
+gp,2,,18444,1613093,Telephone,01 Jul 20
+gp,2,,18444,168475,Unknown,01 Jul 20
+gp,2,,18444,12554,Video/Online,01 Jul 20
+gp,2,,18475,1322074,Face-to-Face,01 Aug 20
+gp,2,,18475,10058,Home Visit,01 Aug 20
+gp,2,,18475,1408765,Telephone,01 Aug 20
+gp,2,,18475,130171,Unknown,01 Aug 20
+gp,2,,18475,13350,Video/Online,01 Aug 20
+aq_no2,2,,16467,64.69583333333325,,Feb 15
+aq_no2,2,,16495,55.8028225806452,,Mar 15
+aq_no2,2,,16526,56.16138888888891,,Apr 15
+aq_no2,2,,16556,48.55779569892472,,May 15
+aq_no2,2,,16587,50.52902777777782,,Jun 15
+aq_no2,2,,16617,49.50053763440859,,Jul 15
+aq_no2,2,,16648,49.004838709677394,,Aug 15
+aq_no2,2,,16679,56.971666666666614,,Sep 15
+aq_no2,2,,16709,58.51706989247306,,Oct 15
+aq_no2,2,,16740,53.93208333333332,,Nov 15
+aq_no2,2,,16770,47.17486559139782,,Dec 15
+aq_no2,2,,16801,60.036827956989285,,Jan 16
+aq_no2,2,,16832,58.68160919540234,,Feb 16
+aq_no2,2,,16861,57.60510752688172,,Mar 16
+aq_no2,2,,16892,58.78333333333329,,Apr 16
+aq_no2,2,,16922,50.93481182795705,,May 16
+aq_no2,2,,16953,48.74187500000005,,Jun 16
+aq_no2,2,,16983,45.445295698924724,,Jul 16
+aq_no2,2,,17014,47.58696236559144,,Aug 16
+aq_no2,2,,17045,54.71513888888886,,Sep 16
+aq_no2,2,,17075,58.28279569892472,,Oct 16
+aq_no2,2,,17106,66.13777777777774,,Nov 16
+aq_no2,2,,17136,69.72190860215052,,Dec 16
+aq_no2,2,,17167,71.74166666666662,,Jan 17
+aq_no2,2,,17198,54.693005952380894,,Feb 17
+aq_no2,2,,17226,52.86411290322581,,Mar 17
+aq_no2,2,,17257,51.14361111111108,,Apr 17
+aq_no2,2,,17287,47.41505376344085,,May 17
+aq_no2,2,,17318,45.571249999999964,,Jun 17
+aq_no2,2,,17348,41.98454301075271,,Jul 17
+aq_no2,2,,17379,44.25698924731179,,Aug 17
+aq_no2,2,,17410,47.83458333333331,,Sep 17
+aq_no2,2,,17440,47.443279569892496,,Oct 17
+aq_no2,2,,17471,57.014583333333334,,Nov 17
+aq_no2,2,,17501,52.85268817204303,,Dec 17
+aq_no2,2,,17532,47.2877688172043,,Jan 18
+aq_no2,2,,17563,51.4686011904762,,Feb 18
+aq_no2,2,,17591,51.06962365591391,,Mar 18
+aq_no2,2,,17622,46.778055555555525,,Apr 18
+aq_no2,2,,17652,49.31505376344086,,May 18
+aq_no2,2,,17683,39.40513888888883,,Jun 18
+aq_no2,2,,17713,45.51209677419356,,Jul 18
+aq_no2,2,,17744,39.20994623655913,,Aug 18
+aq_no2,2,,17775,44.34819444444443,,Sep 18
+aq_no2,2,,17805,47.6215053763441,,Oct 18
+aq_no2,2,,17836,48.08958333333335,,Nov 18
+aq_no2,2,,17866,48.46048387096772,,Dec 18
+aq_no2,2,,17897,54.53361111111115,,Jan 19
+aq_no2,2,,17928,56.95907738095237,,Feb 19
+aq_no2,2,,17956,42.57540322580649,,Mar 19
+aq_no2,2,,17987,46.22375000000005,,Apr 19
+aq_no2,2,,18017,39.66572580645162,,May 19
+aq_no2,2,,18048,34.86013888888886,,Jun 19
+aq_no2,2,,18078,36.190053763440844,,Jul 19
+aq_pm,2,,16467,28.16249999999999,,Feb 15
+aq_pm,2,,16495,31.15456989247309,,Mar 15
+aq_pm,2,,16526,25.544583333333357,,Apr 15
+aq_pm,2,,16556,20.13508064516128,,May 15
+aq_pm,2,,16587,22.599583333333335,,Jun 15
+aq_pm,2,,16617,20.00645161290323,,Jul 15
+aq_pm,2,,16648,20.514247311827972,,Aug 15
+aq_pm,2,,16679,20.42486111111111,,Sep 15
+aq_pm,2,,16709,26.014247311827937,,Oct 15
+aq_pm,2,,16740,21.824722222222206,,Nov 15
+aq_pm,2,,16770,24.14704301075268,,Dec 15
+aq_pm,2,,16801,23.206989247311824,,Jan 16
+aq_pm,2,,16832,23.089655172413774,,Feb 16
+aq_pm,2,,16861,26.07150537634409,,Mar 16
+aq_pm,2,,16892,21.074861111111115,,Apr 16
+aq_pm,2,,16922,22.38467741935483,,May 16
+aq_pm,2,,16953,21.27659722222221,,Jun 16
+aq_pm,2,,16983,16.991129032258073,,Jul 16
+aq_pm,2,,17014,20.73387096774192,,Aug 16
+aq_pm,2,,17045,21.541388888888914,,Sep 16
+aq_pm,2,,17075,24.327822580645122,,Oct 16
+aq_pm,2,,17106,24.587777777777784,,Nov 16
+aq_pm,2,,17136,33.17930107526886,,Dec 16
+aq_pm,2,,17167,31.25430107526879,,Jan 17
+aq_pm,2,,17198,25.618005952380962,,Feb 17
+aq_pm,2,,17226,23.054435483870982,,Mar 17
+aq_pm,2,,17257,22.397916666666674,,Apr 17
+aq_pm,2,,17287,22.330645161290306,,May 17
+aq_pm,2,,17318,21.073055555555555,,Jun 17
+aq_pm,2,,17348,17.15819892473116,,Jul 17
+aq_pm,2,,17379,17.810483870967747,,Aug 17
+aq_pm,2,,17410,19.244583333333313,,Sep 17
+aq_pm,2,,17440,19.97311827956985,,Oct 17
+aq_pm,2,,17471,22.804583333333362,,Nov 17
+aq_pm,2,,17501,17.50618279569893,,Dec 17
+aq_pm,2,,17532,19.253360215053746,,Jan 18
+aq_pm,2,,17563,23.483482142857138,,Feb 18
+aq_pm,2,,17591,26.291532258064507,,Mar 18
+aq_pm,2,,17622,25.677916666666682,,Apr 18
+aq_pm,2,,17652,29.30806451612902,,May 18
+aq_pm,2,,17683,21.25236111111111,,Jun 18
+aq_pm,2,,17713,22.91935483870968,,Jul 18
+aq_pm,2,,17744,16.284946236559136,,Aug 18
+aq_pm,2,,17775,18.960277777777783,,Sep 18
+aq_pm,2,,17805,19.320430107526878,,Oct 18
+aq_pm,2,,17836,23.891944444444448,,Nov 18
+aq_pm,2,,17866,19.69139784946236,,Dec 18
+aq_pm,2,,17897,22.723333333333336,,Jan 19
+aq_pm,2,,17928,28.672916666666676,,Feb 19
+aq_pm,2,,17956,20.914650537634405,,Mar 19
+aq_pm,2,,17987,32.253750000000075,,Apr 19
+aq_pm,2,,18017,19.479973118279556,,May 19
+aq_pm,2,,18048,17.953333333333333,,Jun 19
+aq_pm,2,,18078,18.469086021505365,,Jul 19
+empeth,1,2012,NA,73.7,White,
+empeth,1,2012,NA,59.6,Ethnic Minorities,
+empeth,1,2013,NA,75,White,
+empeth,1,2013,NA,60.8,Ethnic Minorities,
+empeth,1,2014,NA,76.8,White,
+empeth,1,2014,NA,62.7,Ethnic Minorities,
+empeth,1,2015,NA,78.2,White,
+empeth,1,2015,NA,65,Ethnic Minorities,
+empeth,1,2016,NA,78.6,White,
+empeth,1,2016,NA,66.3,Ethnic Minorities,
+empeth,1,2017,NA,78.8,White,
+empeth,1,2017,NA,66.4,Ethnic Minorities,
+empeth,1,2018,NA,79.6,White,
+empeth,1,2018,NA,66.4,Ethnic Minorities,
+i_rdnss,1,2019,NA,75,White,
+i_rdnss,1,2019,NA,76,Mixed,
+i_rdnss,1,2019,NA,75,Asian,
+i_rdnss,1,2019,NA,70,Black,
+i_rdnss,1,2019,NA,82,Chinese,
+i_rdnss,1,2019,NA,73,All pupils,
+i_rdnss,1,2018,NA,74,White,
+i_rdnss,1,2018,NA,75,Mixed,
+i_rdnss,1,2018,NA,74,Asian,
+i_rdnss,1,2018,NA,70,Black,
+i_rdnss,1,2018,NA,83,Chinese,
+i_rdnss,1,2018,NA,73,All pupils,
+i_rdnss,1,2017,NA,73,White,
+i_rdnss,1,2017,NA,75,Mixed,
+i_rdnss,1,2017,NA,73,Asian,
+i_rdnss,1,2017,NA,70,Black,
+i_rdnss,1,2017,NA,79,Chinese,
+i_rdnss,1,2017,NA,72,All pupils,
+i_rdnss,1,2016,NA,71,White,
+i_rdnss,1,2016,NA,73,Mixed,
+i_rdnss,1,2016,NA,71,Asian,
+i_rdnss,1,2016,NA,68,Black,
+i_rdnss,1,2016,NA,74,Chinese,
+i_rdnss,1,2016,NA,70,All pupils,
+i_rdnss,1,2015,NA,68,White,
+i_rdnss,1,2015,NA,69,Mixed,
+i_rdnss,1,2015,NA,67,Asian,
+i_rdnss,1,2015,NA,64,Black,
+i_rdnss,1,2015,NA,71,Chinese,
+i_rdnss,1,2015,NA,66,All pupils,
+i_rdnss,1,2014,NA,62,White,
+i_rdnss,1,2014,NA,64,Mixed,
+i_rdnss,1,2014,NA,61,Asian,
+i_rdnss,1,2014,NA,59,Black,
+i_rdnss,1,2014,NA,62,Chinese,
+i_rdnss,1,2014,NA,60,All pupils,
+i_rdnss,1,2013,NA,52,White,
+i_rdnss,1,2013,NA,53,Mixed,
+i_rdnss,1,2013,NA,50,Asian,
+i_rdnss,1,2013,NA,49,Black,
+i_rdnss,1,2013,NA,51,Chinese,
+i_rdnss,1,2013,NA,50,All pupils,
+rdnss_lng,1,2019,NA,77,Pupils whose first language is English,
+rdnss_lng,1,2019,NA,71,Pupils whose first language is other than English,
+rdnss_lng,1,2019,NA,73,All Pupils,
+rdnss_lng,1,2018,NA,76,Pupils whose first language is English,
+rdnss_lng,1,2018,NA,70,Pupils whose first language is other than English,
+rdnss_lng,1,2018,NA,73,All Pupils,
+rdnss_lng,1,2017,NA,76,Pupils whose first language is English,
+rdnss_lng,1,2017,NA,69,Pupils whose first language is other than English,
+rdnss_lng,1,2017,NA,72,All Pupils,
+rdnss_lng,1,2016,NA,74,Pupils whose first language is English,
+rdnss_lng,1,2016,NA,67,Pupils whose first language is other than English,
+rdnss_lng,1,2016,NA,70,All Pupils,
+rdnss_lng,1,2015,NA,71,Pupils whose first language is English,
+rdnss_lng,1,2015,NA,63,Pupils whose first language is other than English,
+rdnss_lng,1,2015,NA,66,All Pupils,
+rdnss_lng,1,2014,NA,65,Pupils whose first language is English,
+rdnss_lng,1,2014,NA,56,Pupils whose first language is other than English,
+rdnss_lng,1,2014,NA,60,All Pupils,
+rdnss_lng,1,2013,NA,54,Pupils whose first language is English,
+rdnss_lng,1,2013,NA,46,Pupils whose first language is other than English,
+rdnss_lng,1,2013,NA,50,All Pupils,
+hsaff,1,11/12-13/14,NA,26,Working-age adults,
+hsaff,1,11/12-13/14,NA,18,Pensioners,
+hsaff,1,11/12-13/14,NA,27,All,
+hsaff,1,12/13-14/15,NA,26,Working-age adults,
+hsaff,1,12/13-14/15,NA,18,Pensioners,
+hsaff,1,12/13-14/15,NA,27,All,
+hsaff,1,13/14-15/16,NA,25,Working-age adults,
+hsaff,1,13/14-15/16,NA,19,Pensioners,
+hsaff,1,13/14-15/16,NA,27,All,
+hsaff,1,14/15-16/17,NA,26,Working-age adults,
+hsaff,1,14/15-16/17,NA,21,Pensioners,
+hsaff,1,14/15-16/17,NA,28,All,
+hsaff,1,15/16-17/18,NA,25,Working-age adults,
+hsaff,1,15/16-17/18,NA,24,Pensioners,
+hsaff,1,15/16-17/18,NA,28,All,
+hmlage,1,2016/17,NA,0.1638981173864895,16-24,Proportion of total households accepted as statutorily homeless
+hmlage,1,2017/18,NA,0.1640826873385013,16-24,Proportion of total households accepted as statutorily homeless
+hmlage,1,2018/19,NA,0.16994838463008985,16-24,Households assessed as owed a duty
+hmlage,1,2016/17,NA,0.6079734219269103,25-44,Proportion of total households accepted as statutorily homeless
+hmlage,1,2017/18,NA,0.6001291989664083,25-44,Proportion of total households accepted as statutorily homeless
+hmlage,1,2018/19,NA,0.5434907283502198,25-44,Households assessed as owed a duty
+hmlage,1,2016/17,NA,0.20155038759689922,45-64,Proportion of total households accepted as statutorily homeless
+hmlage,1,2017/18,NA,0.20671834625322996,45-64,Proportion of total households accepted as statutorily homeless
+hmlage,1,2018/19,NA,0.2519594723762187,45-64,Households assessed as owed a duty
+hmlage,1,2016/17,NA,0.018826135105204873,65-74,Proportion of total households accepted as statutorily homeless
+hmlage,1,2017/18,NA,0.020671834625323,65-74,Proportion of total households accepted as statutorily homeless
+hmlage,1,2018/19,NA,0.02504301280825846,65-74,Households assessed as owed a duty
+hmlage,1,2016/17,NA,0.008305647840531562,75 & Over,Proportion of total households accepted as statutorily homeless
+hmlage,1,2017/18,NA,0.00904392764857881,75 & Over,Proportion of total households accepted as statutorily homeless
+hmlage,1,2018/19,NA,0.008602561651691838,75 & Over,Households assessed as owed a duty
+ca_rp,2,,18632,11725,Furloughed,05 Jan
+ca_rp,2,,18631,9124,Furloughed,04 Jan
+ca_rp,2,,18630,2103,Furloughed,03 Jan
+ca_rp,2,,18629,1395,Furloughed,02 Jan
+ca_rp,2,,18628,1074,Furloughed,01 Jan
+ca_rp,2,,18627,1489,Furloughed,31 Dec
+ca_rp,2,,18626,1907,Furloughed,30 Dec
+ca_rp,2,,18625,1249,Furloughed,29 Dec
+ca_rp,2,,18624,906,Furloughed,28 Dec
+ca_rp,2,,18623,648,Furloughed,27 Dec
+ca_rp,2,,18622,485,Furloughed,26 Dec
+ca_rp,2,,18621,265,Furloughed,25 Dec
+ca_rp,2,,18620,610,Furloughed,24 Dec
+ca_rp,2,,18619,1158,Furloughed,23 Dec
+ca_rp,2,,18618,1302,Furloughed,22 Dec
+ca_rp,2,,18617,1375,Furloughed,21 Dec
+ca_rp,2,,18616,1090,Furloughed,20 Dec
+ca_rp,2,,18615,949,Furloughed,19 Dec
+ca_rp,2,,18614,1226,Furloughed,18 Dec
+ca_rp,2,,18613,1318,Furloughed,17 Dec
+ca_rp,2,,18612,865,Furloughed,16 Dec
+ca_rp,2,,18611,1006,Furloughed,15 Dec
+ca_rp,2,,18610,986,Furloughed,14 Dec
+ca_rp,2,,18609,520,Furloughed,13 Dec
+ca_rp,2,,18608,446,Furloughed,12 Dec
+ca_rp,2,,18607,789,Furloughed,11 Dec
+ca_rp,2,,18606,980,Furloughed,10 Dec
+ca_rp,2,,18605,1059,Furloughed,09 Dec
+ca_rp,2,,18604,1090,Furloughed,08 Dec
+ca_rp,2,,18603,1120,Furloughed,07 Dec
+ca_rp,2,,18602,675,Furloughed,06 Dec
+ca_rp,2,,18601,633,Furloughed,05 Dec
+ca_rp,2,,18600,1191,Furloughed,04 Dec
+ca_rp,2,,18599,1513,Furloughed,03 Dec
+ca_rp,2,,18598,1560,Furloughed,02 Dec
+ca_rp,2,,18632,8904,Worried about working,05 Jan
+ca_rp,2,,18631,6257,Worried about working,04 Jan
+ca_rp,2,,18630,1737,Worried about working,03 Jan
+ca_rp,2,,18629,1090,Worried about working,02 Jan
+ca_rp,2,,18628,757,Worried about working,01 Jan
+ca_rp,2,,18627,928,Worried about working,31 Dec
+ca_rp,2,,18626,1266,Worried about working,30 Dec
+ca_rp,2,,18625,724,Worried about working,29 Dec
+ca_rp,2,,18624,571,Worried about working,28 Dec
+ca_rp,2,,18623,352,Worried about working,27 Dec
+ca_rp,2,,18622,282,Worried about working,26 Dec
+ca_rp,2,,18621,114,Worried about working,25 Dec
+ca_rp,2,,18620,240,Worried about working,24 Dec
+ca_rp,2,,18619,498,Worried about working,23 Dec
+ca_rp,2,,18618,588,Worried about working,22 Dec
+ca_rp,2,,18617,791,Worried about working,21 Dec
+ca_rp,2,,18616,671,Worried about working,20 Dec
+ca_rp,2,,18615,456,Worried about working,19 Dec
+ca_rp,2,,18614,349,Worried about working,18 Dec
+ca_rp,2,,18613,493,Worried about working,17 Dec
+ca_rp,2,,18612,392,Worried about working,16 Dec
+ca_rp,2,,18611,454,Worried about working,15 Dec
+ca_rp,2,,18610,464,Worried about working,14 Dec
+ca_rp,2,,18609,258,Worried about working,13 Dec
+ca_rp,2,,18608,192,Worried about working,12 Dec
+ca_rp,2,,18607,273,Worried about working,11 Dec
+ca_rp,2,,18606,397,Worried about working,10 Dec
+ca_rp,2,,18605,373,Worried about working,09 Dec
+ca_rp,2,,18604,370,Worried about working,08 Dec
+ca_rp,2,,18603,468,Worried about working,07 Dec
+ca_rp,2,,18602,272,Worried about working,06 Dec
+ca_rp,2,,18601,210,Worried about working,05 Dec
+ca_rp,2,,18600,393,Worried about working,04 Dec
+ca_rp,2,,18599,505,Worried about working,03 Dec
+ca_rp,2,,18598,755,Worried about working,02 Dec
+ca_rp,2,,18632,2756,Self-isolating: getting benefits,05 Jan
+ca_rp,2,,18631,2708,Self-isolating: getting benefits,04 Jan
+ca_rp,2,,18630,1686,Self-isolating: getting benefits,03 Jan
+ca_rp,2,,18629,1372,Self-isolating: getting benefits,02 Jan
+ca_rp,2,,18628,985,Self-isolating: getting benefits,01 Jan
+ca_rp,2,,18627,1111,Self-isolating: getting benefits,31 Dec
+ca_rp,2,,18626,1307,Self-isolating: getting benefits,30 Dec
+ca_rp,2,,18625,1284,Self-isolating: getting benefits,29 Dec
+ca_rp,2,,18624,1136,Self-isolating: getting benefits,28 Dec
+ca_rp,2,,18623,898,Self-isolating: getting benefits,27 Dec
+ca_rp,2,,18622,739,Self-isolating: getting benefits,26 Dec
+ca_rp,2,,18621,318,Self-isolating: getting benefits,25 Dec
+ca_rp,2,,18620,535,Self-isolating: getting benefits,24 Dec
+ca_rp,2,,18619,820,Self-isolating: getting benefits,23 Dec
+ca_rp,2,,18618,1015,Self-isolating: getting benefits,22 Dec
+ca_rp,2,,18617,1171,Self-isolating: getting benefits,21 Dec
+ca_rp,2,,18616,917,Self-isolating: getting benefits,20 Dec
+ca_rp,2,,18615,832,Self-isolating: getting benefits,19 Dec
+ca_rp,2,,18614,1134,Self-isolating: getting benefits,18 Dec
+ca_rp,2,,18613,1243,Self-isolating: getting benefits,17 Dec
+ca_rp,2,,18612,1341,Self-isolating: getting benefits,16 Dec
+ca_rp,2,,18611,1381,Self-isolating: getting benefits,15 Dec
+ca_rp,2,,18610,1666,Self-isolating: getting benefits,14 Dec
+ca_rp,2,,18609,1123,Self-isolating: getting benefits,13 Dec
+ca_rp,2,,18608,866,Self-isolating: getting benefits,12 Dec
+ca_rp,2,,18607,1366,Self-isolating: getting benefits,11 Dec
+ca_rp,2,,18606,1886,Self-isolating: getting benefits,10 Dec
+ca_rp,2,,18605,1436,Self-isolating: getting benefits,09 Dec
+ca_rp,2,,18604,1373,Self-isolating: getting benefits,08 Dec
+ca_rp,2,,18603,1514,Self-isolating: getting benefits,07 Dec
+ca_rp,2,,18602,1100,Self-isolating: getting benefits,06 Dec
+ca_rp,2,,18601,889,Self-isolating: getting benefits,05 Dec
+ca_rp,2,,18600,1213,Self-isolating: getting benefits,04 Dec
+ca_rp,2,,18599,1465,Self-isolating: getting benefits,03 Dec
+ca_rp,2,,18598,1562,Self-isolating: getting benefits,02 Dec
+prvspc_eth,1,All,NA,0.1918371850130576,,
+prvspc_eth,1,White,NA,0.18,,
+prvspc_eth,1,Indian,NA,0.11,,
+prvspc_eth,1,Pakistani and Bangladeshi,NA,0.2,,
+prvspc_eth,1,Black,NA,0.22,,
+prvspc_eth,1,Other and Mixed,NA,0.28,,
+prvspc_age,1,All,NA,0.1918371850130576,,
+prvspc_age,1,18-24,NA,0.24,,
+prvspc_age,1,25-49,NA,0.21,,
+prvspc_age,1,50-64,NA,0.18,,
+prvspc_age,1,65+,NA,0.1,,
+empsx_gap,1,2012,NA,75.5,Employment rate males,
+empsx_gap,1,2012,NA,61,Employment rate females,
+empsx_gap,1,2013,NA,76.6,Employment rate males,
+empsx_gap,1,2013,NA,62.5,Employment rate females,
+empsx_gap,1,2014,NA,78.7,Employment rate males,
+empsx_gap,1,2014,NA,64,Employment rate females,
+empsx_gap,1,2015,NA,79.4,Employment rate males,
+empsx_gap,1,2015,NA,66.4,Employment rate females,
+empsx_gap,1,2016,NA,80.4,Employment rate males,
+empsx_gap,1,2016,NA,66.9,Employment rate females,
+empsx_gap,1,2017,NA,80.2,Employment rate males,
+empsx_gap,1,2017,NA,67.6,Employment rate females,
+empsx_gap,1,2018,NA,80.5,Employment rate males,
+empsx_gap,1,2018,NA,68,Employment rate females,
+empsx_gap,1,2019,NA,79.9,Employment rate males,
+empsx_gap,1,2019,NA,69,Employment rate females,
+empdis_gap,1,2011,NA,45,Employment rate disabled,
+empdis_gap,1,2011,NA,71.8,Employment rate not disabled,
+empdis_gap,1,2012,NA,47.1,Employment rate disabled,
+empdis_gap,1,2012,NA,72.7,Employment rate not disabled,
+empdis_gap,1,2013,NA,NA,Employment rate disabled,
+empdis_gap,1,2013,NA,NA,Employment rate not disabled,
+empdis_gap,1,2014,NA,48.9,Employment rate disabled,
+empdis_gap,1,2014,NA,75.8,Employment rate not disabled,
+empdis_gap,1,2015,NA,49.9,Employment rate disabled,
+empdis_gap,1,2015,NA,77.5,Employment rate not disabled,
+empdis_gap,1,2016,NA,51.6,Employment rate disabled,
+empdis_gap,1,2016,NA,78.2,Employment rate not disabled,
+empdis_gap,1,2017,NA,51.2,Employment rate disabled,
+empdis_gap,1,2017,NA,78.4,Employment rate not disabled,
+empdis_gap,1,2018,NA,51.8,Employment rate disabled,
+empdis_gap,1,2018,NA,78.9,Employment rate not disabled,
+empdis_gap,1,2019,NA,54.3,Employment rate disabled,
+empdis_gap,1,2019,NA,78.8,Employment rate not disabled,
+chovrcrw,1,2012/13 to 2014/15,NA,0.22,,
+chovrcrw,1,2013/14 to 2015/16,NA,0.22,,
+chovrcrw,1,2014/15 to 2016/17,NA,0.22,,
+chapp,1,Family,NA,8.1,,
+chapp,1,Health,NA,8.1,,
+chapp,1,Home,NA,8,,
+chapp,1,Time use,NA,7.2,,
+chapp,1,Things,NA,7.3,,
+chapp,1,Friends,NA,7.4,,
+chapp,1,Future,NA,6.7,,
+chapp,1,School,NA,7,,
+chapp,1,Appearance,NA,7,,
+chapp,1,Choice,NA,6.8,,
+hmls,2,,17956,13380,,
+hmls,2,,17956,13380,,
+hmls,2,,18048,13200,,
+hmls,2,,18048,13200,,
+hmls,2,,18140,13560,,
+hmls,2,,18140,13560,,
+hmls,2,,18231,12900,,
+hmls,2,,18231,12900,,
+hmls,2,,18322,13680,,
+hmls,2,,18322,13680,,
+hmls,2,,18414,12940,,
+hmls,2,,18414,12940,,
+intvst,1,2012,NA,15.4608642466776,,
+intvst,1,2013,NA,16.81075822208821,,
+intvst,1,2014,NA,17.40421564968302,,
+intvst,1,2015,NA,18.581145357102148,,
+intvst,1,2016,NA,19.05954589808511,,
+intvst,1,2017,NA,19.82781582088395,,
+intvst,1,2018,NA,19.09021079521398,,
+intvst,1,2019,NA,21.7,,
+cnc,2,,17897,0.9302643901736186,,
+cnc,2,,17928,0.9445311082894976,,
+cnc,2,,17956,0.9369348709212423,,
+cnc,2,,17987,0.9295852956567242,,
+cnc,2,,18017,0.931242538637757,,
+cnc,2,,18048,0.9286910272825766,,
+cnc,2,,18078,0.9292819884274435,,
+cnc,2,,18109,0.9242915504831074,,
+cnc,2,,18140,0.9231657429400897,,
+cnc,2,,18170,0.9285566124396243,,
+cnc,2,,18201,0.9283306039880551,,
+cnc,2,,18231,0.9274942195534389,,
+cnc,2,,18262,0.9087416908841901,,
+cnc,2,,18293,0.9329734900245968,,
+cnc,2,,18322,0.9162950130846633,,
+cnc,2,,18353,0.8691705233179067,,
+cnc,2,,18383,0.9330855018587361,,
+cnc,2,,18414,0.9121915487799295,,
+cnc,2,,18444,0.9082900557799577,,
+cnc,2,,18475,0.9123256363779652,,
+llw,1,2019,NA,839000,,
+llw,1,2018,NA,871000,,
+llw,1,2017,NA,814000,,
+llw,1,2016,NA,802000,,
+llw,1,2015,NA,798000,,
+llw,1,2014,NA,755000,,
+llw,1,2013,NA,669000,,
+llw,1,2012,NA,611000,,
+inswk,1,2012,NA,9.2,London,
+inswk,1,2013,NA,9.2,London,
+inswk,1,2014,NA,9.2,London,
+inswk,1,2015,NA,9.3,London,
+inswk,1,2016,NA,9.4,London,
+inswk,1,2017,NA,9.9,London,
+inswk,1,2018,NA,9.2,London,
+inswk,1,2019,NA,8.9,London,
+inswk,1,2012,NA,8.8,UK,
+inswk,1,2013,NA,8.8,UK,
+inswk,1,2014,NA,8.9,UK,
+inswk,1,2015,NA,8.7,UK,
+inswk,1,2016,NA,8.8,UK,
+inswk,1,2017,NA,8.8,UK,
+inswk,1,2018,NA,8.6,UK,
+inswk,1,2019,NA,8.4,UK,
+intst,1,2017/18,NA,118145,,
+intst,1,2018/19,NA,125035,,
+bics,2,,18553,0.037,,
+bics,2,,18567,0.043,,
+bics,2,,18595,0.051,,
+bics,2,,18609,0.04,,
+bics,2,,18619,0.039,,
+bics,2,,18637,0.065,,
+bics,2,,18651,0.051,,
+ae,1,Barking and Dagenham,NA,4830,,000000004830
+ae,1,Barnet,NA,7110,,000000007110
+ae,1,Bexley,NA,3620,,000000003620
+ae,1,Brent,NA,8300,,000000008300
+ae,1,Bromley,NA,5030,,000000005030
+ae,1,Camden,NA,6850,,000000006850
+ae,1,City of London,NA,290,,000000000290
+ae,1,Croydon,NA,7990,,000000007990
+ae,1,Ealing,NA,7400,,000000007400
+ae,1,Enfield,NA,7810,,000000007810
+ae,1,Greenwich,NA,6410,,000000006410
+ae,1,Hackney,NA,6960,,000000006960
+ae,1,Hammersmith and Fulham,NA,4300,,000000004300
+ae,1,Haringey,NA,8890,,000000008890
+ae,1,Harrow,NA,5160,,000000005160
+ae,1,Havering,NA,3560,,000000003560
+ae,1,Hillingdon,NA,5150,,000000005150
+ae,1,Hounslow,NA,5410,,000000005410
+ae,1,Islington,NA,6140,,000000006140
+ae,1,Kensington and Chelsea,NA,2880,,000000002880
+ae,1,Kingston upon Thames,NA,2390,,000000002390
+ae,1,Lambeth,NA,8600,,000000008600
+ae,1,Lewisham,NA,7960,,000000007960
+ae,1,Merton,NA,4180,,000000004180
+ae,1,Newham,NA,10550,,000000010550
+ae,1,Redbridge,NA,6870,,000000006870
+ae,1,Richmond upon Thames,NA,4150,,000000004150
+ae,1,Southwark,NA,8690,,000000008690
+ae,1,Sutton,NA,3410,,000000003410
+ae,1,Tower Hamlets,NA,8250,,000000008250
+ae,1,Waltham Forest,NA,7360,,000000007360
+ae,1,Wandsworth,NA,6330,,000000006330
+ae,1,Westminster,NA,4640,,000000004640
+aeme,1,Level 1,NA,460,English,Level 1
+aeme,1,Level 2,NA,410,English,Level 2
+aeme,1,Level 1,NA,720,Maths,Level 1
+aeme,1,Level 2,NA,460,Maths,Level 2
+aelw,1,Fully funded due to receipt of low wage,NA,19390,,1
+aelw,1,Fully funded due to reasons other than receipt of low wage,NA,77040,,2
+aelw,1,"Co-funded, as not in receipt of low wage",NA,44200,,3
+rghlsp,1,2020Q4,NA,1582,New to streets,
+rghlsp,1,2020Q4,NA,3307,Total seen,
+rghlsp,1,2020Q3,NA,1901,New to streets,
+rghlsp,1,2020Q3,NA,3444,Total seen,
+rghlsp,1,2020Q2,NA,2680,New to streets,
+rghlsp,1,2020Q2,NA,4227,Total seen,
+rghlsp,1,2020Q1,NA,1841,New to streets,
+rghlsp,1,2020Q1,NA,3692,Total seen,
+rghlsp,1,2019Q4,NA,1729,New to streets,
+rghlsp,1,2019Q4,NA,3637,Total seen,
+rghlsp,1,2019Q3,NA,2069,New to streets,
+rghlsp,1,2019Q3,NA,3985,Total seen,
+rghlsp,1,2019Q2,NA,1513,New to streets,
+rghlsp,1,2019Q2,NA,3172,Total seen,
+rghlsp,1,2019Q1,NA,1558,New to streets,
+rghlsp,1,2019Q1,NA,3217,Total seen,
+rghlsp,1,2018Q4,NA,1551,New to streets,
+rghlsp,1,2018Q4,NA,3289,Total seen,
+rghlsp,1,2018Q3,NA,1382,New to streets,
+rghlsp,1,2018Q3,NA,3103,Total seen,
+rghlsp,1,2018Q2,NA,1087,New to streets,
+rghlsp,1,2018Q2,NA,2595,Total seen,
+mar,2,,17622,108835,All specialties: Elective total by Provider,
+mar,2,,17622,103785,All specialties: Non-Elective by Provider,
+mar,2,,17652,118925,All specialties: Elective total by Provider,
+mar,2,,17652,112050,All specialties: Non-Elective by Provider,
+mar,2,,17683,116575,All specialties: Elective total by Provider,
+mar,2,,17683,108480,All specialties: Non-Elective by Provider,
+mar,2,,17713,117525,All specialties: Elective total by Provider,
+mar,2,,17713,111760,All specialties: Non-Elective by Provider,
+mar,2,,17744,112755,All specialties: Elective total by Provider,
+mar,2,,17744,108310,All specialties: Non-Elective by Provider,
+mar,2,,17775,108860,All specialties: Elective total by Provider,
+mar,2,,17775,107510,All specialties: Non-Elective by Provider,
+mar,2,,17805,125045,All specialties: Elective total by Provider,
+mar,2,,17805,113960,All specialties: Non-Elective by Provider,
+mar,2,,17836,123515,All specialties: Elective total by Provider,
+mar,2,,17836,112930,All specialties: Non-Elective by Provider,
+mar,2,,17866,101030,All specialties: Elective total by Provider,
+mar,2,,17866,113195,All specialties: Non-Elective by Provider,
+mar,2,,17897,121645,All specialties: Elective total by Provider,
+mar,2,,17897,114725,All specialties: Non-Elective by Provider,
+mar,2,,17928,113650,All specialties: Elective total by Provider,
+mar,2,,17928,104145,All specialties: Non-Elective by Provider,
+mar,2,,17956,121450,All specialties: Elective total by Provider,
+mar,2,,17956,114740,All specialties: Non-Elective by Provider,
+mar,2,,17987,113195,All specialties: Elective total by Provider,
+mar,2,,17987,111580,All specialties: Non-Elective by Provider,
+mar,2,,18017,121685,All specialties: Elective total by Provider,
+mar,2,,18017,115815,All specialties: Non-Elective by Provider,
+mar,2,,18048,116745,All specialties: Elective total by Provider,
+mar,2,,18048,109850,All specialties: Non-Elective by Provider,
+mar,2,,18078,128945,All specialties: Elective total by Provider,
+mar,2,,18078,115380,All specialties: Non-Elective by Provider,
+mar,2,,18109,116000,All specialties: Elective total by Provider,
+mar,2,,18109,109595,All specialties: Non-Elective by Provider,
+mar,2,,18140,118650,All specialties: Elective total by Provider,
+mar,2,,18140,108710,All specialties: Non-Elective by Provider,
+mar,2,,18170,130980,All specialties: Elective total by Provider,
+mar,2,,18170,116100,All specialties: Non-Elective by Provider,
+mar,2,,18201,123755,All specialties: Elective total by Provider,
+mar,2,,18201,113675,All specialties: Non-Elective by Provider,
+mar,2,,18231,106350,All specialties: Elective total by Provider,
+mar,2,,18231,113610,All specialties: Non-Elective by Provider,
+mar,2,,18262,125865,All specialties: Elective total by Provider,
+mar,2,,18262,113935,All specialties: Non-Elective by Provider,
+mar,2,,18293,118680,All specialties: Elective total by Provider,
+mar,2,,18293,104900,All specialties: Non-Elective by Provider,
+mar,2,,18322,85905,All specialties: Elective total by Provider,
+mar,2,,18322,93880,All specialties: Non-Elective by Provider,
+mar,2,,18353,27260,All specialties: Elective total by Provider,
+mar,2,,18353,73235,All specialties: Non-Elective by Provider,
+mar,2,,18383,35320,All specialties: Elective total by Provider,
+mar,2,,18383,84195,All specialties: Non-Elective by Provider,
+mar,2,,18414,53015,All specialties: Elective total by Provider,
+mar,2,,18414,92165,All specialties: Non-Elective by Provider,
+mar,2,,18444,74725,All specialties: Elective total by Provider,
+mar,2,,18444,100430,All specialties: Non-Elective by Provider,
+mar,2,,18475,79790,All specialties: Elective total by Provider,
+mar,2,,18475,97090,All specialties: Non-Elective by Provider,
+mar,2,,18506,94515,All specialties: Elective total by Provider,
+mar,2,,18506,99740,All specialties: Non-Elective by Provider,
+mar,2,,18536,105120,All specialties: Elective total by Provider,
+mar,2,,18536,101800,All specialties: Non-Elective by Provider,
+mar,2,,18567,102165,All specialties: Elective total by Provider,
+mar,2,,18567,95775,All specialties: Non-Elective by Provider,
+mar,2,,18597,87265,All specialties: Elective total by Provider,
+mar,2,,18597,95330,All specialties: Non-Elective by Provider,
+prvl,1,2015-16,NA,4.63,Asthma,
+prvl,1,2015-16,NA,1.66,Cancer,
+prvl,1,2015-16,NA,2.39,Chronic kidney disease,
+prvl,1,2015-16,NA,6.04,Depression,
+prvl,1,2015-16,NA,6.32,Diabetes mellitus,
+prvl,1,2015-16,NA,11.04,Hypertension,
+prvl,1,2015-16,NA,7.62,Obesity,
+prvl,1,2016-17,NA,4.62,Asthma,
+prvl,1,2016-17,NA,1.75,Cancer,
+prvl,1,2016-17,NA,2.4,Chronic kidney disease,
+prvl,1,2016-17,NA,6.63,Depression,
+prvl,1,2016-17,NA,6.46,Diabetes mellitus,
+prvl,1,2016-17,NA,11.08,Hypertension,
+prvl,1,2016-17,NA,7.85,Obesity,
+prvl,1,2017-18,NA,4.52,Asthma,
+prvl,1,2017-18,NA,1.85,Cancer,
+prvl,1,2017-18,NA,2.42,Chronic kidney disease,
+prvl,1,2017-18,NA,7.11,Depression,
+prvl,1,2017-18,NA,6.51,Diabetes mellitus,
+prvl,1,2017-18,NA,11.03,Hypertension,
+prvl,1,2017-18,NA,7.73,Obesity,
+prvl,1,2018-19,NA,4.6,Asthma,
+prvl,1,2018-19,NA,2.03,Cancer,
+prvl,1,2018-19,NA,2.44,Chronic kidney disease,
+prvl,1,2018-19,NA,7.65,Depression,
+prvl,1,2018-19,NA,6.63,Diabetes mellitus,
+prvl,1,2018-19,NA,10.96,Hypertension,
+prvl,1,2018-19,NA,8.06,Obesity,
+prvl,1,2019-20,NA,4.95,Asthma,
+prvl,1,2019-20,NA,2.14,Cancer,
+prvl,1,2019-20,NA,2.41,Chronic kidney disease,
+prvl,1,2019-20,NA,8.2,Depression,
+prvl,1,2019-20,NA,6.76,Diabetes mellitus,
+prvl,1,2019-20,NA,11.02,Hypertension,
+prvl,1,2019-20,NA,8.46,Obesity,
+eiss,1,Barking and Dagenham,NA,0.71,,
+eiss,1,Barnet,NA,0.62,,
+eiss,1,Bexley,NA,0.63,,
+eiss,1,Brent,NA,0.67,,
+eiss,1,Bromley,NA,0.58,,
+eiss,1,Camden,NA,0.53,,
+eiss,1,City of London,NA,0.39,,
+eiss,1,Croydon,NA,0.61,,
+eiss,1,Ealing,NA,0.59,,
+eiss,1,Enfield,NA,0.64,,
+eiss,1,Greenwich,NA,0.64,,
+eiss,1,Hackney,NA,0.56,,
+eiss,1,Hammersmith and Fulham,NA,0.53,,
+eiss,1,Haringey,NA,0.61,,
+eiss,1,Harrow,NA,0.71,,
+eiss,1,Havering,NA,0.67,,
+eiss,1,Hillingdon,NA,0.63,,
+eiss,1,Hounslow,NA,0.63,,
+eiss,1,Islington,NA,0.55,,
+eiss,1,Kensington and Chelsea,NA,0.49,,
+eiss,1,Kingston upon Thames,NA,0.56,,
+eiss,1,Lambeth,NA,0.56,,
+eiss,1,Lewisham,NA,0.59,,
+eiss,1,Merton,NA,0.59,,
+eiss,1,Newham,NA,0.72,,
+eiss,1,Redbridge,NA,0.7,,
+eiss,1,Richmond upon Thames,NA,0.51,,
+eiss,1,Southwark,NA,0.57,,
+eiss,1,Sutton,NA,0.6,,
+eiss,1,Tower Hamlets,NA,0.63,,
+eiss,1,Waltham Forest,NA,0.67,,
+eiss,1,Wandsworth,NA,0.54,,
+eiss,1,Westminster,NA,0.52,,
+eiss,1,London,NA,0.62,,
+eiss,1,United Kingdom,NA,0.57,,
+eiss,1,NA,NA,NA,,
+eiss,1,Source: HMRC SEISS,NA,NA,,
+gg_dat,1,2010/11,NA,24157.1,,
+gg_dat,1,2011/12,NA,25418.4,,
+gg_dat,1,2012/13,NA,26742.6,,
+gg_dat,1,2013/14,NA,28499.9,,
+gg_dat,1,2014/15,NA,30436.4,,
+gg_dat,1,2015/16,NA,32983.1,,
+gg_dat,1,2016/17,NA,36016.2,,
+gg_dat,1,2017/18,NA,39697.3,,
+ggemp,1,2010/11,NA,163840,,
+ggemp,1,2011/12,NA,163672,,
+ggemp,1,2012/13,NA,171222,,
+ggemp,1,2013/14,NA,181538,,
+ggemp,1,2014/15,NA,192416,,
+ggemp,1,2015/16,NA,207049,,
+ggemp,1,2016/17,NA,224659,,
+ggemp,1,2017/18,NA,246073,,
+epc,1,2012 Q1,NA,0.4287032377117933,,
+epc,1,2012 Q2,NA,0.40942605175654184,,
+epc,1,2012 Q3,NA,0.4470814624759461,,
+epc,1,2012 Q4,NA,0.43586333028514423,,
+epc,1,2013 Q1,NA,0.4002026342451874,,
+epc,1,2013 Q2,NA,0.39632763433356594,,
+epc,1,2013 Q3,NA,0.40202710836122013,,
+epc,1,2013 Q4,NA,0.3911143585776097,,
+epc,1,2014 Q1,NA,0.3864997764863657,,
+epc,1,2014 Q2,NA,0.3753618154451777,,
+epc,1,2014 Q3,NA,0.3589717283932523,,
+epc,1,2014 Q4,NA,0.36315243008059067,,
+epc,1,2015 Q1,NA,0.38022010271460016,,
+epc,1,2015 Q2,NA,0.41062963413151815,,
+epc,1,2015 Q3,NA,0.4218104719764012,,
+epc,1,2015 Q4,NA,0.4364736219632782,,
+epc,1,2016 Q1,NA,0.410297409657819,,
+epc,1,2016 Q2,NA,0.4513115343154869,,
+epc,1,2016 Q3,NA,0.4499689496985116,,
+epc,1,2016 Q4,NA,0.46580352072685977,,
+epc,1,2017 Q1,NA,0.4644149811284235,,
+epc,1,2017 Q2,NA,0.4661487727685191,,
+epc,1,2017 Q3,NA,0.4770564061069352,,
+epc,1,2017 Q4,NA,0.5038806420013563,,
+epc,1,2018 Q1,NA,0.445928303905832,,
+epc,1,2018 Q2,NA,0.45844641938516667,,
+epc,1,2018 Q3,NA,0.4865894159266479,,
+epc,1,2018 Q4,NA,0.5285420395055946,,
+epc,1,2019 Q1,NA,0.5128730705922544,,
+epc,1,2019 Q2,NA,0.5128508168272395,,
+epc,1,2019 Q3,NA,0.5055990137517061,,
+epc,1,2019 Q4,NA,0.542090140382563,,
+epc,1,2020 Q1,NA,0.5265394786550812,,
+epc,1,2020 Q2,NA,0.5446366282566335,,
+aqno2,2,,16467,64.69583333333325,,Feb 15
+aqno2,2,,16495,55.8028225806452,,Mar 15
+aqno2,2,,16526,56.16138888888891,,Apr 15
+aqno2,2,,16556,48.55779569892472,,May 15
+aqno2,2,,16587,50.52902777777782,,Jun 15
+aqno2,2,,16617,49.50053763440859,,Jul 15
+aqno2,2,,16648,49.004838709677394,,Aug 15
+aqno2,2,,16679,56.971666666666614,,Sep 15
+aqno2,2,,16709,58.51706989247306,,Oct 15
+aqno2,2,,16740,53.93208333333332,,Nov 15
+aqno2,2,,16770,47.17486559139782,,Dec 15
+aqno2,2,,16801,60.036827956989285,,Jan 16
+aqno2,2,,16832,58.68160919540234,,Feb 16
+aqno2,2,,16861,57.60510752688172,,Mar 16
+aqno2,2,,16892,58.78333333333329,,Apr 16
+aqno2,2,,16922,50.93481182795705,,May 16
+aqno2,2,,16953,48.74187500000005,,Jun 16
+aqno2,2,,16983,45.445295698924724,,Jul 16
+aqno2,2,,17014,47.58696236559144,,Aug 16
+aqno2,2,,17045,54.71513888888886,,Sep 16
+aqno2,2,,17075,58.28279569892472,,Oct 16
+aqno2,2,,17106,66.13777777777774,,Nov 16
+aqno2,2,,17136,69.72190860215052,,Dec 16
+aqno2,2,,17167,71.74166666666662,,Jan 17
+aqno2,2,,17198,54.693005952380894,,Feb 17
+aqno2,2,,17226,52.86411290322581,,Mar 17
+aqno2,2,,17257,51.14361111111108,,Apr 17
+aqno2,2,,17287,47.41505376344085,,May 17
+aqno2,2,,17318,45.571249999999964,,Jun 17
+aqno2,2,,17348,41.98454301075271,,Jul 17
+aqno2,2,,17379,44.25698924731179,,Aug 17
+aqno2,2,,17410,47.83458333333331,,Sep 17
+aqno2,2,,17440,47.443279569892496,,Oct 17
+aqno2,2,,17471,57.014583333333334,,Nov 17
+aqno2,2,,17501,52.85268817204303,,Dec 17
+aqno2,2,,17532,47.2877688172043,,Jan 18
+aqno2,2,,17563,51.4686011904762,,Feb 18
+aqno2,2,,17591,51.06962365591391,,Mar 18
+aqno2,2,,17622,46.778055555555525,,Apr 18
+aqno2,2,,17652,49.31505376344086,,May 18
+aqno2,2,,17683,39.40513888888883,,Jun 18
+aqno2,2,,17713,45.51209677419356,,Jul 18
+aqno2,2,,17744,39.20994623655913,,Aug 18
+aqno2,2,,17775,44.34819444444443,,Sep 18
+aqno2,2,,17805,47.6215053763441,,Oct 18
+aqno2,2,,17836,48.08958333333335,,Nov 18
+aqno2,2,,17866,48.46048387096772,,Dec 18
+aqno2,2,,17897,54.53361111111115,,Jan 19
+aqno2,2,,17928,56.95907738095237,,Feb 19
+aqno2,2,,17956,42.57540322580649,,Mar 19
+aqno2,2,,17987,46.22375000000005,,Apr 19
+aqno2,2,,18017,39.66572580645162,,May 19
+aqno2,2,,18048,34.86013888888886,,Jun 19
+aqno2,2,,18078,36.190053763440844,,Jul 19
+aqpm,2,,16467,28.16249999999999,PM10 Particulate (ug/m3),Feb 15
+aqpm,2,,16467,15.789880952380956,PM2.5 Particulate (ug/m3),Feb 15
+aqpm,2,,16495,31.15456989247309,PM10 Particulate (ug/m3),Mar 15
+aqpm,2,,16495,19.540053763440856,PM2.5 Particulate (ug/m3),Mar 15
+aqpm,2,,16526,25.544583333333357,PM10 Particulate (ug/m3),Apr 15
+aqpm,2,,16526,16.12930555555559,PM2.5 Particulate (ug/m3),Apr 15
+aqpm,2,,16556,20.13508064516128,PM10 Particulate (ug/m3),May 15
+aqpm,2,,16556,10.45604838709676,PM2.5 Particulate (ug/m3),May 15
+aqpm,2,,16587,22.599583333333335,PM10 Particulate (ug/m3),Jun 15
+aqpm,2,,16587,12.752499999999998,PM2.5 Particulate (ug/m3),Jun 15
+aqpm,2,,16617,20.00645161290323,PM10 Particulate (ug/m3),Jul 15
+aqpm,2,,16617,11.147580645161293,PM2.5 Particulate (ug/m3),Jul 15
+aqpm,2,,16648,20.514247311827972,PM10 Particulate (ug/m3),Aug 15
+aqpm,2,,16648,12.201612903225813,PM2.5 Particulate (ug/m3),Aug 15
+aqpm,2,,16679,20.42486111111111,PM10 Particulate (ug/m3),Sep 15
+aqpm,2,,16679,12.568888888888893,PM2.5 Particulate (ug/m3),Sep 15
+aqpm,2,,16709,26.014247311827937,PM10 Particulate (ug/m3),Oct 15
+aqpm,2,,16709,18.574462365591405,PM2.5 Particulate (ug/m3),Oct 15
+aqpm,2,,16740,21.824722222222206,PM10 Particulate (ug/m3),Nov 15
+aqpm,2,,16740,12.732638888888895,PM2.5 Particulate (ug/m3),Nov 15
+aqpm,2,,16770,24.14704301075268,PM10 Particulate (ug/m3),Dec 15
+aqpm,2,,16770,11.863844086021501,PM2.5 Particulate (ug/m3),Dec 15
+aqpm,2,,16801,23.206989247311824,PM10 Particulate (ug/m3),Jan 16
+aqpm,2,,16801,13.59784946236559,PM2.5 Particulate (ug/m3),Jan 16
+aqpm,2,,16832,23.089655172413774,PM10 Particulate (ug/m3),Feb 16
+aqpm,2,,16832,13.04798850574713,PM2.5 Particulate (ug/m3),Feb 16
+aqpm,2,,16861,26.07150537634409,PM10 Particulate (ug/m3),Mar 16
+aqpm,2,,16861,18.0366935483871,PM2.5 Particulate (ug/m3),Mar 16
+aqpm,2,,16892,21.074861111111115,PM10 Particulate (ug/m3),Apr 16
+aqpm,2,,16892,12.543055555555565,PM2.5 Particulate (ug/m3),Apr 16
+aqpm,2,,16922,22.38467741935483,PM10 Particulate (ug/m3),May 16
+aqpm,2,,16922,13.830510752688179,PM2.5 Particulate (ug/m3),May 16
+aqpm,2,,16953,21.27659722222221,PM10 Particulate (ug/m3),Jun 16
+aqpm,2,,16953,12.606597222222218,PM2.5 Particulate (ug/m3),Jun 16
+aqpm,2,,16983,16.991129032258073,PM10 Particulate (ug/m3),Jul 16
+aqpm,2,,16983,10.93091397849462,PM2.5 Particulate (ug/m3),Jul 16
+aqpm,2,,17014,20.73387096774192,PM10 Particulate (ug/m3),Aug 16
+aqpm,2,,17014,12.710483870967746,PM2.5 Particulate (ug/m3),Aug 16
+aqpm,2,,17045,21.541388888888914,PM10 Particulate (ug/m3),Sep 16
+aqpm,2,,17045,12.899583333333329,PM2.5 Particulate (ug/m3),Sep 16
+aqpm,2,,17075,24.327822580645122,PM10 Particulate (ug/m3),Oct 16
+aqpm,2,,17075,16.74233870967742,PM2.5 Particulate (ug/m3),Oct 16
+aqpm,2,,17106,24.587777777777784,PM10 Particulate (ug/m3),Nov 16
+aqpm,2,,17106,14.518611111111102,PM2.5 Particulate (ug/m3),Nov 16
+aqpm,2,,17136,33.17930107526886,PM10 Particulate (ug/m3),Dec 16
+aqpm,2,,17136,23.883064516129018,PM2.5 Particulate (ug/m3),Dec 16
+aqpm,2,,17167,31.25430107526879,PM10 Particulate (ug/m3),Jan 17
+aqpm,2,,17167,23.840322580645157,PM2.5 Particulate (ug/m3),Jan 17
+aqpm,2,,17198,25.618005952380962,PM10 Particulate (ug/m3),Feb 17
+aqpm,2,,17198,18.439583333333367,PM2.5 Particulate (ug/m3),Feb 17
+aqpm,2,,17226,23.054435483870982,PM10 Particulate (ug/m3),Mar 17
+aqpm,2,,17226,13.534677419354841,PM2.5 Particulate (ug/m3),Mar 17
+aqpm,2,,17257,22.397916666666674,PM10 Particulate (ug/m3),Apr 17
+aqpm,2,,17257,12.796388888888892,PM2.5 Particulate (ug/m3),Apr 17
+aqpm,2,,17287,22.330645161290306,PM10 Particulate (ug/m3),May 17
+aqpm,2,,17287,12.83655913978495,PM2.5 Particulate (ug/m3),May 17
+aqpm,2,,17318,21.073055555555555,PM10 Particulate (ug/m3),Jun 17
+aqpm,2,,17318,11.40555555555555,PM2.5 Particulate (ug/m3),Jun 17
+aqpm,2,,17348,17.15819892473116,PM10 Particulate (ug/m3),Jul 17
+aqpm,2,,17348,9.408467741935477,PM2.5 Particulate (ug/m3),Jul 17
+aqpm,2,,17379,17.810483870967747,PM10 Particulate (ug/m3),Aug 17
+aqpm,2,,17379,10.236559139784958,PM2.5 Particulate (ug/m3),Aug 17
+aqpm,2,,17410,19.244583333333313,PM10 Particulate (ug/m3),Sep 17
+aqpm,2,,17410,12.087500000000011,PM2.5 Particulate (ug/m3),Sep 17
+aqpm,2,,17440,19.97311827956985,PM10 Particulate (ug/m3),Oct 17
+aqpm,2,,17440,10.863440860215048,PM2.5 Particulate (ug/m3),Oct 17
+aqpm,2,,17471,22.804583333333362,PM10 Particulate (ug/m3),Nov 17
+aqpm,2,,17471,13.383055555555554,PM2.5 Particulate (ug/m3),Nov 17
+aqpm,2,,17501,17.50618279569893,PM10 Particulate (ug/m3),Dec 17
+aqpm,2,,17501,9.884408602150524,PM2.5 Particulate (ug/m3),Dec 17
+aqpm,2,,17532,19.253360215053746,PM10 Particulate (ug/m3),Jan 18
+aqpm,2,,17532,10.281989247311834,PM2.5 Particulate (ug/m3),Jan 18
+aqpm,2,,17563,23.483482142857138,PM10 Particulate (ug/m3),Feb 18
+aqpm,2,,17563,11.91830357142857,PM2.5 Particulate (ug/m3),Feb 18
+aqpm,2,,17591,26.291532258064507,PM10 Particulate (ug/m3),Mar 18
+aqpm,2,,17591,14.989919354838717,PM2.5 Particulate (ug/m3),Mar 18
+aqpm,2,,17622,25.677916666666682,PM10 Particulate (ug/m3),Apr 18
+aqpm,2,,17622,16.84486111111112,PM2.5 Particulate (ug/m3),Apr 18
+aqpm,2,,17652,29.30806451612902,PM10 Particulate (ug/m3),May 18
+aqpm,2,,17652,18.900000000000002,PM2.5 Particulate (ug/m3),May 18
+aqpm,2,,17683,21.25236111111111,PM10 Particulate (ug/m3),Jun 18
+aqpm,2,,17683,10.441249999999995,PM2.5 Particulate (ug/m3),Jun 18
+aqpm,2,,17713,22.91935483870968,PM10 Particulate (ug/m3),Jul 18
+aqpm,2,,17713,11.808870967741935,PM2.5 Particulate (ug/m3),Jul 18
+aqpm,2,,17744,16.284946236559136,PM10 Particulate (ug/m3),Aug 18
+aqpm,2,,17744,7.8978494623655875,PM2.5 Particulate (ug/m3),Aug 18
+aqpm,2,,17775,18.960277777777783,PM10 Particulate (ug/m3),Sep 18
+aqpm,2,,17775,9.625833333333338,PM2.5 Particulate (ug/m3),Sep 18
+aqpm,2,,17805,19.320430107526878,PM10 Particulate (ug/m3),Oct 18
+aqpm,2,,17805,11.422849462365601,PM2.5 Particulate (ug/m3),Oct 18
+aqpm,2,,17836,23.891944444444448,PM10 Particulate (ug/m3),Nov 18
+aqpm,2,,17836,15.172500000000008,PM2.5 Particulate (ug/m3),Nov 18
+aqpm,2,,17866,19.69139784946236,PM10 Particulate (ug/m3),Dec 18
+aqpm,2,,17866,11.393145161290336,PM2.5 Particulate (ug/m3),Dec 18
+aqpm,2,,17897,22.723333333333336,PM10 Particulate (ug/m3),Jan 19
+aqpm,2,,17897,13.905694444444446,PM2.5 Particulate (ug/m3),Jan 19
+aqpm,2,,17928,28.672916666666676,PM10 Particulate (ug/m3),Feb 19
+aqpm,2,,17928,18.509374999999995,PM2.5 Particulate (ug/m3),Feb 19
+aqpm,2,,17956,20.914650537634405,PM10 Particulate (ug/m3),Mar 19
+aqpm,2,,17956,11.297043010752683,PM2.5 Particulate (ug/m3),Mar 19
+aqpm,2,,17987,32.253750000000075,PM10 Particulate (ug/m3),Apr 19
+aqpm,2,,17987,22.804444444444453,PM2.5 Particulate (ug/m3),Apr 19
+aqpm,2,,18017,19.479973118279556,PM10 Particulate (ug/m3),May 19
+aqpm,2,,18017,10.655913978494612,PM2.5 Particulate (ug/m3),May 19
+aqpm,2,,18048,17.953333333333333,PM10 Particulate (ug/m3),Jun 19
+aqpm,2,,18048,9.20222222222223,PM2.5 Particulate (ug/m3),Jun 19
+aqpm,2,,18078,18.469086021505365,PM10 Particulate (ug/m3),Jul 19
+aqpm,2,,18078,9.086155913978498,PM2.5 Particulate (ug/m3),Jul 19
+daqi,2,,17167,3,,
+daqi,2,,17168,2,,
+daqi,2,,17169,3,,
+daqi,2,,17170,3,,
+daqi,2,,17171,4,,
+daqi,2,,17172,4,,
+daqi,2,,17173,2,,
+daqi,2,,17174,3,,
+daqi,2,,17175,3,,
+daqi,2,,17176,3,,
+daqi,2,,17177,3,,
+daqi,2,,17178,3,,
+daqi,2,,17179,3,,
+daqi,2,,17180,2,,
+daqi,2,,17181,2,,
+daqi,2,,17182,3,,
+daqi,2,,17183,3,,
+daqi,2,,17184,6,,
+daqi,2,,17185,5,,
+daqi,2,,17186,3,,
+daqi,2,,17187,4,,
+daqi,2,,17188,10,,
+daqi,2,,17189,10,,
+daqi,2,,17190,7,,
+daqi,2,,17191,4,,
+daqi,2,,17192,6,,
+daqi,2,,17193,7,,
+daqi,2,,17194,3,,
+daqi,2,,17195,3,,
+daqi,2,,17196,3,,
+daqi,2,,17197,3,,
+daqi,2,,17198,3,,
+daqi,2,,17199,3,,
+daqi,2,,17200,3,,
+daqi,2,,17201,3,,
+daqi,2,,17202,2,,
+daqi,2,,17203,3,,
+daqi,2,,17204,3,,
+daqi,2,,17205,3,,
+daqi,2,,17206,3,,
+daqi,2,,17207,5,,
+daqi,2,,17208,5,,
+daqi,2,,17209,5,,
+daqi,2,,17210,6,,
+daqi,2,,17211,4,,
+daqi,2,,17212,3,,
+daqi,2,,17213,3,,
+daqi,2,,17214,3,,
+daqi,2,,17215,3,,
+daqi,2,,17216,3,,
+daqi,2,,17217,3,,
+daqi,2,,17218,3,,
+daqi,2,,17219,3,,
+daqi,2,,17220,3,,
+daqi,2,,17221,3,,
+daqi,2,,17222,3,,
+daqi,2,,17223,3,,
+daqi,2,,17224,3,,
+daqi,2,,17225,3,,
+daqi,2,,17226,3,,
+daqi,2,,17227,3,,
+daqi,2,,17228,3,,
+daqi,2,,17229,3,,
+daqi,2,,17230,3,,
+daqi,2,,17231,3,,
+daqi,2,,17232,3,,
+daqi,2,,17233,3,,
+daqi,2,,17234,3,,
+daqi,2,,17235,3,,
+daqi,2,,17236,3,,
+daqi,2,,17237,3,,
+daqi,2,,17238,3,,
+daqi,2,,17239,3,,
+daqi,2,,17240,3,,
+daqi,2,,17241,3,,
+daqi,2,,17242,3,,
+daqi,2,,17243,3,,
+daqi,2,,17244,3,,
+daqi,2,,17245,3,,
+daqi,2,,17246,3,,
+daqi,2,,17247,3,,
+daqi,2,,17248,2,,
+daqi,2,,17249,3,,
+daqi,2,,17250,3,,
+daqi,2,,17251,3,,
+daqi,2,,17252,4,,
+daqi,2,,17253,5,,
+daqi,2,,17254,3,,
+daqi,2,,17255,3,,
+daqi,2,,17256,3,,
+daqi,2,,17257,3,,
+daqi,2,,17258,3,,
+daqi,2,,17259,3,,
+daqi,2,,17260,3,,
+daqi,2,,17261,3,,
+daqi,2,,17262,3,,
+daqi,2,,17263,3,,
+daqi,2,,17264,4,,
+daqi,2,,17265,4,,
+daqi,2,,17266,3,,
+daqi,2,,17267,3,,
+daqi,2,,17268,3,,
+daqi,2,,17269,3,,
+daqi,2,,17270,3,,
+daqi,2,,17271,3,,
+daqi,2,,17272,3,,
+daqi,2,,17273,3,,
+daqi,2,,17274,3,,
+daqi,2,,17275,3,,
+daqi,2,,17276,3,,
+daqi,2,,17277,3,,
+daqi,2,,17278,3,,
+daqi,2,,17279,3,,
+daqi,2,,17280,3,,
+daqi,2,,17281,3,,
+daqi,2,,17282,2,,
+daqi,2,,17283,3,,
+daqi,2,,17284,3,,
+daqi,2,,17285,3,,
+daqi,2,,17286,3,,
+daqi,2,,17287,3,,
+daqi,2,,17288,3,,
+daqi,2,,17289,3,,
+daqi,2,,17290,3,,
+daqi,2,,17291,3,,
+daqi,2,,17292,3,,
+daqi,2,,17293,3,,
+daqi,2,,17294,3,,
+daqi,2,,17295,3,,
+daqi,2,,17296,3,,
+daqi,2,,17297,4,,
+daqi,2,,17298,3,,
+daqi,2,,17299,3,,
+daqi,2,,17300,3,,
+daqi,2,,17301,3,,
+daqi,2,,17302,3,,
+daqi,2,,17303,3,,
+daqi,2,,17304,3,,
+daqi,2,,17305,3,,
+daqi,2,,17306,3,,
+daqi,2,,17307,3,,
+daqi,2,,17308,4,,
+daqi,2,,17309,3,,
+daqi,2,,17310,3,,
+daqi,2,,17311,3,,
+daqi,2,,17312,4,,
+daqi,2,,17313,3,,
+daqi,2,,17314,3,,
+daqi,2,,17315,3,,
+daqi,2,,17316,3,,
+daqi,2,,17317,3,,
+daqi,2,,17318,3,,
+daqi,2,,17319,4,,
+daqi,2,,17320,3,,
+daqi,2,,17321,3,,
+daqi,2,,17322,3,,
+daqi,2,,17323,3,,
+daqi,2,,17324,4,,
+daqi,2,,17325,4,,
+daqi,2,,17326,3,,
+daqi,2,,17327,3,,
+daqi,2,,17328,3,,
+daqi,2,,17329,3,,
+daqi,2,,17330,3,,
+daqi,2,,17331,4,,
+daqi,2,,17332,3,,
+daqi,2,,17333,3,,
+daqi,2,,17334,3,,
+daqi,2,,17335,5,,
+daqi,2,,17336,6,,
+daqi,2,,17337,4,,
+daqi,2,,17338,7,,
+daqi,2,,17339,6,,
+daqi,2,,17340,3,,
+daqi,2,,17341,2,,
+daqi,2,,17342,2,,
+daqi,2,,17343,3,,
+daqi,2,,17344,3,,
+daqi,2,,17345,2,,
+daqi,2,,17346,4,,
+daqi,2,,17347,2,,
+daqi,2,,17348,3,,
+daqi,2,,17349,3,,
+daqi,2,,17350,3,,
+daqi,2,,17351,3,,
+daqi,2,,17352,4,,
+daqi,2,,17353,5,,
+daqi,2,,17354,4,,
+daqi,2,,17355,3,,
+daqi,2,,17356,4,,
+daqi,2,,17357,3,,
+daqi,2,,17358,3,,
+daqi,2,,17359,2,,
+daqi,2,,17360,4,,
+daqi,2,,17361,3,,
+daqi,2,,17362,3,,
+daqi,2,,17363,2,,
+daqi,2,,17364,3,,
+daqi,2,,17365,4,,
+daqi,2,,17366,3,,
+daqi,2,,17367,3,,
+daqi,2,,17368,3,,
+daqi,2,,17369,2,,
+daqi,2,,17370,2,,
+daqi,2,,17371,2,,
+daqi,2,,17372,3,,
+daqi,2,,17373,3,,
+daqi,2,,17374,3,,
+daqi,2,,17375,2,,
+daqi,2,,17376,3,,
+daqi,2,,17377,2,,
+daqi,2,,17378,3,,
+daqi,2,,17379,3,,
+daqi,2,,17380,2,,
+daqi,2,,17381,2,,
+daqi,2,,17382,3,,
+daqi,2,,17383,2,,
+daqi,2,,17384,3,,
+daqi,2,,17385,2,,
+daqi,2,,17386,2,,
+daqi,2,,17387,2,,
+daqi,2,,17388,2,,
+daqi,2,,17389,3,,
+daqi,2,,17390,2,,
+daqi,2,,17391,3,,
+daqi,2,,17392,3,,
+daqi,2,,17393,3,,
+daqi,2,,17394,3,,
+daqi,2,,17395,3,,
+daqi,2,,17396,2,,
+daqi,2,,17397,2,,
+daqi,2,,17398,2,,
+daqi,2,,17399,2,,
+daqi,2,,17400,2,,
+daqi,2,,17401,3,,
+daqi,2,,17402,2,,
+daqi,2,,17403,3,,
+daqi,2,,17404,3,,
+daqi,2,,17405,3,,
+daqi,2,,17406,4,,
+daqi,2,,17407,3,,
+daqi,2,,17408,2,,
+daqi,2,,17409,2,,
+daqi,2,,17410,2,,
+daqi,2,,17411,3,,
+daqi,2,,17412,3,,
+daqi,2,,17413,2,,
+daqi,2,,17414,3,,
+daqi,2,,17415,2,,
+daqi,2,,17416,3,,
+daqi,2,,17417,3,,
+daqi,2,,17418,2,,
+daqi,2,,17419,2,,
+daqi,2,,17420,3,,
+daqi,2,,17421,3,,
+daqi,2,,17422,3,,
+daqi,2,,17423,2,,
+daqi,2,,17424,3,,
+daqi,2,,17425,2,,
+daqi,2,,17426,2,,
+daqi,2,,17427,2,,
+daqi,2,,17428,3,,
+daqi,2,,17429,3,,
+daqi,2,,17430,3,,
+daqi,2,,17431,3,,
+daqi,2,,17432,2,,
+daqi,2,,17433,3,,
+daqi,2,,17434,4,,
+daqi,2,,17435,4,,
+daqi,2,,17436,5,,
+daqi,2,,17437,3,,
+daqi,2,,17438,3,,
+daqi,2,,17439,2,,
+daqi,2,,17440,2,,
+daqi,2,,17441,4,,
+daqi,2,,17442,2,,
+daqi,2,,17443,3,,
+daqi,2,,17444,2,,
+daqi,2,,17445,2,,
+daqi,2,,17446,2,,
+daqi,2,,17447,2,,
+daqi,2,,17448,3,,
+daqi,2,,17449,2,,
+daqi,2,,17450,3,,
+daqi,2,,17451,3,,
+daqi,2,,17452,2,,
+daqi,2,,17453,2,,
+daqi,2,,17454,3,,
+daqi,2,,17455,3,,
+daqi,2,,17456,3,,
+daqi,2,,17457,3,,
+daqi,2,,17458,3,,
+daqi,2,,17459,3,,
+daqi,2,,17460,3,,
+daqi,2,,17461,3,,
+daqi,2,,17462,2,,
+daqi,2,,17463,2,,
+daqi,2,,17464,3,,
+daqi,2,,17465,2,,
+daqi,2,,17466,3,,
+daqi,2,,17467,2,,
+daqi,2,,17468,2,,
+daqi,2,,17469,3,,
+daqi,2,,17470,3,,
+daqi,2,,17471,3,,
+daqi,2,,17472,4,,
+daqi,2,,17473,5,,
+daqi,2,,17474,3,,
+daqi,2,,17475,2,,
+daqi,2,,17476,3,,
+daqi,2,,17477,3,,
+daqi,2,,17478,2,,
+daqi,2,,17479,2,,
+daqi,2,,17480,2,,
+daqi,2,,17481,2,,
+daqi,2,,17482,2,,
+daqi,2,,17483,2,,
+daqi,2,,17484,3,,
+daqi,2,,17485,3,,
+daqi,2,,17486,2,,
+daqi,2,,17487,3,,
+daqi,2,,17488,2,,
+daqi,2,,17489,2,,
+daqi,2,,17490,3,,
+daqi,2,,17491,3,,
+daqi,2,,17492,3,,
+daqi,2,,17493,4,,
+daqi,2,,17494,3,,
+daqi,2,,17495,2,,
+daqi,2,,17496,3,,
+daqi,2,,17497,2,,
+daqi,2,,17498,2,,
+daqi,2,,17499,3,,
+daqi,2,,17500,2,,
+daqi,2,,17501,2,,
+daqi,2,,17502,3,,
+daqi,2,,17503,2,,
+daqi,2,,17504,2,,
+daqi,2,,17505,3,,
+daqi,2,,17506,4,,
+daqi,2,,17507,2,,
+daqi,2,,17508,2,,
+daqi,2,,17509,3,,
+daqi,2,,17510,2,,
+daqi,2,,17511,3,,
+daqi,2,,17512,3,,
+daqi,2,,17513,3,,
+daqi,2,,17514,3,,
+daqi,2,,17515,2,,
+daqi,2,,17516,2,,
+daqi,2,,17517,2,,
+daqi,2,,17518,3,,
+daqi,2,,17519,3,,
+daqi,2,,17520,3,,
+daqi,2,,17521,3,,
+daqi,2,,17522,2,,
+daqi,2,,17523,2,,
+daqi,2,,17524,2,,
+daqi,2,,17525,3,,
+daqi,2,,17526,3,,
+daqi,2,,17527,3,,
+daqi,2,,17528,3,,
+daqi,2,,17529,3,,
+daqi,2,,17530,3,,
+daqi,2,,17531,3,,
+daqi,2,,17532,3,,
+daqi,2,,17533,3,,
+daqi,2,,17534,3,,
+daqi,2,,17535,4,,
+daqi,2,,17536,3,,
+daqi,2,,17537,2,,
+daqi,2,,17538,2,,
+daqi,2,,17539,2,,
+daqi,2,,17540,3,,
+daqi,2,,17541,3,,
+daqi,2,,17542,3,,
+daqi,2,,17543,3,,
+daqi,2,,17544,2,,
+daqi,2,,17545,3,,
+daqi,2,,17546,3,,
+daqi,2,,17547,3,,
+daqi,2,,17548,3,,
+daqi,2,,17549,3,,
+daqi,2,,17550,3,,
+daqi,2,,17551,2,,
+daqi,2,,17552,3,,
+daqi,2,,17553,3,,
+daqi,2,,17554,3,,
+daqi,2,,17555,4,,
+daqi,2,,17556,3,,
+daqi,2,,17557,3,,
+daqi,2,,17558,2,,
+daqi,2,,17559,2,,
+daqi,2,,17560,3,,
+daqi,2,,17561,3,,
+daqi,2,,17562,4,,
+daqi,2,,17563,3,,
+daqi,2,,17564,3,,
+daqi,2,,17565,3,,
+daqi,2,,17566,2,,
+daqi,2,,17567,2,,
+daqi,2,,17568,4,,
+daqi,2,,17569,3,,
+daqi,2,,17570,3,,
+daqi,2,,17571,2,,
+daqi,2,,17572,3,,
+daqi,2,,17573,3,,
+daqi,2,,17574,3,,
+daqi,2,,17575,3,,
+daqi,2,,17576,3,,
+daqi,2,,17577,3,,
+daqi,2,,17578,3,,
+daqi,2,,17579,3,,
+daqi,2,,17580,3,,
+daqi,2,,17581,3,,
+daqi,2,,17582,2,,
+daqi,2,,17583,4,,
+daqi,2,,17584,3,,
+daqi,2,,17585,2,,
+daqi,2,,17586,3,,
+daqi,2,,17587,2,,
+daqi,2,,17588,3,,
+daqi,2,,17589,3,,
+daqi,2,,17590,3,,
+daqi,2,,17591,3,,
+daqi,2,,17592,4,,
+daqi,2,,17593,9,,
+daqi,2,,17594,2,,
+daqi,2,,17595,3,,
+daqi,2,,17596,4,,
+daqi,2,,17597,3,,
+daqi,2,,17598,3,,
+daqi,2,,17599,3,,
+daqi,2,,17600,3,,
+daqi,2,,17601,3,,
+daqi,2,,17602,3,,
+daqi,2,,17603,3,,
+daqi,2,,17604,3,,
+daqi,2,,17605,3,,
+daqi,2,,17606,3,,
+daqi,2,,17607,2,,
+daqi,2,,17608,2,,
+daqi,2,,17609,3,,
+daqi,2,,17610,3,,
+daqi,2,,17611,3,,
+daqi,2,,17612,3,,
+daqi,2,,17613,3,,
+daqi,2,,17614,3,,
+daqi,2,,17615,3,,
+daqi,2,,17616,3,,
+daqi,2,,17617,3,,
+daqi,2,,17618,3,,
+daqi,2,,17619,3,,
+daqi,2,,17620,2,,
+daqi,2,,17621,2,,
+daqi,2,,17622,2,,
+daqi,2,,17623,3,,
+daqi,2,,17624,3,,
+daqi,2,,17625,3,,
+daqi,2,,17626,3,,
+daqi,2,,17627,3,,
+daqi,2,,17628,3,,
+daqi,2,,17629,3,,
+daqi,2,,17630,3,,
+daqi,2,,17631,3,,
+daqi,2,,17632,5,,
+daqi,2,,17633,4,,
+daqi,2,,17634,3,,
+daqi,2,,17635,4,,
+daqi,2,,17636,3,,
+daqi,2,,17637,3,,
+daqi,2,,17638,3,,
+daqi,2,,17639,4,,
+daqi,2,,17640,5,,
+daqi,2,,17641,3,,
+daqi,2,,17642,4,,
+daqi,2,,17643,4,,
+daqi,2,,17644,3,,
+daqi,2,,17645,3,,
+daqi,2,,17646,3,,
+daqi,2,,17647,3,,
+daqi,2,,17648,3,,
+daqi,2,,17649,3,,
+daqi,2,,17650,3,,
+daqi,2,,17651,3,,
+daqi,2,,17652,3,,
+daqi,2,,17653,3,,
+daqi,2,,17654,4,,
+daqi,2,,17655,3,,
+daqi,2,,17656,4,,
+daqi,2,,17657,5,,
+daqi,2,,17658,5,,
+daqi,2,,17659,5,,
+daqi,2,,17660,4,,
+daqi,2,,17661,3,,
+daqi,2,,17662,3,,
+daqi,2,,17663,3,,
+daqi,2,,17664,3,,
+daqi,2,,17665,3,,
+daqi,2,,17666,4,,
+daqi,2,,17667,3,,
+daqi,2,,17668,3,,
+daqi,2,,17669,3,,
+daqi,2,,17670,3,,
+daqi,2,,17671,3,,
+daqi,2,,17672,3,,
+daqi,2,,17673,4,,
+daqi,2,,17674,4,,
+daqi,2,,17675,4,,
+daqi,2,,17676,3,,
+daqi,2,,17677,5,,
+daqi,2,,17678,4,,
+daqi,2,,17679,3,,
+daqi,2,,17680,3,,
+daqi,2,,17681,3,,
+daqi,2,,17682,3,,
+daqi,2,,17683,4,,
+daqi,2,,17684,3,,
+daqi,2,,17685,3,,
+daqi,2,,17686,3,,
+daqi,2,,17687,3,,
+daqi,2,,17688,4,,
+daqi,2,,17689,3,,
+daqi,2,,17690,3,,
+daqi,2,,17691,3,,
+daqi,2,,17692,3,,
+daqi,2,,17693,4,,
+daqi,2,,17694,2,,
+daqi,2,,17695,3,,
+daqi,2,,17696,3,,
+daqi,2,,17697,3,,
+daqi,2,,17698,3,,
+daqi,2,,17699,2,,
+daqi,2,,17700,3,,
+daqi,2,,17701,3,,
+daqi,2,,17702,3,,
+daqi,2,,17703,3,,
+daqi,2,,17704,3,,
+daqi,2,,17705,3,,
+daqi,2,,17706,4,,
+daqi,2,,17707,6,,
+daqi,2,,17708,4,,
+daqi,2,,17709,3,,
+daqi,2,,17710,4,,
+daqi,2,,17711,3,,
+daqi,2,,17712,4,,
+daqi,2,,17713,6,,
+daqi,2,,17714,5,,
+daqi,2,,17715,4,,
+daqi,2,,17716,4,,
+daqi,2,,17717,5,,
+daqi,2,,17718,5,,
+daqi,2,,17719,5,,
+daqi,2,,17720,4,,
+daqi,2,,17721,3,,
+daqi,2,,17722,2,,
+daqi,2,,17723,3,,
+daqi,2,,17724,3,,
+daqi,2,,17725,4,,
+daqi,2,,17726,4,,
+daqi,2,,17727,5,,
+daqi,2,,17728,4,,
+daqi,2,,17729,3,,
+daqi,2,,17730,3,,
+daqi,2,,17731,3,,
+daqi,2,,17732,3,,
+daqi,2,,17733,6,,
+daqi,2,,17734,4,,
+daqi,2,,17735,3,,
+daqi,2,,17736,4,,
+daqi,2,,17737,4,,
+daqi,2,,17738,6,,
+daqi,2,,17739,4,,
+daqi,2,,17740,3,,
+daqi,2,,17741,2,,
+daqi,2,,17742,2,,
+daqi,2,,17743,3,,
+daqi,2,,17744,3,,
+daqi,2,,17745,3,,
+daqi,2,,17746,5,,
+daqi,2,,17747,3,,
+daqi,2,,17748,3,,
+daqi,2,,17749,5,,
+daqi,2,,17750,4,,
+daqi,2,,17751,3,,
+daqi,2,,17752,2,,
+daqi,2,,17753,2,,
+daqi,2,,17754,2,,
+daqi,2,,17755,2,,
+daqi,2,,17756,2,,
+daqi,2,,17757,2,,
+daqi,2,,17758,2,,
+daqi,2,,17759,3,,
+daqi,2,,17760,3,,
+daqi,2,,17761,2,,
+daqi,2,,17762,2,,
+daqi,2,,17763,3,,
+daqi,2,,17764,2,,
+daqi,2,,17765,3,,
+daqi,2,,17766,2,,
+daqi,2,,17767,2,,
+daqi,2,,17768,2,,
+daqi,2,,17769,2,,
+daqi,2,,17770,2,,
+daqi,2,,17771,2,,
+daqi,2,,17772,2,,
+daqi,2,,17773,2,,
+daqi,2,,17774,3,,
+daqi,2,,17775,3,,
+daqi,2,,17776,3,,
+daqi,2,,17777,4,,
+daqi,2,,17778,3,,
+daqi,2,,17779,3,,
+daqi,2,,17780,3,,
+daqi,2,,17781,2,,
+daqi,2,,17782,2,,
+daqi,2,,17783,3,,
+daqi,2,,17784,3,,
+daqi,2,,17785,2,,
+daqi,2,,17786,2,,
+daqi,2,,17787,3,,
+daqi,2,,17788,3,,
+daqi,2,,17789,3,,
+daqi,2,,17790,3,,
+daqi,2,,17791,3,,
+daqi,2,,17792,3,,
+daqi,2,,17793,2,,
+daqi,2,,17794,3,,
+daqi,2,,17795,3,,
+daqi,2,,17796,3,,
+daqi,2,,17797,2,,
+daqi,2,,17798,2,,
+daqi,2,,17799,3,,
+daqi,2,,17800,3,,
+daqi,2,,17801,3,,
+daqi,2,,17802,2,,
+daqi,2,,17803,3,,
+daqi,2,,17804,3,,
+daqi,2,,17805,3,,
+daqi,2,,17806,3,,
+daqi,2,,17807,3,,
+daqi,2,,17808,3,,
+daqi,2,,17809,4,,
+daqi,2,,17810,3,,
+daqi,2,,17811,3,,
+daqi,2,,17812,3,,
+daqi,2,,17813,3,,
+daqi,2,,17814,5,,
+daqi,2,,17815,3,,
+daqi,2,,17816,3,,
+daqi,2,,17817,3,,
+daqi,2,,17818,2,,
+daqi,2,,17819,2,,
+daqi,2,,17820,2,,
+daqi,2,,17821,3,,
+daqi,2,,17822,2,,
+daqi,2,,17823,3,,
+daqi,2,,17824,3,,
+daqi,2,,17825,2,,
+daqi,2,,17826,2,,
+daqi,2,,17827,2,,
+daqi,2,,17828,3,,
+daqi,2,,17829,3,,
+daqi,2,,17830,2,,
+daqi,2,,17831,2,,
+daqi,2,,17832,2,,
+daqi,2,,17833,2,,
+daqi,2,,17834,2,,
+daqi,2,,17835,3,,
+daqi,2,,17836,2,,
+daqi,2,,17837,3,,
+daqi,2,,17838,2,,
+daqi,2,,17839,3,,
+daqi,2,,17840,5,,
+daqi,2,,17841,3,,
+daqi,2,,17842,3,,
+daqi,2,,17843,3,,
+daqi,2,,17844,3,,
+daqi,2,,17845,2,,
+daqi,2,,17846,2,,
+daqi,2,,17847,3,,
+daqi,2,,17848,3,,
+daqi,2,,17849,2,,
+daqi,2,,17850,3,,
+daqi,2,,17851,2,,
+daqi,2,,17852,3,,
+daqi,2,,17853,2,,
+daqi,2,,17854,2,,
+daqi,2,,17855,2,,
+daqi,2,,17856,3,,
+daqi,2,,17857,5,,
+daqi,2,,17858,4,,
+daqi,2,,17859,3,,
+daqi,2,,17860,2,,
+daqi,2,,17861,2,,
+daqi,2,,17862,2,,
+daqi,2,,17863,2,,
+daqi,2,,17864,3,,
+daqi,2,,17865,3,,
+daqi,2,,17866,2,,
+daqi,2,,17867,2,,
+daqi,2,,17868,3,,
+daqi,2,,17869,3,,
+daqi,2,,17870,3,,
+daqi,2,,17871,2,,
+daqi,2,,17872,3,,
+daqi,2,,17873,3,,
+daqi,2,,17874,3,,
+daqi,2,,17875,2,,
+daqi,2,,17876,3,,
+daqi,2,,17877,2,,
+daqi,2,,17878,2,,
+daqi,2,,17879,3,,
+daqi,2,,17880,2,,
+daqi,2,,17881,2,,
+daqi,2,,17882,3,,
+daqi,2,,17883,2,,
+daqi,2,,17884,3,,
+daqi,2,,17885,3,,
+daqi,2,,17886,2,,
+daqi,2,,17887,2,,
+daqi,2,,17888,2,,
+daqi,2,,17889,2,,
+daqi,2,,17890,3,,
+daqi,2,,17891,2,,
+daqi,2,,17892,5,,
+daqi,2,,17893,3,,
+daqi,2,,17894,2,,
+daqi,2,,17895,2,,
+daqi,2,,17896,2,,
+daqi,2,,17897,2,,
+daqi,2,,17898,2,,
+daqi,2,,17899,2,,
+daqi,2,,17900,3,,
+daqi,2,,17901,3,,
+daqi,2,,17902,2,,
+daqi,2,,17903,2,,
+daqi,2,,17904,3,,
+daqi,2,,17905,2,,
+daqi,2,,17906,3,,
+daqi,2,,17907,2,,
+daqi,2,,17908,2,,
+daqi,2,,17909,2,,
+daqi,2,,17910,3,,
+daqi,2,,17911,2,,
+daqi,2,,17912,2,,
+daqi,2,,17913,2,,
+daqi,2,,17914,3,,
+daqi,2,,17915,2,,
+daqi,2,,17916,3,,
+daqi,2,,17917,4,,
+daqi,2,,17918,2,,
+daqi,2,,17919,2,,
+daqi,2,,17920,3,,
+daqi,2,,17921,3,,
+daqi,2,,17922,3,,
+daqi,2,,17923,3,,
+daqi,2,,17924,2,,
+daqi,2,,17925,3,,
+daqi,2,,17926,2,,
+daqi,2,,17927,3,,
+daqi,2,,17928,2,,
+daqi,2,,17929,3,,
+daqi,2,,17930,2,,
+daqi,2,,17931,2,,
+daqi,2,,17932,2,,
+daqi,2,,17933,3,,
+daqi,2,,17934,3,,
+daqi,2,,17935,3,,
+daqi,2,,17936,3,,
+daqi,2,,17937,3,,
+daqi,2,,17938,2,,
+daqi,2,,17939,3,,
+daqi,2,,17940,3,,
+daqi,2,,17941,5,,
+daqi,2,,17942,5,,
+daqi,2,,17943,3,,
+daqi,2,,17944,3,,
+daqi,2,,17945,2,,
+daqi,2,,17946,3,,
+daqi,2,,17947,3,,
+daqi,2,,17948,3,,
+daqi,2,,17949,3,,
+daqi,2,,17950,4,,
+daqi,2,,17951,5,,
+daqi,2,,17952,6,,
+daqi,2,,17953,8,,
+daqi,2,,17954,8,,
+daqi,2,,17955,3,,
+daqi,2,,17956,3,,
+daqi,2,,17957,3,,
+daqi,2,,17958,3,,
+daqi,2,,17959,3,,
+daqi,2,,17960,3,,
+daqi,2,,17961,3,,
+daqi,2,,17962,3,,
+daqi,2,,17963,3,,
+daqi,2,,17964,3,,
+daqi,2,,17965,3,,
+daqi,2,,17966,3,,
+daqi,2,,17967,3,,
+daqi,2,,17968,3,,
+daqi,2,,17969,3,,
+daqi,2,,17970,3,,
+daqi,2,,17971,3,,
+daqi,2,,17972,3,,
+daqi,2,,17973,3,,
+daqi,2,,17974,2,,
+daqi,2,,17975,2,,
+daqi,2,,17976,3,,
+daqi,2,,17977,2,,
+daqi,2,,17978,3,,
+daqi,2,,17979,3,,
+daqi,2,,17980,3,,
+daqi,2,,17981,3,,
+daqi,2,,17982,3,,
+daqi,2,,17983,3,,
+daqi,2,,17984,5,,
+daqi,2,,17985,6,,
+daqi,2,,17986,3,,
+daqi,2,,17987,3,,
+daqi,2,,17988,3,,
+daqi,2,,17989,3,,
+daqi,2,,17990,3,,
+daqi,2,,17991,3,,
+daqi,2,,17992,3,,
+daqi,2,,17993,5,,
+daqi,2,,17994,5,,
+daqi,2,,17995,3,,
+daqi,2,,17996,3,,
+daqi,2,,17997,3,,
+daqi,2,,17998,3,,
+daqi,2,,17999,3,,
+daqi,2,,18000,3,,
+daqi,2,,18001,4,,
+daqi,2,,18002,6,,
+daqi,2,,18003,6,,
+daqi,2,,18004,6,,
+daqi,2,,18005,5,,
+daqi,2,,18006,5,,
+daqi,2,,18007,6,,
+daqi,2,,18008,8,,
+daqi,2,,18009,5,,
+daqi,2,,18010,3,,
+daqi,2,,18011,3,,
+daqi,2,,18012,3,,
+daqi,2,,18013,3,,
+daqi,2,,18014,3,,
+daqi,2,,18015,3,,
+daqi,2,,18016,3,,
+daqi,2,,18017,3,,
+daqi,2,,18018,3,,
+daqi,2,,18019,3,,
+daqi,2,,18020,3,,
+daqi,2,,18021,3,,
+daqi,2,,18022,3,,
+daqi,2,,18023,3,,
+daqi,2,,18024,3,,
+daqi,2,,18025,2,,
+daqi,2,,18026,3,,
+daqi,2,,18027,3,,
+daqi,2,,18028,3,,
+daqi,2,,18029,3,,
+daqi,2,,18030,3,,
+daqi,2,,18031,4,,
+daqi,2,,18032,4,,
+daqi,2,,18033,3,,
+daqi,2,,18034,3,,
+daqi,2,,18035,3,,
+daqi,2,,18036,3,,
+daqi,2,,18037,3,,
+daqi,2,,18038,4,,
+daqi,2,,18039,4,,
+daqi,2,,18040,3,,
+daqi,2,,18041,3,,
+daqi,2,,18042,2,,
+daqi,2,,18043,3,,
+daqi,2,,18044,3,,
+daqi,2,,18045,3,,
+daqi,2,,18046,3,,
+daqi,2,,18047,2,,
+daqi,2,,18048,3,,
+daqi,2,,18049,3,,
+daqi,2,,18050,3,,
+daqi,2,,18051,3,,
+daqi,2,,18052,3,,
+daqi,2,,18053,3,,
+daqi,2,,18054,3,,
+daqi,2,,18055,3,,
+daqi,2,,18056,3,,
+daqi,2,,18057,2,,
+daqi,2,,18058,2,,
+daqi,2,,18059,2,,
+daqi,2,,18060,3,,
+daqi,2,,18061,3,,
+daqi,2,,18062,3,,
+daqi,2,,18063,2,,
+daqi,2,,18064,3,,
+daqi,2,,18065,3,,
+daqi,2,,18066,3,,
+daqi,2,,18067,2,,
+daqi,2,,18068,3,,
+daqi,2,,18069,3,,
+daqi,2,,18070,4,,
+daqi,2,,18071,3,,
+daqi,2,,18072,3,,
+daqi,2,,18073,3,,
+daqi,2,,18074,3,,
+daqi,2,,18075,3,,
+daqi,2,,18076,5,,
+daqi,2,,18077,5,,
+daqi,2,,18078,3,,
+daqi,2,,18079,3,,
+daqi,2,,18080,3,,
+daqi,2,,18081,3,,
+daqi,2,,18082,4,,
+daqi,2,,18083,3,,
+daqi,2,,18084,2,,
+daqi,2,,18085,3,,
+daqi,2,,18086,3,,
+daqi,2,,18087,3,,
+daqi,2,,18088,3,,
+daqi,2,,18089,3,,
+daqi,2,,18090,3,,
+daqi,2,,18091,2,,
+daqi,2,,18092,2,,
+daqi,2,,18093,3,,
+daqi,2,,18094,4,,
+daqi,2,,18095,3,,
+daqi,2,,18096,2,,
+daqi,2,,18097,2,,
+daqi,2,,18098,2,,
+daqi,2,,18099,2,,
+daqi,2,,18100,5,,
+daqi,2,,18101,5,,
+daqi,2,,18102,6,,
+daqi,2,,18103,3,,
+daqi,2,,18104,2,,
+daqi,2,,18105,2,,
+daqi,2,,18106,3,,
+daqi,2,,18107,3,,
+daqi,2,,18108,2,,
+daqi,2,,18109,4,,
+daqi,2,,18110,3,,
+daqi,2,,18111,3,,
+daqi,2,,18112,3,,
+daqi,2,,18113,3,,
+daqi,2,,18114,3,,
+daqi,2,,18115,2,,
+daqi,2,,18116,3,,
+daqi,2,,18117,2,,
+daqi,2,,18118,3,,
+daqi,2,,18119,3,,
+daqi,2,,18120,2,,
+daqi,2,,18121,3,,
+daqi,2,,18122,2,,
+daqi,2,,18123,2,,
+daqi,2,,18124,2,,
+daqi,2,,18125,2,,
+daqi,2,,18126,2,,
+daqi,2,,18127,2,,
+daqi,2,,18128,3,,
+daqi,2,,18129,3,,
+daqi,2,,18130,3,,
+daqi,2,,18131,3,,
+daqi,2,,18132,5,,
+daqi,2,,18133,5,,
+daqi,2,,18134,5,,
+daqi,2,,18135,6,,
+daqi,2,,18136,3,,
+daqi,2,,18137,3,,
+daqi,2,,18138,3,,
+daqi,2,,18139,3,,
+daqi,2,,18140,3,,
+daqi,2,,18141,3,,
+daqi,2,,18142,3,,
+daqi,2,,18143,2,,
+daqi,2,,18144,3,,
+daqi,2,,18145,3,,
+daqi,2,,18146,2,,
+daqi,2,,18147,3,,
+daqi,2,,18148,2,,
+daqi,2,,18149,3,,
+daqi,2,,18150,2,,
+daqi,2,,18151,2,,
+daqi,2,,18152,2,,
+daqi,2,,18153,2,,
+daqi,2,,18154,2,,
+daqi,2,,18155,2,,
+daqi,2,,18156,3,,
+daqi,2,,18157,2,,
+daqi,2,,18158,3,,
+daqi,2,,18159,3,,
+daqi,2,,18160,3,,
+daqi,2,,18161,2,,
+daqi,2,,18162,2,,
+daqi,2,,18163,2,,
+daqi,2,,18164,2,,
+daqi,2,,18165,2,,
+daqi,2,,18166,2,,
+daqi,2,,18167,2,,
+daqi,2,,18168,2,,
+daqi,2,,18169,2,,
+daqi,2,,18170,3,,
+daqi,2,,18171,2,,
+daqi,2,,18172,3,,
+daqi,2,,18173,3,,
+daqi,2,,18174,2,,
+daqi,2,,18175,2,,
+daqi,2,,18176,2,,
+daqi,2,,18177,2,,
+daqi,2,,18178,2,,
+daqi,2,,18179,3,,
+daqi,2,,18180,2,,
+daqi,2,,18181,2,,
+daqi,2,,18182,3,,
+daqi,2,,18183,2,,
+daqi,2,,18184,3,,
+daqi,2,,18185,2,,
+daqi,2,,18186,2,,
+daqi,2,,18187,2,,
+daqi,2,,18188,2,,
+daqi,2,,18189,2,,
+daqi,2,,18190,3,,
+daqi,2,,18191,3,,
+daqi,2,,18192,3,,
+daqi,2,,18193,3,,
+daqi,2,,18194,3,,
+daqi,2,,18195,3,,
+daqi,2,,18196,3,,
+daqi,2,,18197,5,,
+daqi,2,,18198,2,,
+daqi,2,,18199,2,,
+daqi,2,,18200,3,,
+daqi,2,,18201,2,,
+daqi,2,,18202,2,,
+daqi,2,,18203,2,,
+daqi,2,,18204,2,,
+daqi,2,,18205,2,,
+daqi,2,,18206,2,,
+daqi,2,,18207,2,,
+daqi,2,,18208,2,,
+daqi,2,,18209,2,,
+daqi,2,,18210,2,,
+daqi,2,,18211,2,,
+daqi,2,,18212,2,,
+daqi,2,,18213,3,,
+daqi,2,,18214,2,,
+daqi,2,,18215,2,,
+daqi,2,,18216,2,,
+daqi,2,,18217,3,,
+daqi,2,,18218,4,,
+daqi,2,,18219,3,,
+daqi,2,,18220,3,,
+daqi,2,,18221,3,,
+daqi,2,,18222,2,,
+daqi,2,,18223,2,,
+daqi,2,,18224,2,,
+daqi,2,,18225,2,,
+daqi,2,,18226,2,,
+daqi,2,,18227,2,,
+daqi,2,,18228,2,,
+daqi,2,,18229,3,,
+daqi,2,,18230,3,,
+daqi,2,,18231,2,,
+daqi,2,,18232,3,,
+daqi,2,,18233,3,,
+daqi,2,,18234,3,,
+daqi,2,,18235,3,,
+daqi,2,,18236,2,,
+daqi,2,,18237,2,,
+daqi,2,,18238,3,,
+daqi,2,,18239,3,,
+daqi,2,,18240,2,,
+daqi,2,,18241,2,,
+daqi,2,,18242,2,,
+daqi,2,,18243,2,,
+daqi,2,,18244,3,,
+daqi,2,,18245,3,,
+daqi,2,,18246,3,,
+daqi,2,,18247,3,,
+daqi,2,,18248,2,,
+daqi,2,,18249,2,,
+daqi,2,,18250,2,,
+daqi,2,,18251,2,,
+daqi,2,,18252,2,,
+daqi,2,,18253,2,,
+daqi,2,,18254,2,,
+daqi,2,,18255,2,,
+daqi,2,,18256,2,,
+daqi,2,,18257,2,,
+daqi,2,,18258,2,,
+daqi,2,,18259,3,,
+daqi,2,,18260,2,,
+daqi,2,,18261,3,,
+daqi,2,,18262,4,,
+wst,1,2011/12,NA,1,London,
+wst,1,2012/13,NA,0.9902782433791485,London,
+wst,1,2013/14,NA,1.0097217566208514,London,
+wst,1,2014/15,NA,1.0207844451894066,London,
+wst,1,2015/16,NA,1.0321823667448877,London,
+wst,1,2016/17,NA,1.0221253771371104,London,
+wst,1,2017/18,NA,1.000335232986926,London,
+wst,1,2018/19,NA,0.9966476701307408,London,
+wst,1,2011/12,NA,1,England,
+wst,1,2012/13,NA,0.9860692606664047,England,
+wst,1,2013/14,NA,1.0029695619896066,England,
+wst,1,2014/15,NA,1.0117909078999083,England,
+wst,1,2015/16,NA,1.0240185160924058,England,
+wst,1,2016/17,NA,1.0329272020612255,England,
+wst,1,2017/18,NA,1.008690335822525,England,
+wst,1,2018/19,NA,1.0048037032184811,England,
+rcyc,1,2011/12,NA,33.900000000000006,London,
+rcyc,1,2012/13,NA,34,London,
+rcyc,1,2013/14,NA,33.900000000000006,London,
+rcyc,1,2014/15,NA,33.1,London,
+rcyc,1,2015/16,NA,33.1,London,
+rcyc,1,2016/17,NA,33,London,
+rcyc,1,2017/18,NA,33.12927436908704,London,
+rcyc,1,2018/19,NA,33.4,London,
+rcyc,1,2011/12,NA,42.99605984270304,England,
+rcyc,1,2012/13,NA,43.22121181965476,England,
+rcyc,1,2013/14,NA,43.454477778945474,England,
+rcyc,1,2014/15,NA,43.66610557210065,England,
+rcyc,1,2015/16,NA,42.96563994999328,England,
+rcyc,1,2016/17,NA,44,England,
+rcyc,1,2017/18,NA,43.20950611543677,England,
+rcyc,1,2018/19,NA,43.5,England,
+wlkcyc,1,2018-2019,NA,47.74869413657511,ENGLAND,
+wlkcyc,1,2018-2019,NA,53.0959385512078,London,
+wlkcyc,1,2017-18,NA,47.1808,ENGLAND,
+wlkcyc,1,2017-18,NA,53.037800000000004,London,
+wlkcyc,1,2016-17,NA,46.9695,ENGLAND,
+wlkcyc,1,2016-17,NA,51.826899999999995,London,
+wlkcyc,1,2015-16,NA,45.7129,ENGLAND,
+wlkcyc,1,2015-16,NA,51.8829,London,
+emms,1,2012,NA,42.32343326255642,,
+emms,1,2013,NA,40.8749835023734,,
+emms,1,2014,NA,37.94318352650923,,
+emms,1,2015,NA,33.90929460069834,,
+emms,1,2016,NA,30.870940029099312,,
+emms,1,2017,NA,30.320363755019336,,
+tfl_wlkcyc,2,,18331,0.05,Weekday,
+tfl_wlkcyc,2,,18338,0.04,Weekday,
+tfl_wlkcyc,2,,18345,-0.38,Weekday,
+tfl_wlkcyc,2,,18352,-0.56,Weekday,
+tfl_wlkcyc,2,,18359,-0.46,Weekday,
+tfl_wlkcyc,2,,18366,-0.44,Weekday,
+tfl_wlkcyc,2,,18373,-0.38,Weekday,
+tfl_wlkcyc,2,,18380,-0.4,Weekday,
+tfl_wlkcyc,2,,18387,-0.46,Weekday,
+tfl_wlkcyc,2,,18394,-0.33,Weekday,
+tfl_wlkcyc,2,,18408,-0.08,Weekday,
+tfl_wlkcyc,2,,18415,0.01,Weekday,
+tfl_wlkcyc,2,,18422,0,Weekday,
+tfl_wlkcyc,2,,18429,-0.02,Weekday,
+tfl_wlkcyc,2,,18436,0.03,Weekday,
+tfl_wlkcyc,2,,18443,0,Weekday,
+tfl_wlkcyc,2,,18450,-0.07,Weekday,
+tfl_wlkcyc,2,,18457,-0.16,Weekday,
+tfl_wlkcyc,2,,18464,0.02,Weekday,
+tfl_wlkcyc,2,,18471,-0.07,Weekday,
+tfl_wlkcyc,2,,18478,0.04,Weekday,
+tfl_wlkcyc,2,,18485,0.08,Weekday,
+tfl_wlkcyc,2,,18492,0.09,Weekday,
+tfl_wlkcyc,2,,18499,-0.13,Weekday,
+tfl_wlkcyc,2,,18506,-0.12,Weekday,
+tfl_wlkcyc,2,,18513,0.08,Weekday,
+tfl_wlkcyc,2,,18520,0.14,Weekday,
+tfl_wlkcyc,2,,18527,0.23,Weekday,
+tfl_wlkcyc,2,,18534,0.11,Weekday,
+tfl_wlkcyc,2,,18541,-0.15,Weekday,
+tfl_wlkcyc,2,,18548,-0.02,Weekday,
+tfl_wlkcyc,2,,18555,0.08,Weekday,
+tfl_wlkcyc,2,,18562,-0.05,Weekday,
+tfl_wlkcyc,2,,18569,-0.11,Weekday,
+tfl_wlkcyc,2,,18576,-0.07,Weekday,
+tfl_wlkcyc,2,,18583,-0.04,Weekday,
+tfl_wlkcyc,2,,18590,-0.1,Weekday,
+tfl_wlkcyc,2,,18597,-0.08,Weekday,
+tfl_wlkcyc,2,,18604,-0.16,Weekday,
+tfl_wlkcyc,2,,18611,-0.06,Weekday,
+tfl_wlkcyc,2,,18618,0.02,Weekday,
+tfl_wlkcyc,2,,18625,0.73,Weekday,
+tfl_wlkcyc,2,,18632,-0.3,Weekday,
+tfl_wlkcyc,2,,18639,-0.38,Weekday,
+tfl_wlkcyc,2,,18331,0.2,Weekend,
+tfl_wlkcyc,2,,18338,0.22,Weekend,
+tfl_wlkcyc,2,,18345,0.02,Weekend,
+tfl_wlkcyc,2,,18352,-0.16,Weekend,
+tfl_wlkcyc,2,,18359,0.6,Weekend,
+tfl_wlkcyc,2,,18366,1.04,Weekend,
+tfl_wlkcyc,2,,18373,0.68,Weekend,
+tfl_wlkcyc,2,,18380,1.53,Weekend,
+tfl_wlkcyc,2,,18387,1.05,Weekend,
+tfl_wlkcyc,2,,18394,0.88,Weekend,
+tfl_wlkcyc,2,,18408,1.27,Weekend,
+tfl_wlkcyc,2,,18415,1.78,Weekend,
+tfl_wlkcyc,2,,18422,1.18,Weekend,
+tfl_wlkcyc,2,,18429,2.14,Weekend,
+tfl_wlkcyc,2,,18436,1.51,Weekend,
+tfl_wlkcyc,2,,18443,0.77,Weekend,
+tfl_wlkcyc,2,,18450,0.98,Weekend,
+tfl_wlkcyc,2,,18457,1.17,Weekend,
+tfl_wlkcyc,2,,18464,0.96,Weekend,
+tfl_wlkcyc,2,,18471,0.57,Weekend,
+tfl_wlkcyc,2,,18478,0.38,Weekend,
+tfl_wlkcyc,2,,18485,1.19,Weekend,
+tfl_wlkcyc,2,,18492,0.59,Weekend,
+tfl_wlkcyc,2,,18499,0.92,Weekend,
+tfl_wlkcyc,2,,18506,0.36,Weekend,
+tfl_wlkcyc,2,,18513,0.9,Weekend,
+tfl_wlkcyc,2,,18520,0.71,Weekend,
+tfl_wlkcyc,2,,18527,0.97,Weekend,
+tfl_wlkcyc,2,,18534,0.83,Weekend,
+tfl_wlkcyc,2,,18541,-0.24,Weekend,
+tfl_wlkcyc,2,,18548,1.27,Weekend,
+tfl_wlkcyc,2,,18555,0.9,Weekend,
+tfl_wlkcyc,2,,18562,0.84,Weekend,
+tfl_wlkcyc,2,,18569,0.74,Weekend,
+tfl_wlkcyc,2,,18576,1.89,Weekend,
+tfl_wlkcyc,2,,18583,0.48,Weekend,
+tfl_wlkcyc,2,,18590,1.6,Weekend,
+tfl_wlkcyc,2,,18597,1.33,Weekend,
+tfl_wlkcyc,2,,18604,0.67,Weekend,
+tfl_wlkcyc,2,,18611,0.51,Weekend,
+tfl_wlkcyc,2,,18618,0.96,Weekend,
+tfl_wlkcyc,2,,18625,0.66,Weekend,
+tfl_wlkcyc,2,,18632,0.66,Weekend,
+tfl_wlkcyc,2,,18639,0.52,Weekend,
+tfl_wlkcyc,2,,18331,0.07,Total,
+tfl_wlkcyc,2,,18338,0.06,Total,
+tfl_wlkcyc,2,,18345,-0.32,Total,
+tfl_wlkcyc,2,,18352,-0.49,Total,
+tfl_wlkcyc,2,,18359,-0.32,Total,
+tfl_wlkcyc,2,,18366,-0.03,Total,
+tfl_wlkcyc,2,,18373,-0.19,Total,
+tfl_wlkcyc,2,,18380,-0.19,Total,
+tfl_wlkcyc,2,,18387,-0.3,Total,
+tfl_wlkcyc,2,,18394,-0.16,Total,
+tfl_wlkcyc,2,,18408,0.15,Total,
+tfl_wlkcyc,2,,18415,0.28,Total,
+tfl_wlkcyc,2,,18422,0.18,Total,
+tfl_wlkcyc,2,,18429,0.3,Total,
+tfl_wlkcyc,2,,18436,0.26,Total,
+tfl_wlkcyc,2,,18443,0.12,Total,
+tfl_wlkcyc,2,,18450,0.08,Total,
+tfl_wlkcyc,2,,18457,0.03,Total,
+tfl_wlkcyc,2,,18464,0.16,Total,
+tfl_wlkcyc,2,,18471,0.02,Total,
+tfl_wlkcyc,2,,18478,0.11,Total,
+tfl_wlkcyc,2,,18485,0.23,Total,
+tfl_wlkcyc,2,,18492,0.17,Total,
+tfl_wlkcyc,2,,18499,0.02,Total,
+tfl_wlkcyc,2,,18506,-0.03,Total,
+tfl_wlkcyc,2,,18513,0.21,Total,
+tfl_wlkcyc,2,,18520,0.24,Total,
+tfl_wlkcyc,2,,18527,0.34,Total,
+tfl_wlkcyc,2,,18534,0.21,Total,
+tfl_wlkcyc,2,,18541,-0.16,Total,
+tfl_wlkcyc,2,,18548,0.14,Total,
+tfl_wlkcyc,2,,18555,0.2,Total,
+tfl_wlkcyc,2,,18562,0.06,Total,
+tfl_wlkcyc,2,,18569,-0.01,Total,
+tfl_wlkcyc,2,,18576,0.16,Total,
+tfl_wlkcyc,2,,18583,0.03,Total,
+tfl_wlkcyc,2,,18590,0.12,Total,
+tfl_wlkcyc,2,,18597,0.1,Total,
+tfl_wlkcyc,2,,18604,-0.05,Total,
+tfl_wlkcyc,2,,18611,0.02,Total,
+tfl_wlkcyc,2,,18618,0.15,Total,
+tfl_wlkcyc,2,,18625,0.7,Total,
+tfl_wlkcyc,2,,18632,-0.13,Total,
+tfl_wlkcyc,2,,18639,-0.27,Total,
+tfl_md,1,2019,NA,0.35799603832961036,Public transport,
+tfl_md,1,2019,NA,0.36810840894863506,Private transport,
+tfl_md,1,2019,NA,0.2738955527217547,Walk/cycle,
+tfl_md,1,Q1 (Jan-Mar) 2020,NA,0.3298281751964382,Public transport,
+tfl_md,1,Q1 (Jan-Mar) 2020,NA,0.376039124210388,Private transport,
+tfl_md,1,Q1 (Jan-Mar) 2020,NA,0.2941327005931739,Walk/cycle,
+tfl_md,1,Q2 (Apr-Jun) 2020,NA,0.08229739259664229,Public transport,
+tfl_md,1,Q2 (Apr-Jun) 2020,NA,0.45352299241426386,Private transport,
+tfl_md,1,Q2 (Apr-Jun) 2020,NA,0.46417961498909377,Walk/cycle,
+tfl_md,1,Q3 (Jul-Sep) 2020,NA,0.1754255651724038,Public transport,
+tfl_md,1,Q3 (Jul-Sep) 2020,NA,0.4512256058145465,Private transport,
+tfl_md,1,Q3 (Jul-Sep) 2020,NA,0.37334882901304983,Walk/cycle,
+energy,1,2012,NA,136845.82667,,
+energy,1,2013,NA,135019.33977,,
+energy,1,2014,NA,132013.53942,,
+energy,1,2015,NA,131753.9301,,
+energy,1,2016,NA,129983.34821,,
+energy,1,2017,NA,130968.17289,,
+bio,1,2019,NA,682689.297,,
+bio,1,2018,NA,643116.009,,
+bio,1,2017,NA,519342.752,,
+bio,1,2016,NA,502487.948,,
+bio,1,2015,NA,445565.392,,
+bio,1,2014,NA,354285.374,,
+excl,1,2011/12,NA,2.152030039001089,England,
+excl,1,2011/12,NA,2.1728071520991006,London,
+excl,1,2012/13,NA,1.9177294826537719,England,
+excl,1,2012/13,NA,1.9532247812423889,London,
+excl,1,2013/14,NA,1.8555376064454683,England,
+excl,1,2013/14,NA,1.8156101730712624,London,
+excl,1,2014/15,NA,1.9753542951499206,England,
+excl,1,2014/15,NA,2.004094974090944,London,
+excl,1,2015/16,NA,2.1111951438481995,England,
+excl,1,2015/16,NA,2.02760352921251,London,
+excl,1,2016/17,NA,2.286259576704162,England,
+excl,1,2016/17,NA,2.1839882381228297,London,
+excl,1,2017/18,NA,2.329283245849648,England,
+excl,1,2017/18,NA,2.1866040872201036,London,
+excl,1,2018/19,NA,2.442266884333023,England,
+excl,1,2018/19,NA,2.2640506301645047,London,
+rdnss,1,2014/15,NA,0.681,London,
+rdnss,1,2014/15,NA,0.663,England,
+rdnss,1,2015/16,NA,0.712,London,
+rdnss,1,2015/16,NA,0.693,England,
+rdnss,1,2016/17,NA,0.73,London,
+rdnss,1,2016/17,NA,0.707,England,
+rdnss,1,2017/18,NA,0.738,London,
+rdnss,1,2017/18,NA,0.715,England,
+rdnss,1,2018/19,NA,0.741,London,
+rdnss,1,2018/19,NA,0.718,England,
+att,1,2015-16,NA,51.9,London,solid
+att,1,2015-16,NA,50.1,England,solid
+att,1,2016-17,NA,48.9,London,solid
+att,1,2016-17,NA,46.4,England,solid
+att,1,2017-18,NA,49.4,London,solid
+att,1,2017-18,NA,44.5,England,solid
+att,1,2018-19,NA,49.7,London,solid
+att,1,2018-19,NA,46.8,England,solid
+att,1,2019-20,NA,50.2,England,dotted
+att,1,2019-20,NA,53.2,London,dotted
+chtmout,1,a)Less than monthly,NA,0.1759897976928874,London,
+chtmout,1,b)1-2 per month,NA,0.827546229204104,London,
+chtmout,1,c)Weekly,NA,0.05744594516259928,London,
+chtmout,1,d)Daily,NA,0.11500782563329665,London,
+chtmout,1,a)Less than monthly,NA,0.16214339813178488,England,
+chtmout,1,b)1-2 per month,NA,0.8255175460742237,England,
+chtmout,1,c)Weekly,NA,0.07505469999158462,England,
+chtmout,1,d)Daily,NA,0.09942775393419172,England,
+ylstsf,1,2009-10,NA,8.17,,
+ylstsf,1,2010-11,NA,8.21,,
+ylstsf,1,2011-12,NA,8.18,,
+ylstsf,1,2012-13,NA,8.16,,
+ylstsf,1,2013-14,NA,8.09,,
+ylstsf,1,2014-15,NA,8.04,,
+ylstsf,1,2015-16,NA,8.03,,
+ylstsf,1,2016-17,NA,7.89,,
+ylstsf,1,2017-18,NA,7.77,,
+chhapp,1,Family,NA,8.1,,
+chhapp,1,Health,NA,8.1,,
+chhapp,1,Home,NA,8,,
+chhapp,1,Time use,NA,7.2,,
+chhapp,1,Things,NA,7.3,,
+chhapp,1,Friends,NA,7.4,,
+chhapp,1,Future,NA,6.7,,
+chhapp,1,School,NA,7,,
+chhapp,1,Appearance,NA,7,,
+chhapp,1,Choice,NA,6.8,,
+las_ass,2,,17897,183,,
+las_ass,2,,17928,175,,
+las_ass,2,,17956,220,,
+las_ass,2,,17987,221,,
+las_ass,2,,18017,197,,
+las_ass,2,,18048,192,,
+las_ass,2,,18078,194,,
+las_ass,2,,18109,215,,
+las_ass,2,,18140,188,,
+las_ass,2,,18170,186,,
+las_ass,2,,18201,189,,
+las_ass,2,,18231,155,,
+las_ass,2,,18262,172,,
+las_ass,2,,18293,155,,
+las_ass,2,,18322,117,,
+las_ass,2,,18353,94,,
+las_ass,2,,18383,121,,
+las_ass,2,,18414,149,,
+las_ass,2,,18444,166,,
+las_ass,2,,18475,189,,
+las_ass,2,,18506,183,,
+las_ass,2,,18536,150,,
+las_ass,2,,18567,138,,
+cpps,1,2019/20,0,3080,,
+cpps,1,2018/19,0,3190,,
+cpps,1,2017/18,0,3270,,
+cpps,1,2016/17,0,3220,,
+cpps,1,2015/16,0,2950,,
+cpps,1,2014/15,0,3240,,
+cpps,1,2013/14,0,2770,,
+cpps,1,2012/13,0,2620,,
+chobsf,1,2011/12,0,19.2025134489064,England,
+chobsf,1,2011/12,0,22.5435434609141,London region,
+chobsf,1,2012/13,0,18.9182779783541,England,
+chobsf,1,2012/13,0,22.4412382307119,London region,
+chobsf,1,2013/14,0,19.0928977687035,England,
+chobsf,1,2013/14,0,22.4335,London region,
+chobsf,1,2014/15,0,19.0799344154903,England,
+chobsf,1,2014/15,0,22.6097421772252,London region,
+chobsf,1,2015/16,0,19.8299716313359,England,
+chobsf,1,2015/16,0,23.1669061302682,London region,
+chobsf,1,2016/17,0,19.978183203582,England,
+chobsf,1,2016/17,0,23.621253216496,London region,
+chobsf,1,2017/18,0,20.1420806349228,England,
+chobsf,1,2017/18,0,23.0979584606528,London region,
+chobsf,1,2018/19,0,20.219702256145,England,
+chobsf,1,2018/19,0,23.2455391445403,London region,
+neets,2,,15371,18.00437033580083,England,2012 Q1
+neets,2,,15371,16.14635565592595,London,2012 Q1
+neets,2,,15461,18.358246970400224,England,2012 Q2
+neets,2,,15461,16.41937851369726,London,2012 Q2
+neets,2,,15553,19.39841950432512,England,2012 Q3
+neets,2,,15553,19.365707443642215,London,2012 Q3
+neets,2,,15645,17.57197256965038,England,2012 Q4
+neets,2,,15645,17.88428040835106,London,2012 Q4
+neets,2,,15737,17.55962808404208,England,2013 Q1
+neets,2,,15737,16.363562655073157,London,2013 Q1
+neets,2,,15826,17.729947555029696,England,2013 Q2
+neets,2,,15826,15.552727129434466,London,2013 Q2
+neets,2,,15918,19.54581206043552,England,2013 Q3
+neets,2,,15918,17.174207972588402,London,2013 Q3
+neets,2,,16010,16.72532278377016,England,2013 Q4
+neets,2,,16010,15.552176048837186,London,2013 Q4
+neets,2,,16102,15.440681415529301,England,2014 Q1
+neets,2,,16102,13.455767460611872,London,2014 Q1
+neets,2,,16191,15.596626320952245,England,2014 Q2
+neets,2,,16191,13.039117698007477,London,2014 Q2
+neets,2,,16283,17.33957524008519,England,2014 Q3
+neets,2,,16283,14.061094932407627,London,2014 Q3
+neets,2,,16375,15.478460723015699,England,2014 Q4
+neets,2,,16375,13.113536883907418,London,2014 Q4
+neets,2,,16467,14.568899733072548,England,2015 Q1
+neets,2,,16467,11.80758343855916,London,2015 Q1
+neets,2,,16556,15.313019955851095,England,2015 Q2
+neets,2,,16556,12.02982857458961,London,2015 Q2
+neets,2,,16648,15.181316208820492,England,2015 Q3
+neets,2,,16648,11.039055029510159,London,2015 Q3
+neets,2,,16740,13.743182031489756,England,2015 Q4
+neets,2,,16740,11.351297410163212,London,2015 Q4
+neets,2,,16832,13.6073477388509,England,2016 Q1
+neets,2,,16832,10.406488576896052,London,2016 Q1
+neets,2,,16922,13.600267711890965,England,2016 Q2
+neets,2,,16922,12.548662469097177,London,2016 Q2
+neets,2,,17014,15.624637671418176,England,2016 Q3
+neets,2,,17014,14.771507873524614,London,2016 Q3
+neets,2,,17106,12.990009754642355,England,2016 Q4
+neets,2,,17106,13.357747989168653,London,2016 Q4
+neets,2,,17198,12.635886313773211,England,2017 Q1
+neets,2,,17198,10.200643418817316,London,2017 Q1
+neets,2,,17287,12.682331920951825,England,2017 Q2
+neets,2,,17287,9.926962664811798,London,2017 Q2
+neets,2,,17379,14.692781780679601,England,2017 Q3
+neets,2,,17379,14.469648955645233,London,2017 Q3
+neets,2,,17471,12.89441919595986,England,2017 Q4
+neets,2,,17471,12.468248836849416,London,2017 Q4
+neets,2,,17563,13.10774810744912,England,2018 Q1
+neets,2,,17563,12.5898810603373,London,2018 Q1
+neets,2,,17652,13.437176208914584,England,2018 Q2
+neets,2,,17652,15.50252761576434,London,2018 Q2
+neets,2,,17744,14.318210060154144,England,2018 Q3
+neets,2,,17744,13.652827152080313,London,2018 Q3
+neets,2,,17836,13.120369757431593,England,2018 Q4
+neets,2,,17836,15.389256959626119,London,2018 Q4
+neets,2,,17928,12.7,England,2019 Q1
+neets,2,,17928,12,London,2019 Q1
+neets,2,,18017,13.4,England,2019 Q2
+neets,2,,18017,12.7,London,2019 Q2
+neets,2,,18109,15.2,England,2019 Q3
+neets,2,,18109,14.3,London,2019 Q3
+neets,2,,18201,13,England,2019 Q4
+neets,2,,18201,11.8,London,2019 Q4
+chpv,1,2011/12-13/14,NA,27,UK,
+chpv,1,2012/13-14/15,NA,28,UK,
+chpv,1,2013/14-15/16,NA,29,UK,
+chpv,1,2014/15-16/17,NA,30,UK,
+chpv,1,2015/16-17/18,NA,30,UK,
+chpv,1,2016/17-18/19,NA,30,UK,
+chpv,1,2011/12-13/14,NA,38,London,
+chpv,1,2012/13-14/15,NA,37,London,
+chpv,1,2013/14-15/16,NA,37,London,
+chpv,1,2014/15-16/17,NA,37,London,
+chpv,1,2015/16-17/18,NA,37,London,
+chpv,1,2016/17-18/19,NA,39,London,
+chovrcrwd,1,2013/14-2015/16,NA,0.034772316884143256,Rest of England,
+chovrcrwd,1,2013/14-2015/16,NA,0.06837278091007902,London,
+chovrcrwd,1,2014/15-2016/17,NA,0.03496142427843054,Rest of England,
+chovrcrwd,1,2014/15-2016/17,NA,0.06727266936816866,London,
+chovrcrwd,1,2015/16-2017/18,NA,0.034078710257730835,Rest of England,
+chovrcrwd,1,2015/16-2017/18,NA,0.07258283021102276,London,
+chovrcrwd,1,2016/17-2018/19,NA,0.03488870631979566,Rest of England,
+chovrcrwd,1,2016/17-2018/19,NA,0.0636338382741917,London,
+acprv,1,Garden,NA,0.73,No children in household,
+acprv,1,Garden,NA,0.62,At least one child in Household,
+acprv,1,No access,NA,0.16,No children in household,
+acprv,1,No access,NA,0.2,At least one child in Household,
+acprv,1,Balcony,NA,0.13,No children in household,
+acprv,1,Balcony,NA,0.18,At least one child in Household,
+acprv,1,Allotment,NA,0.04,No children in household,
+acprv,1,Allotment,NA,0.03,At least one child in Household,
+acprv,1,Other,NA,0.04,No children in household,
+acprv,1,Other,NA,0.02,At least one child in Household,
+acprv,1,I don't know,NA,0.02,No children in household,
+acprv,1,I don't know,NA,0.02,At least one child in Household,
+chphys,2,,18358,0.1,an hour or more,
+chphys,2,,18366,0.15,an hour or more,
+chphys,2,,18372,0.14,an hour or more,
+chphys,2,,18379,0.11,an hour or more,
+chphys,2,,18386,0.15,an hour or more,
+chphys,2,,18393,0.1,an hour or more,
+chphys,2,,18400,0.17,an hour or more,
+chphys,2,,18407,0.18,an hour or more,
+chphys,2,,18435,0.12,an hour or more,
+chphys,2,,18457,0.1,an hour or more,
+chphys,2,,18477,0.18,an hour or more,
+chphys,2,,18358,0.37,between half an hour and an hour,
+chphys,2,,18366,0.39,between half an hour and an hour,
+chphys,2,,18372,0.37,between half an hour and an hour,
+chphys,2,,18379,0.46,between half an hour and an hour,
+chphys,2,,18386,0.31,between half an hour and an hour,
+chphys,2,,18393,0.42,between half an hour and an hour,
+chphys,2,,18400,0.33,between half an hour and an hour,
+chphys,2,,18407,0.39,between half an hour and an hour,
+chphys,2,,18435,0.41,between half an hour and an hour,
+chphys,2,,18457,0.41,between half an hour and an hour,
+chphys,2,,18477,0.33,between half an hour and an hour,
+chphys,2,,18358,0.37,"some, but less than half an hour",
+chphys,2,,18366,0.38,"some, but less than half an hour",
+chphys,2,,18372,0.4,"some, but less than half an hour",
+chphys,2,,18379,0.36,"some, but less than half an hour",
+chphys,2,,18386,0.41,"some, but less than half an hour",
+chphys,2,,18393,0.41,"some, but less than half an hour",
+chphys,2,,18400,0.4,"some, but less than half an hour",
+chphys,2,,18407,0.35,"some, but less than half an hour",
+chphys,2,,18435,0.38,"some, but less than half an hour",
+chphys,2,,18457,0.32,"some, but less than half an hour",
+chphys,2,,18477,0.39,"some, but less than half an hour",
+chphys,2,,18358,0.17,Nothing,
+chphys,2,,18366,0.09,Nothing,
+chphys,2,,18372,0.08,Nothing,
+chphys,2,,18379,0.07,Nothing,
+chphys,2,,18386,0.13,Nothing,
+chphys,2,,18393,0.07,Nothing,
+chphys,2,,18400,0.1,Nothing,
+chphys,2,,18407,0.08,Nothing,
+chphys,2,,18435,0.09,Nothing,
+chphys,2,,18457,0.17,Nothing,
+chphys,2,,18477,0.1,Nothing,
+chphys,2,,18358,0.83,Some,
+chphys,2,,18366,0.91,Some,
+chphys,2,,18372,0.92,Some,
+chphys,2,,18379,0.93,Some,
+chphys,2,,18386,0.87,Some,
+chphys,2,,18393,0.93,Some,
+chphys,2,,18400,0.9,Some,
+chphys,2,,18407,0.92,Some,
+chphys,2,,18435,0.91,Some,
+chphys,2,,18457,0.83,Some,
+chphys,2,,18477,0.9,Some,
+imms,1,Bromley,NA,89.43387577355031,,
+imms,1,Lewisham,NA,86.38398115429918,,
+imms,1,Southwark,NA,86.11485575626854,,
+imms,1,Greenwich,NA,84.10329305851694,,
+imms,1,Bexley,NA,83.58578052550233,,
+imms,1,Sutton,NA,83.12251535959523,,
+imms,1,Hounslow,NA,82.34880450070324,,
+imms,1,Lambeth,NA,81.30932100267707,,
+imms,1,Havering,NA,81.09255590150015,,
+imms,1,Tower Hamlets,NA,80.82063305978899,,
+imms,1,Hillingdon,NA,80.69777979157227,,
+imms,1,Kingston upon Thames,NA,80.23565184340556,,
+imms,1,Harrow,NA,79.97134670487105,,
+imms,1,Brent,NA,79.70496200268215,,
+imms,1,Wandsworth,NA,78.97967823878069,,
+imms,1,Richmond upon Thames,NA,76.56197230665316,,
+imms,1,Waltham Forest,NA,75.37278657968312,,
+imms,1,Ealing,NA,75.0090025207058,,
+imms,1,Barnet,NA,75,,
+imms,1,Redbridge,NA,74.28396072013092,,
+imms,1,Enfield,NA,72.35444113897151,,
+imms,1,Newham,NA,71.58022972502611,,
+imms,1,Croydon,NA,70.86424332344214,,
+imms,1,Merton,NA,70.3281027104137,,
+imms,1,Haringey,NA,70.29755579171095,,
+imms,1,Islington,NA,70.15873015873015,,
+imms,1,Hammersmith and Fulham,NA,69.63064295485636,,
+imms,1,Hackney(3),NA,68.73295313662285,,
+imms,1,Kensington and Chelsea,NA,66.73884798614118,,
+imms,1,Camden,NA,66.43730886850152,,
+imms,1,Westminster,NA,63.247394404827205,,
+pstngs,2,,17167,0.5893907822485132,,
+pstngs,2,,17198,0.6600441172530609,,
+pstngs,2,,17226,0.7048614136907356,,
+pstngs,2,,17257,0.5476854355763923,,
+pstngs,2,,17287,0.3001494606099768,,
+pstngs,2,,17318,0.28139073502332224,,
+pstngs,2,,17348,0.3215500212392093,,
+pstngs,2,,17379,0.2781423900215969,,
+pstngs,2,,17410,0.23847476452110405,,
+pstngs,2,,17440,0.039512142703632014,,
+pstngs,2,,17471,0.015207915485526913,,
+pstngs,2,,17501,-0.09386712388961171,,
+pstngs,2,,17532,-0.03232908481951624,,
+pstngs,2,,17563,-0.06797669493425051,,
+pstngs,2,,17591,-0.1496663082980786,,
+pstngs,2,,17622,-0.08877944558112583,,
+pstngs,2,,17652,0.010156386344839063,,
+pstngs,2,,17683,-0.03423239492210206,,
+pstngs,2,,17713,-0.03913878169717899,,
+pstngs,2,,17744,-0.01466359137556017,,
+pstngs,2,,17775,0.0323052742968124,,
+pstngs,2,,17805,0.12776083608133382,,
+pstngs,2,,17836,0.1208306696087933,,
+pstngs,2,,17866,0.10442765657017072,,
+pstngs,2,,17897,0.15978174705307047,,
+pstngs,2,,17928,0.12958017470273608,,
+pstngs,2,,17956,0.2519070203595839,,
+pstngs,2,,17987,0.1808873381049083,,
+pstngs,2,,18017,0.17918161161292745,,
+pstngs,2,,18048,0.18291334999024733,,
+pstngs,2,,18078,0.1763641349054017,,
+pstngs,2,,18109,0.1463088068623748,,
+pstngs,2,,18140,0.08814103133516449,,
+pstngs,2,,18170,0.11591421149407588,,
+pstngs,2,,18201,0.06235303641936918,,
+pstngs,2,,18231,0.15150967275357075,,
+pstngs,2,,18262,0.020325701209174207,,
+pstngs,2,,18293,0.037149456299566674,,
+pstngs,2,,18322,-0.031525389005726656,,
+pstngs,2,,18353,-0.12861207724835144,,
+pstngs,2,,18383,-0.26237008819510577,,
+pstngs,2,,18414,-0.29988379032004775,,
+pstngs,2,,18444,-0.27685577983932375,,
+pstngs,2,,18475,-0.2683099808883138,,
+pstngs,2,,18506,-0.22072180181062706,,
+pstngs,2,,18536,-0.16430976984113943,,
+pstngs,2,,18567,-0.0985692537639139,,
+pstngs,2,,18597,-0.055901352533476834,,
+pstngs,2,,18628,-0.11822329249068253,,
+pstngs,2,,18659,-0.2802308432611045,,
+frl,2,1.0,18444,905100,,
+frl,2,1.0,18445,905800,,
+frl,2,1.0,18446,905000,,
+frl,2,1.0,18447,903600,,
+frl,2,1.0,18448,902600,,
+frl,2,1.0,18449,903700,,
+frl,2,1.0,18450,902200,,
+frl,2,1.0,18451,899800,,
+frl,2,1.0,18452,898900,,
+frl,2,1.0,18453,898400,,
+frl,2,1.0,18454,897500,,
+frl,2,1.0,18455,895100,,
+frl,2,1.0,18456,889900,,
+frl,2,1.0,18457,888500,,
+frl,2,1.0,18458,887900,,
+frl,2,1.0,18459,886900,,
+frl,2,1.0,18460,885800,,
+frl,2,1.0,18461,883200,,
+frl,2,1.0,18462,882800,,
+frl,2,1.0,18463,876500,,
+frl,2,1.0,18464,874000,,
+frl,2,1.0,18465,872600,,
+frl,2,1.0,18466,871300,,
+frl,2,1.0,18467,868900,,
+frl,2,1.0,18468,866100,,
+frl,2,1.0,18469,862500,,
+frl,2,1.0,18470,853000,,
+frl,2,1.0,18471,851400,,
+frl,2,1.0,18472,849500,,
+frl,2,1.0,18473,848500,,
+frl,2,1.0,18474,841900,,
+frl,2,1.0,18475,709600,,
+frl,2,1.0,18476,709900,,
+frl,2,1.0,18477,709000,,
+frl,2,1.0,18478,708200,,
+frl,2,1.0,18479,707900,,
+frl,2,1.0,18480,707700,,
+frl,2,1.0,18481,707300,,
+frl,2,1.0,18482,705800,,
+frl,2,1.0,18483,705300,,
+frl,2,1.0,18484,703000,,
+frl,2,1.0,18485,702300,,
+frl,2,1.0,18486,702100,,
+frl,2,1.0,18487,702000,,
+frl,2,1.0,18488,701600,,
+frl,2,1.0,18489,699900,,
+frl,2,1.0,18490,698900,,
+frl,2,1.0,18491,697000,,
+frl,2,1.0,18492,696300,,
+frl,2,1.0,18493,696000,,
+frl,2,1.0,18494,695200,,
+frl,2,1.0,18495,692500,,
+frl,2,1.0,18496,691200,,
+frl,2,1.0,18497,689600,,
+frl,2,1.0,18498,685400,,
+frl,2,1.0,18499,684600,,
+frl,2,1.0,18500,683400,,
+frl,2,1.0,18501,682700,,
+frl,2,1.0,18502,681100,,
+frl,2,1.0,18503,675900,,
+frl,2,1.0,18504,674600,,
+frl,2,1.0,18505,657200,,
+frl,2,1.0,18506,551400,,
+frl,2,1.0,18507,551400,,
+frl,2,1.0,18508,551100,,
+frl,2,1.0,18509,550500,,
+frl,2,1.0,18510,549900,,
+frl,2,1.0,18511,549000,,
+frl,2,1.0,18512,547000,,
+frl,2,1.0,18513,545600,,
+frl,2,1.0,18514,545300,,
+frl,2,1.0,18515,544700,,
+frl,2,1.0,18516,544000,,
+frl,2,1.0,18517,543400,,
+frl,2,1.0,18518,543100,,
+frl,2,1.0,18519,539300,,
+frl,2,1.0,18520,538300,,
+frl,2,1.0,18521,538300,,
+frl,2,1.0,18522,538000,,
+frl,2,1.0,18523,536500,,
+frl,2,1.0,18524,536000,,
+frl,2,1.0,18525,535700,,
+frl,2,1.0,18526,533300,,
+frl,2,1.0,18527,532700,,
+frl,2,1.0,18528,532200,,
+frl,2,1.0,18529,531700,,
+frl,2,1.0,18530,531000,,
+frl,2,1.0,18531,529000,,
+frl,2,1.0,18532,528400,,
+frl,2,1.0,18533,526500,,
+frl,2,1.0,18534,524500,,
+frl,2,1.0,18535,523100,,
+frl,2,1.0,18536,461100,,
+frl,2,1.0,18537,461100,,
+frl,2,1.0,18538,461000,,
+frl,2,1.0,18539,460600,,
+frl,2,1.0,18540,460800,,
+frl,2,1.0,18541,460500,,
+frl,2,1.0,18542,460300,,
+frl,2,1.0,18543,460700,,
+frl,2,1.0,18544,460600,,
+frl,2,1.0,18545,460300,,
+frl,2,1.0,18546,460000,,
+frl,2,1.0,18547,458900,,
+frl,2,1.0,18548,458600,,
+frl,2,1.0,18549,458400,,
+frl,2,1.0,18550,457900,,
+frl,2,1.0,18551,456200,,
+frl,2,1.0,18552,455800,,
+frl,2,1.0,18553,455500,,
+frl,2,1.0,18554,455200,,
+frl,2,1.0,18555,454700,,
+frl,2,1.0,18556,454300,,
+frl,2,1.0,18557,453500,,
+frl,2,1.0,18558,452900,,
+frl,2,1.0,18559,452300,,
+frl,2,1.0,18560,451900,,
+frl,2,1.0,18561,445900,,
+frl,2,1.0,18562,445500,,
+frl,2,1.0,18563,445200,,
+frl,2,1.0,18564,444200,,
+frl,2,1.0,18565,442900,,
+frl,2,1.0,18566,431200,,
+frl,2,1.0,18567,600700,,
+frl,2,1.0,18568,606900,,
+frl,2,1.0,18569,607500,,
+frl,2,1.0,18570,609000,,
+frl,2,1.0,18571,656300,,
+frl,2,1.0,18572,661900,,
+frl,2,1.0,18573,662900,,
+frl,2,1.0,18574,667100,,
+frl,2,1.0,18575,674700,,
+frl,2,1.0,18576,675100,,
+frl,2,1.0,18577,675600,,
+frl,2,1.0,18578,675800,,
+frl,2,1.0,18579,674800,,
+frl,2,1.0,18580,674500,,
+frl,2,1.0,18581,674900,,
+frl,2,1.0,18582,673400,,
+frl,2,1.0,18583,673200,,
+frl,2,1.0,18584,673100,,
+frl,2,1.0,18585,673000,,
+frl,2,1.0,18586,673100,,
+frl,2,1.0,18587,672000,,
+frl,2,1.0,18588,671500,,
+frl,2,1.0,18589,670500,,
+frl,2,1.0,18590,669800,,
+frl,2,1.0,18591,669200,,
+frl,2,1.0,18592,668000,,
+frl,2,1.0,18593,666700,,
+frl,2,1.0,18594,663600,,
+frl,2,1.0,18595,659800,,
+frl,2,1.0,18596,644400,,
+frl,2,1.0,18597,637300,,
+frl,2,1.0,18598,637300,,
+frl,2,1.0,18599,636100,,
+frl,2,1.0,18600,635800,,
+frl,2,1.0,18601,635600,,
+frl,2,1.0,18602,635100,,
+frl,2,1.0,18603,634100,,
+frl,2,1.0,18604,633500,,
+frl,2,1.0,18605,633200,,
+frl,2,1.0,18606,633000,,
+frl,2,1.0,18607,632700,,
+frl,2,1.0,18608,632700,,
+frl,2,1.0,18609,632200,,
+frl,2,1.0,18610,634900,,
+frl,2,1.0,18611,634800,,
+frl,2,1.0,18612,636800,,
+frl,2,1.0,18613,638300,,
+frl,2,1.0,18614,638500,,
+frl,2,1.0,18615,640500,,
+frl,2,1.0,18616,653900,,
+frl,2,1.0,18617,662900,,
+frl,2,1.0,18618,666000,,
+frl,2,1.0,18619,667700,,
+frl,2,1.0,18620,667700,,
+frl,2,1.0,18621,667700,,
+frl,2,1.0,18622,666100,,
+frl,2,1.0,18623,666200,,
+frl,2,1.0,18624,663700,,
+frl,2,1.0,18625,662000,,
+frl,2,1.0,18626,660200,,
+frl,2,1.0,18627,654100,,
+frl,2,1.0,18628,718300,,
+frl,2,1.0,18629,718900,,
+frl,2,1.0,18630,719300,,
+frl,2,1.0,18631,725600,,
+frl,2,1.0,18632,726400,,
+frl,2,1.0,18633,726700,,
+frl,2,1.0,18634,727300,,
+frl,2,1.0,18635,727100,,
+frl,2,1.0,18636,727000,,
+frl,2,1.0,18637,727200,,
+frl,2,1.0,18638,729200,,
+frl,2,1.0,18639,729300,,
+frl,2,1.0,18640,729400,,
+frl,2,1.0,18641,729500,,
+frl,2,1.0,18642,729100,,
+frl,2,1.0,18643,729000,,
+frl,2,1.0,18644,729000,,
+frl,2,1.0,18645,729600,,
+frl,2,1.0,18646,729500,,
+frl,2,1.0,18647,729500,,
+frl,2,1.0,18648,729100,,
+frl,2,1.0,18649,728700,,
+frl,2,1.0,18650,728000,,
+frl,2,1.0,18651,727600,,
+frl,2,1.0,18652,726600,,
+frl,2,1.0,18653,725500,,
+frl,2,1.0,18654,725100,,
+frl,2,1.0,18655,724900,,
+frl,2,1.0,18656,722500,,
+frl,2,1.0,18657,716800,,
+frl,2,1.0,18658,712200,,
+frlb,1,Barking and Dagenham,NA,0.16,,-0.16
+frlb,1,Barnet,NA,0.17,,-0.17
+frlb,1,Bexley,NA,0.13,,-0.13
+frlb,1,Brent,NA,0.17,,-0.17
+frlb,1,Bromley,NA,0.12,,-0.12
+frlb,1,Camden,NA,0.13,,-0.13
+frlb,1,Croydon,NA,0.13,,-0.13
+frlb,1,Ealing,NA,0.17,,-0.17
+frlb,1,Enfield,NA,0.17,,-0.17
+frlb,1,Greenwich,NA,0.14,,-0.14
+frlb,1,Hackney,NA,0.15,,-0.15
+frlb,1,Hammersmith and Fulham,NA,0.14,,-0.14
+frlb,1,Haringey,NA,0.18,,-0.18
+frlb,1,Harrow,NA,0.15,,-0.15
+frlb,1,Havering,NA,0.13,,-0.13
+frlb,1,Hillingdon,NA,0.15,,-0.15
+frlb,1,Hounslow,NA,0.17,,-0.17
+frlb,1,Islington,NA,0.12,,-0.12
+frlb,1,Kensington and Chelsea,NA,0.13,,-0.13
+frlb,1,Kingston upon Thames,NA,0.14,,-0.14
+frlb,1,Lambeth,NA,0.14,,-0.14
+frlb,1,Lewisham,NA,0.14,,-0.14
+frlb,1,Merton,NA,0.14,,-0.14
+frlb,1,Newham,NA,0.19,,-0.19
+frlb,1,Redbridge,NA,0.17,,-0.17
+frlb,1,Richmond upon Thames,NA,0.12,,-0.12
+frlb,1,Southwark,NA,0.13,,-0.13
+frlb,1,Sutton,NA,0.12,,-0.12
+frlb,1,Tower Hamlets,NA,0.15,,-0.15
+frlb,1,Waltham Forest,NA,0.17,,-0.17
+frlb,1,Wandsworth,NA,0.13,,-0.13
+frlb,1,Westminster and City of London,NA,0.14,,-0.14
+frlb,1,London,NA,0.15,,-0.15
+frlb,1,United Kingdom,NA,0.13,,-0.13
+frlb,1,NA,NA,NA,,NA
+frlb,1,Source: HMRC CJRS and PAYE Real Time Information,NA,NA,,NA
+frlb,1,NA,NA,NA,,NA
+frlb,1,Table notes:,NA,NA,,NA
+frlb,1,Geographic breakdowns of CJRS claims are based on an employee's last known address to HMRC.,NA,NA,,NA
+frlb,1,"Geographic breakdowns do not directly translate to the employee's usual place of work, or where their employer has a base of operations",NA,NA,,NA
+frlb,1,"Where a CJRS claim has not been able to match to other HMRC data, it has been reported as ‘Unknown’.",NA,NA,,NA
+frlb,1,Counts have been rounded to the nearest 100.,NA,NA,,NA
+frlb,1,Components may not sum to the total because of rounding.,NA,NA,,NA
+seiss,1,Barking and Dagenham,NA,0.71,,-0.71
+seiss,1,Barnet,NA,0.62,,-0.62
+seiss,1,Bexley,NA,0.63,,-0.63
+seiss,1,Brent,NA,0.67,,-0.67
+seiss,1,Bromley,NA,0.58,,-0.58
+seiss,1,Camden,NA,0.53,,-0.53
+seiss,1,City of London,NA,0.39,,-0.39
+seiss,1,Croydon,NA,0.61,,-0.61
+seiss,1,Ealing,NA,0.59,,-0.59
+seiss,1,Enfield,NA,0.64,,-0.64
+seiss,1,Greenwich,NA,0.64,,-0.64
+seiss,1,Hackney,NA,0.56,,-0.56
+seiss,1,Hammersmith and Fulham,NA,0.53,,-0.53
+seiss,1,Haringey,NA,0.61,,-0.61
+seiss,1,Harrow,NA,0.71,,-0.71
+seiss,1,Havering,NA,0.67,,-0.67
+seiss,1,Hillingdon,NA,0.63,,-0.63
+seiss,1,Hounslow,NA,0.63,,-0.63
+seiss,1,Islington,NA,0.55,,-0.55
+seiss,1,Kensington and Chelsea,NA,0.49,,-0.49
+seiss,1,Kingston upon Thames,NA,0.56,,-0.56
+seiss,1,Lambeth,NA,0.56,,-0.56
+seiss,1,Lewisham,NA,0.59,,-0.59
+seiss,1,Merton,NA,0.59,,-0.59
+seiss,1,Newham,NA,0.72,,-0.72
+seiss,1,Redbridge,NA,0.7,,-0.7
+seiss,1,Richmond upon Thames,NA,0.51,,-0.51
+seiss,1,Southwark,NA,0.57,,-0.57
+seiss,1,Sutton,NA,0.6,,-0.6
+seiss,1,Tower Hamlets,NA,0.63,,-0.63
+seiss,1,Waltham Forest,NA,0.67,,-0.67
+seiss,1,Wandsworth,NA,0.54,,-0.54
+seiss,1,Westminster,NA,0.52,,-0.52
+seiss,1,London,NA,0.62,,-0.62
+seiss,1,United Kingdom,NA,0.57,,-0.57
+seiss,1,NA,NA,NA,,NA
+seiss,1,Source: HMRC SEISS,NA,NA,,NA
+mcwdy,2,,17532,586114.81,Eating,
+mcwdy,2,,17532,197251.94,Apparel,
+mcwdy,2,,17532,1544459.21,Retail,
+mcwdy,2,,17539,563491.55,Eating,
+mcwdy,2,,17539,134835.33000000002,Apparel,
+mcwdy,2,,17539,1397793.03,Retail,
+mcwdy,2,,17546,619934.0599999999,Eating,
+mcwdy,2,,17546,134168.06,Apparel,
+mcwdy,2,,17546,1443119.51,Retail,
+mcwdy,2,,17553,655080.2,Eating,
+mcwdy,2,,17553,131246.5,Apparel,
+mcwdy,2,,17553,1487714.09,Retail,
+mcwdy,2,,17560,644058.52,Eating,
+mcwdy,2,,17560,130816.28,Apparel,
+mcwdy,2,,17560,1483866.31,Retail,
+mcwdy,2,,17567,669882.26,Eating,
+mcwdy,2,,17567,124726.06,Apparel,
+mcwdy,2,,17567,1498603.97,Retail,
+mcwdy,2,,17574,718313.96,Eating,
+mcwdy,2,,17574,144740.33,Apparel,
+mcwdy,2,,17574,1554293.99,Retail,
+mcwdy,2,,17581,702950.7,Eating,
+mcwdy,2,,17581,139421.79,Apparel,
+mcwdy,2,,17581,1560048.23,Retail,
+mcwdy,2,,17588,559010.7,Eating,
+mcwdy,2,,17588,114817.39,Apparel,
+mcwdy,2,,17588,1357408.97,Retail,
+mcwdy,2,,17595,695017.81,Eating,
+mcwdy,2,,17595,140599.79,Apparel,
+mcwdy,2,,17595,1594867.8,Retail,
+mcwdy,2,,17602,685763.2100000001,Eating,
+mcwdy,2,,17602,140863.87,Apparel,
+mcwdy,2,,17602,1578776.32,Retail,
+mcwdy,2,,17609,713130.31,Eating,
+mcwdy,2,,17609,142275.46,Apparel,
+mcwdy,2,,17609,1620481.97,Retail,
+mcwdy,2,,17616,675213.72,Eating,
+mcwdy,2,,17616,156532.6,Apparel,
+mcwdy,2,,17616,1629428.3599999999,Retail,
+mcwdy,2,,17623,655367.67,Eating,
+mcwdy,2,,17623,172945.96,Apparel,
+mcwdy,2,,17623,1571144.54,Retail,
+mcwdy,2,,17630,726146.64,Eating,
+mcwdy,2,,17630,157919.28,Apparel,
+mcwdy,2,,17630,1628079.91,Retail,
+mcwdy,2,,17637,729551.69,Eating,
+mcwdy,2,,17637,157977.05000000002,Apparel,
+mcwdy,2,,17637,1666062.1,Retail,
+mcwdy,2,,17644,759090.86,Eating,
+mcwdy,2,,17644,171352.08,Apparel,
+mcwdy,2,,17644,1737115.93,Retail,
+mcwdy,2,,17651,757861.03,Eating,
+mcwdy,2,,17651,170445.82,Apparel,
+mcwdy,2,,17651,1750030.73,Retail,
+mcwdy,2,,17658,734100.22,Eating,
+mcwdy,2,,17658,178982.08,Apparel,
+mcwdy,2,,17658,1700501.57,Retail,
+mcwdy,2,,17665,746014.59,Eating,
+mcwdy,2,,17665,161250.49,Apparel,
+mcwdy,2,,17665,1720308.49,Retail,
+mcwdy,2,,17672,755846.72,Eating,
+mcwdy,2,,17672,169203.55,Apparel,
+mcwdy,2,,17672,1762178.4,Retail,
+mcwdy,2,,17679,700791.6,Eating,
+mcwdy,2,,17679,160009.19,Apparel,
+mcwdy,2,,17679,1622870.35,Retail,
+mcwdy,2,,17686,719574.91,Eating,
+mcwdy,2,,17686,156042.72,Apparel,
+mcwdy,2,,17686,1685165.54,Retail,
+mcwdy,2,,17693,750173.41,Eating,
+mcwdy,2,,17693,171958.31,Apparel,
+mcwdy,2,,17693,1767503.68,Retail,
+mcwdy,2,,17700,776321.86,Eating,
+mcwdy,2,,17700,185237.13,Apparel,
+mcwdy,2,,17700,1846659.72,Retail,
+mcwdy,2,,17707,775566.43,Eating,
+mcwdy,2,,17707,182338.99,Apparel,
+mcwdy,2,,17707,1849653.53,Retail,
+mcwdy,2,,17714,791046.6900000001,Eating,
+mcwdy,2,,17714,189119.94,Apparel,
+mcwdy,2,,17714,1896393.6199999999,Retail,
+mcwdy,2,,17721,790102.66,Eating,
+mcwdy,2,,17721,184245.4,Apparel,
+mcwdy,2,,17721,1893929.04,Retail,
+mcwdy,2,,17728,815837.01,Eating,
+mcwdy,2,,17728,184265.22,Apparel,
+mcwdy,2,,17728,1887441.67,Retail,
+mcwdy,2,,17735,809610.67,Eating,
+mcwdy,2,,17735,177776.96,Apparel,
+mcwdy,2,,17735,1846190.1,Retail,
+mcwdy,2,,17742,778160.13,Eating,
+mcwdy,2,,17742,171460.08000000002,Apparel,
+mcwdy,2,,17742,1786478,Retail,
+mcwdy,2,,17749,772458.84,Eating,
+mcwdy,2,,17749,174277.6,Apparel,
+mcwdy,2,,17749,1757182.23,Retail,
+mcwdy,2,,17756,788585.78,Eating,
+mcwdy,2,,17756,178891.17,Apparel,
+mcwdy,2,,17756,1775438.24,Retail,
+mcwdy,2,,17763,766019.45,Eating,
+mcwdy,2,,17763,182555.76,Apparel,
+mcwdy,2,,17763,1769566.99,Retail,
+mcwdy,2,,17770,747679.78,Eating,
+mcwdy,2,,17770,178655.58000000002,Apparel,
+mcwdy,2,,17770,1732916.16,Retail,
+mcwdy,2,,17777,773335.4,Eating,
+mcwdy,2,,17777,166892.07,Apparel,
+mcwdy,2,,17777,1785853.22,Retail,
+mcwdy,2,,17784,790551.31,Eating,
+mcwdy,2,,17784,167402.4,Apparel,
+mcwdy,2,,17784,1810400.76,Retail,
+mcwdy,2,,17791,811327.8,Eating,
+mcwdy,2,,17791,173320.82,Apparel,
+mcwdy,2,,17791,1854450.07,Retail,
+mcwdy,2,,17798,829619.83,Eating,
+mcwdy,2,,17798,185051.71,Apparel,
+mcwdy,2,,17798,1900868.1199999999,Retail,
+mcwdy,2,,17805,842874.24,Eating,
+mcwdy,2,,17805,183947.84,Apparel,
+mcwdy,2,,17805,1899227.84,Retail,
+mcwdy,2,,17812,865879.27,Eating,
+mcwdy,2,,17812,183422.27,Apparel,
+mcwdy,2,,17812,1906563.18,Retail,
+mcwdy,2,,17819,868645.4400000001,Eating,
+mcwdy,2,,17819,180694.24,Apparel,
+mcwdy,2,,17819,1908421.36,Retail,
+mcwdy,2,,17826,885224.88,Eating,
+mcwdy,2,,17826,199147.78,Apparel,
+mcwdy,2,,17826,1927731.33,Retail,
+mcwdy,2,,17833,920288.4500000001,Eating,
+mcwdy,2,,17833,209240.66,Apparel,
+mcwdy,2,,17833,1996046.8699999999,Retail,
+mcwdy,2,,17840,870825.48,Eating,
+mcwdy,2,,17840,174841.41,Apparel,
+mcwdy,2,,17840,1896852.44,Retail,
+mcwdy,2,,17847,892817.27,Eating,
+mcwdy,2,,17847,177954,Apparel,
+mcwdy,2,,17847,1933177.8699999999,Retail,
+mcwdy,2,,17854,896087.46,Eating,
+mcwdy,2,,17854,191985.63,Apparel,
+mcwdy,2,,17854,1970045.51,Retail,
+mcwdy,2,,17861,928254.1900000001,Eating,
+mcwdy,2,,17861,201673.15,Apparel,
+mcwdy,2,,17861,2052995.1300000001,Retail,
+mcwdy,2,,17868,997762.24,Eating,
+mcwdy,2,,17868,218847.3,Apparel,
+mcwdy,2,,17868,2184500.09,Retail,
+mcwdy,2,,17875,1028827.97,Eating,
+mcwdy,2,,17875,234885.75999999998,Apparel,
+mcwdy,2,,17875,2245951.43,Retail,
+mcwdy,2,,17882,1055943.71,Eating,
+mcwdy,2,,17882,240390.05,Apparel,
+mcwdy,2,,17882,2128507.78,Retail,
+mcwdy,2,,17889,608897.7,Eating,
+mcwdy,2,,17889,214827.63,Apparel,
+mcwdy,2,,17889,1462434.62,Retail,
+mcwdy,2,,17896,830275.79,Eating,
+mcwdy,2,,17896,239701.22,Apparel,
+mcwdy,2,,17896,1904515.93,Retail,
+mcwdy,2,,17903,702993.5,Eating,
+mcwdy,2,,17903,155285.87,Apparel,
+mcwdy,2,,17903,1642829.74,Retail,
+mcwdy,2,,17910,794499.0599999999,Eating,
+mcwdy,2,,17910,145685.64,Apparel,
+mcwdy,2,,17910,1691591.64,Retail,
+mcwdy,2,,17917,825145.7999999999,Eating,
+mcwdy,2,,17917,145152.84,Apparel,
+mcwdy,2,,17917,1722820.75,Retail,
+mcwdy,2,,17924,800888.48,Eating,
+mcwdy,2,,17924,139279.72,Apparel,
+mcwdy,2,,17924,1699714.78,Retail,
+mcwdy,2,,17931,875986.01,Eating,
+mcwdy,2,,17931,141945.12,Apparel,
+mcwdy,2,,17931,1769548.7,Retail,
+mcwdy,2,,17938,887498.99,Eating,
+mcwdy,2,,17938,146148.36,Apparel,
+mcwdy,2,,17938,1808388.4000000001,Retail,
+mcwdy,2,,17945,921253.04,Eating,
+mcwdy,2,,17945,160297.86,Apparel,
+mcwdy,2,,17945,1812278.1400000001,Retail,
+mcwdy,2,,17952,914484.1000000001,Eating,
+mcwdy,2,,17952,159980.84,Apparel,
+mcwdy,2,,17952,1887698.74,Retail,
+mcwdy,2,,17959,904294.84,Eating,
+mcwdy,2,,17959,164778.6,Apparel,
+mcwdy,2,,17959,1886192.75,Retail,
+mcwdy,2,,17966,897454.9299999999,Eating,
+mcwdy,2,,17966,158459.79,Apparel,
+mcwdy,2,,17966,1869061.34,Retail,
+mcwdy,2,,17973,915905.63,Eating,
+mcwdy,2,,17973,163089.87,Apparel,
+mcwdy,2,,17973,1899274.41,Retail,
+mcwdy,2,,17980,936640.77,Eating,
+mcwdy,2,,17980,175836.83,Apparel,
+mcwdy,2,,17980,1959156.01,Retail,
+mcwdy,2,,17987,895708.71,Eating,
+mcwdy,2,,17987,172763.85,Apparel,
+mcwdy,2,,17987,1911578.97,Retail,
+mcwdy,2,,17994,951069.27,Eating,
+mcwdy,2,,17994,187579.66,Apparel,
+mcwdy,2,,17994,1992304.82,Retail,
+mcwdy,2,,18001,922002.5599999999,Eating,
+mcwdy,2,,18001,203543.93,Apparel,
+mcwdy,2,,18001,2017005.51,Retail,
+mcwdy,2,,18008,884617.0599999999,Eating,
+mcwdy,2,,18008,198927.94999999998,Apparel,
+mcwdy,2,,18008,1969351.82,Retail,
+mcwdy,2,,18015,973823.91,Eating,
+mcwdy,2,,18015,198715.5,Apparel,
+mcwdy,2,,18015,2082041.73,Retail,
+mcwdy,2,,18022,900775.15,Eating,
+mcwdy,2,,18022,167001.32,Apparel,
+mcwdy,2,,18022,1899280.16,Retail,
+mcwdy,2,,18029,949424.09,Eating,
+mcwdy,2,,18029,177059.43,Apparel,
+mcwdy,2,,18029,1997303.14,Retail,
+mcwdy,2,,18036,949774.97,Eating,
+mcwdy,2,,18036,184003.19,Apparel,
+mcwdy,2,,18036,2027406.29,Retail,
+mcwdy,2,,18043,940345.99,Eating,
+mcwdy,2,,18043,202567.29,Apparel,
+mcwdy,2,,18043,2001001.46,Retail,
+mcwdy,2,,18050,970536.65,Eating,
+mcwdy,2,,18050,194250.83000000002,Apparel,
+mcwdy,2,,18050,2064668.63,Retail,
+mcwdy,2,,18057,987915.53,Eating,
+mcwdy,2,,18057,202088.74,Apparel,
+mcwdy,2,,18057,2122687.06,Retail,
+mcwdy,2,,18064,1022858.8300000001,Eating,
+mcwdy,2,,18064,212354.12,Apparel,
+mcwdy,2,,18064,2182575.93,Retail,
+mcwdy,2,,18071,1011750.2,Eating,
+mcwdy,2,,18071,222757.42,Apparel,
+mcwdy,2,,18071,2225644.21,Retail,
+mcwdy,2,,18078,1041101.5,Eating,
+mcwdy,2,,18078,228911.1,Apparel,
+mcwdy,2,,18078,2266350.02,Retail,
+mcwdy,2,,18085,1055548.2,Eating,
+mcwdy,2,,18085,224655.65,Apparel,
+mcwdy,2,,18085,2251013.37,Retail,
+mcwdy,2,,18092,1047294.71,Eating,
+mcwdy,2,,18092,213457.9,Apparel,
+mcwdy,2,,18092,2221744.61,Retail,
+mcwdy,2,,18099,1018899.35,Eating,
+mcwdy,2,,18099,206544.14,Apparel,
+mcwdy,2,,18099,2159540.97,Retail,
+mcwdy,2,,18106,1017275.66,Eating,
+mcwdy,2,,18106,212534.91,Apparel,
+mcwdy,2,,18106,2144662.98,Retail,
+mcwdy,2,,18113,1018759.32,Eating,
+mcwdy,2,,18113,214314.66,Apparel,
+mcwdy,2,,18113,2142926.74,Retail,
+mcwdy,2,,18120,1023556.3,Eating,
+mcwdy,2,,18120,216305.99,Apparel,
+mcwdy,2,,18120,2143097.07,Retail,
+mcwdy,2,,18127,984177.79,Eating,
+mcwdy,2,,18127,207080.12,Apparel,
+mcwdy,2,,18127,2090037.19,Retail,
+mcwdy,2,,18134,941294.5599999999,Eating,
+mcwdy,2,,18134,191539.56999999998,Apparel,
+mcwdy,2,,18134,2016169.85,Retail,
+mcwdy,2,,18141,967873.32,Eating,
+mcwdy,2,,18141,201196.43,Apparel,
+mcwdy,2,,18141,2098614.53,Retail,
+mcwdy,2,,18148,1010925.14,Eating,
+mcwdy,2,,18148,204535.91,Apparel,
+mcwdy,2,,18148,2152942.08,Retail,
+mcwdy,2,,18155,1035181.0700000001,Eating,
+mcwdy,2,,18155,202970.94999999998,Apparel,
+mcwdy,2,,18155,2192999.4299999997,Retail,
+mcwdy,2,,18162,1018067.53,Eating,
+mcwdy,2,,18162,206636.55,Apparel,
+mcwdy,2,,18162,2200986.19,Retail,
+mcwdy,2,,18169,1039682.62,Eating,
+mcwdy,2,,18169,228890.69,Apparel,
+mcwdy,2,,18169,2243597.39,Retail,
+mcwdy,2,,18176,1050345.93,Eating,
+mcwdy,2,,18176,219501.12,Apparel,
+mcwdy,2,,18176,2207513.66,Retail,
+mcwdy,2,,18183,1054849.26,Eating,
+mcwdy,2,,18183,210175.83000000002,Apparel,
+mcwdy,2,,18183,2192706.81,Retail,
+mcwdy,2,,18190,1058505.42,Eating,
+mcwdy,2,,18190,214747.19,Apparel,
+mcwdy,2,,18190,2170323.65,Retail,
+mcwdy,2,,18197,1117139.24,Eating,
+mcwdy,2,,18197,234395.75,Apparel,
+mcwdy,2,,18197,2267784.2,Retail,
+mcwdy,2,,18204,1063524.6400000001,Eating,
+mcwdy,2,,18204,206212.95,Apparel,
+mcwdy,2,,18204,2181502.95,Retail,
+mcwdy,2,,18211,1083112.3900000001,Eating,
+mcwdy,2,,18211,208326.73,Apparel,
+mcwdy,2,,18211,2199197.42,Retail,
+mcwdy,2,,18218,1100057.78,Eating,
+mcwdy,2,,18218,221917.01,Apparel,
+mcwdy,2,,18218,2263218.47,Retail,
+mcwdy,2,,18225,1112245.45,Eating,
+mcwdy,2,,18225,214244.87,Apparel,
+mcwdy,2,,18225,2299967.61,Retail,
+mcwdy,2,,18232,1150390.76,Eating,
+mcwdy,2,,18232,247376.06,Apparel,
+mcwdy,2,,18232,2432956.6,Retail,
+mcwdy,2,,18239,1161476.98,Eating,
+mcwdy,2,,18239,247189.07,Apparel,
+mcwdy,2,,18239,2422154.83,Retail,
+mcwdy,2,,18246,1199039.38,Eating,
+mcwdy,2,,18246,253245.65,Apparel,
+mcwdy,2,,18246,2327511.4699999997,Retail,
+mcwdy,2,,18253,725565.81,Eating,
+mcwdy,2,,18253,209763.6,Apparel,
+mcwdy,2,,18253,1499251.51,Retail,
+mcwdy,2,,18260,883650.56,Eating,
+mcwdy,2,,18260,229452.74,Apparel,
+mcwdy,2,,18260,1918162.2,Retail,
+mcwdy,2,,18267,843010.85,Eating,
+mcwdy,2,,18267,175934.12,Apparel,
+mcwdy,2,,18267,1852544.23,Retail,
+mcwdy,2,,18274,953310.48,Eating,
+mcwdy,2,,18274,162515.19,Apparel,
+mcwdy,2,,18274,1920120.85,Retail,
+mcwdy,2,,18281,1009099.36,Eating,
+mcwdy,2,,18281,166694.57,Apparel,
+mcwdy,2,,18281,1997893.53,Retail,
+mcwdy,2,,18288,990640.9,Eating,
+mcwdy,2,,18288,162790.83000000002,Apparel,
+mcwdy,2,,18288,1959187.92,Retail,
+mcwdy,2,,18295,1031024.16,Eating,
+mcwdy,2,,18295,159569.79,Apparel,
+mcwdy,2,,18295,2004184.13,Retail,
+mcwdy,2,,18302,1030449.88,Eating,
+mcwdy,2,,18302,155454.37,Apparel,
+mcwdy,2,,18302,2003149.24,Retail,
+mcwdy,2,,18309,1078431.92,Eating,
+mcwdy,2,,18309,170092.94999999998,Apparel,
+mcwdy,2,,18309,2028388.3699999999,Retail,
+mcwdy,2,,18316,1036100.1900000001,Eating,
+mcwdy,2,,18316,162517.75,Apparel,
+mcwdy,2,,18316,2033482.8599999999,Retail,
+mcwdy,2,,18323,1008204.78,Eating,
+mcwdy,2,,18323,150105.25,Apparel,
+mcwdy,2,,18323,2056994.96,Retail,
+mcwdy,2,,18330,839635.03,Eating,
+mcwdy,2,,18330,125615.52,Apparel,
+mcwdy,2,,18330,1914941.43,Retail,
+mcwdy,2,,18337,275828.95,Eating,
+mcwdy,2,,18337,43649.48,Apparel,
+mcwdy,2,,18337,1462389.62,Retail,
+mcwdy,2,,18344,38991.96,Eating,
+mcwdy,2,,18344,1073.74,Apparel,
+mcwdy,2,,18344,564024.8,Retail,
+mcwdy,2,,18351,15746.26,Eating,
+mcwdy,2,,18351,0,Apparel,
+mcwdy,2,,18351,407578.7,Retail,
+mcwdy,2,,18358,16913.15,Eating,
+mcwdy,2,,18358,36.15,Apparel,
+mcwdy,2,,18358,448158.08,Retail,
+mcwdy,2,,18365,18466.68,Eating,
+mcwdy,2,,18365,0,Apparel,
+mcwdy,2,,18365,424232.55,Retail,
+mcwdy,2,,18372,24807.35,Eating,
+mcwdy,2,,18372,0,Apparel,
+mcwdy,2,,18372,454843.31,Retail,
+mcwdy,2,,18379,26658.37,Eating,
+mcwdy,2,,18379,41.26,Apparel,
+mcwdy,2,,18379,460415.02,Retail,
+mcwdy,2,,18386,36573.45,Eating,
+mcwdy,2,,18386,89.89,Apparel,
+mcwdy,2,,18386,504517.76,Retail,
+mcwdy,2,,18393,43492.09,Eating,
+mcwdy,2,,18393,89.12,Apparel,
+mcwdy,2,,18393,516627.07,Retail,
+mcwdy,2,,18400,55650.63,Eating,
+mcwdy,2,,18400,123.50999999999999,Apparel,
+mcwdy,2,,18400,588421.29,Retail,
+mcwdy,2,,18407,65427.02,Eating,
+mcwdy,2,,18407,193.12,Apparel,
+mcwdy,2,,18407,594796.71,Retail,
+mcwdy,2,,18414,72653.34,Eating,
+mcwdy,2,,18414,173.94,Apparel,
+mcwdy,2,,18414,615117.95,Retail,
+mcwdy,2,,18421,78037.89,Eating,
+mcwdy,2,,18421,526.46,Apparel,
+mcwdy,2,,18421,629054.42,Retail,
+mcwdy,2,,18428,90817.2,Eating,
+mcwdy,2,,18428,62157.5,Apparel,
+mcwdy,2,,18428,844038.35,Retail,
+mcwdy,2,,18435,107753.27,Eating,
+mcwdy,2,,18435,56699.61,Apparel,
+mcwdy,2,,18435,848402.7,Retail,
+mcwdy,2,,18442,113963.42,Eating,
+mcwdy,2,,18442,70213.73,Apparel,
+mcwdy,2,,18442,885379,Retail,
+mcwdy,2,,18449,244405.31,Eating,
+mcwdy,2,,18449,73757.21,Apparel,
+mcwdy,2,,18449,998317,Retail,
+mcwdy,2,,18456,278646.97000000003,Eating,
+mcwdy,2,,18456,74609.22,Apparel,
+mcwdy,2,,18456,1036727.52,Retail,
+mcwdy,2,,18463,311969.52999999997,Eating,
+mcwdy,2,,18463,78931.54000000001,Apparel,
+mcwdy,2,,18463,1056367.84,Retail,
+mcwdy,2,,18470,356533.07,Eating,
+mcwdy,2,,18470,80050.68000000001,Apparel,
+mcwdy,2,,18470,1112035.02,Retail,
+mcwdy,2,,18477,388930.47000000003,Eating,
+mcwdy,2,,18477,81807.06,Apparel,
+mcwdy,2,,18477,1114617.22,Retail,
+mcwdy,2,,18484,423136.43,Eating,
+mcwdy,2,,18484,78472.42,Apparel,
+mcwdy,2,,18484,1117144.8,Retail,
+mcwdy,2,,18491,462541.27,Eating,
+mcwdy,2,,18491,80100.27,Apparel,
+mcwdy,2,,18491,1185593.51,Retail,
+mcwdy,2,,18498,513836.66000000003,Eating,
+mcwdy,2,,18498,96124.32,Apparel,
+mcwdy,2,,18498,1289774.91,Retail,
+mcwdy,2,,18505,491423.88,Eating,
+mcwdy,2,,18505,96271.47,Apparel,
+mcwdy,2,,18505,1233906.52,Retail,
+mcwdy,2,,18512,516191.76999999996,Eating,
+mcwdy,2,,18512,94160.72,Apparel,
+mcwdy,2,,18512,1313448.29,Retail,
+mcwdy,2,,18519,526786.77,Eating,
+mcwdy,2,,18519,89786.76,Apparel,
+mcwdy,2,,18519,1320334.05,Retail,
+mcwdy,2,,18526,493250.45,Eating,
+mcwdy,2,,18526,93158.45,Apparel,
+mcwdy,2,,18526,1330170.52,Retail,
+mcwdy,2,,18533,486298.33,Eating,
+mcwdy,2,,18533,98092.68000000001,Apparel,
+mcwdy,2,,18533,1329046.66,Retail,
+mcwdy,2,,18540,495932.92000000004,Eating,
+mcwdy,2,,18540,99820.98,Apparel,
+mcwdy,2,,18540,1338586.13,Retail,
+mcwdy,2,,18547,515952.76,Eating,
+mcwdy,2,,18547,98396.87,Apparel,
+mcwdy,2,,18547,1352554.69,Retail,
+mcwdy,2,,18554,422975.19,Eating,
+mcwdy,2,,18554,95056.07,Apparel,
+mcwdy,2,,18554,1291342.35,Retail,
+mcwdy,2,,18561,497475.43,Eating,
+mcwdy,2,,18561,113052.81,Apparel,
+mcwdy,2,,18561,1408195.67,Retail,
+mcwdy,2,,18568,501049.89,Eating,
+mcwdy,2,,18568,147970.63,Apparel,
+mcwdy,2,,18568,1394112.93,Retail,
+mcwdy,2,,18575,134817.99,Eating,
+mcwdy,2,,18575,884.21,Apparel,
+mcwdy,2,,18575,718287.11,Retail,
+mcwdy,2,,18582,135146.53,Eating,
+mcwdy,2,,18582,1779.3799999999999,Apparel,
+mcwdy,2,,18582,725183.57,Retail,
+mcwdy,2,,18589,151634.27,Eating,
+mcwdy,2,,18589,847.4599999999999,Apparel,
+mcwdy,2,,18589,765330.43,Retail,
+mcwdy,2,,18596,478088.20999999996,Eating,
+mcwdy,2,,18596,135534.59,Apparel,
+mcwdy,2,,18596,1379805.03,Retail,
+mcwdy,2,,18603,571391.07,Eating,
+mcwdy,2,,18603,160489.28,Apparel,
+mcwdy,2,,18603,1627055.3699999999,Retail,
+mcwdy,2,,18610,421126.31,Eating,
+mcwdy,2,,18610,152431.32,Apparel,
+mcwdy,2,,18610,1515637.69,Retail,
+mcwdy,2,,18617,135818.14,Eating,
+mcwdy,2,,18617,7267.38,Apparel,
+mcwdy,2,,18617,668692.39,Retail,
+mcwdy,2,,18624,118577.38,Eating,
+mcwdy,2,,18624,1465.6499999999999,Apparel,
+mcwdy,2,,18624,592853.48,Retail,
+mcwkd,2,,17532,527122.52,Eating,
+mcwkd,2,,17532,173362.79,Apparel,
+mcwkd,2,,17532,1366559.24,Retail,
+mcwkd,2,,17539,620136.16,Eating,
+mcwkd,2,,17539,168659.28,Apparel,
+mcwkd,2,,17539,1465878.15,Retail,
+mcwkd,2,,17546,646854.74,Eating,
+mcwkd,2,,17546,161427.54,Apparel,
+mcwkd,2,,17546,1456984.87,Retail,
+mcwkd,2,,17553,666930.1900000001,Eating,
+mcwkd,2,,17553,170807.76,Apparel,
+mcwkd,2,,17553,1487342.44,Retail,
+mcwkd,2,,17560,658950.57,Eating,
+mcwkd,2,,17560,158511.24,Apparel,
+mcwkd,2,,17560,1458601.3900000001,Retail,
+mcwkd,2,,17567,694856.59,Eating,
+mcwkd,2,,17567,153155.96000000002,Apparel,
+mcwkd,2,,17567,1495920.94,Retail,
+mcwkd,2,,17574,679157.99,Eating,
+mcwkd,2,,17574,164530.59,Apparel,
+mcwkd,2,,17574,1468776.18,Retail,
+mcwkd,2,,17581,703346.99,Eating,
+mcwkd,2,,17581,176153.73,Apparel,
+mcwkd,2,,17581,1560111.33,Retail,
+mcwkd,2,,17588,638396.09,Eating,
+mcwkd,2,,17588,158791.22,Apparel,
+mcwkd,2,,17588,1491715.21,Retail,
+mcwkd,2,,17595,750361.9,Eating,
+mcwkd,2,,17595,178838.98,Apparel,
+mcwkd,2,,17595,1610499.0999999999,Retail,
+mcwkd,2,,17602,678875.21,Eating,
+mcwkd,2,,17602,159306.19,Apparel,
+mcwkd,2,,17602,1506863.79,Retail,
+mcwkd,2,,17609,707496.71,Eating,
+mcwkd,2,,17609,184604.05,Apparel,
+mcwkd,2,,17609,1608415.93,Retail,
+mcwkd,2,,17616,634236.28,Eating,
+mcwkd,2,,17616,187632.05,Apparel,
+mcwkd,2,,17616,1366717.73,Retail,
+mcwkd,2,,17623,669208.08,Eating,
+mcwkd,2,,17623,176158.13999999998,Apparel,
+mcwkd,2,,17623,1515414.99,Retail,
+mcwkd,2,,17630,684838.59,Eating,
+mcwkd,2,,17630,179606.44,Apparel,
+mcwkd,2,,17630,1535354.29,Retail,
+mcwkd,2,,17637,741905.46,Eating,
+mcwkd,2,,17637,196140.07,Apparel,
+mcwkd,2,,17637,1652814,Retail,
+mcwkd,2,,17644,781606.82,Eating,
+mcwkd,2,,17644,206449.26,Apparel,
+mcwkd,2,,17644,1747630.7,Retail,
+mcwkd,2,,17651,719016.54,Eating,
+mcwkd,2,,17651,196622.34,Apparel,
+mcwkd,2,,17651,1636460.72,Retail,
+mcwkd,2,,17658,722045.01,Eating,
+mcwkd,2,,17658,186921.4,Apparel,
+mcwkd,2,,17658,1646115.79,Retail,
+mcwkd,2,,17665,688625.03,Eating,
+mcwkd,2,,17665,184538.41999999998,Apparel,
+mcwkd,2,,17665,1579301.55,Retail,
+mcwkd,2,,17672,691253.17,Eating,
+mcwkd,2,,17672,179772.45,Apparel,
+mcwkd,2,,17672,1583437.93,Retail,
+mcwkd,2,,17679,658314.87,Eating,
+mcwkd,2,,17679,176012.01,Apparel,
+mcwkd,2,,17679,1569312.69,Retail,
+mcwkd,2,,17686,685132.88,Eating,
+mcwkd,2,,17686,183591.68,Apparel,
+mcwkd,2,,17686,1621325.04,Retail,
+mcwkd,2,,17693,754560.93,Eating,
+mcwkd,2,,17693,193029.46,Apparel,
+mcwkd,2,,17693,1715909.53,Retail,
+mcwkd,2,,17700,709546.63,Eating,
+mcwkd,2,,17700,191248.95,Apparel,
+mcwkd,2,,17700,1712802.3800000001,Retail,
+mcwkd,2,,17707,679690.69,Eating,
+mcwkd,2,,17707,188161.82,Apparel,
+mcwkd,2,,17707,1684088.76,Retail,
+mcwkd,2,,17714,719082.85,Eating,
+mcwkd,2,,17714,177410.1,Apparel,
+mcwkd,2,,17714,1717441.24,Retail,
+mcwkd,2,,17721,735991.02,Eating,
+mcwkd,2,,17721,183041.05,Apparel,
+mcwkd,2,,17721,1745849.17,Retail,
+mcwkd,2,,17728,717083.37,Eating,
+mcwkd,2,,17728,184602.69999999998,Apparel,
+mcwkd,2,,17728,1694428.05,Retail,
+mcwkd,2,,17735,730081.8099999999,Eating,
+mcwkd,2,,17735,186112.26,Apparel,
+mcwkd,2,,17735,1660523.29,Retail,
+mcwkd,2,,17742,691223.52,Eating,
+mcwkd,2,,17742,165967.9,Apparel,
+mcwkd,2,,17742,1593066.14,Retail,
+mcwkd,2,,17749,712434.58,Eating,
+mcwkd,2,,17749,183849.07,Apparel,
+mcwkd,2,,17749,1619366.38,Retail,
+mcwkd,2,,17756,713633.89,Eating,
+mcwkd,2,,17756,187672.48,Apparel,
+mcwkd,2,,17756,1654991.95,Retail,
+mcwkd,2,,17763,684266.73,Eating,
+mcwkd,2,,17763,181789.34,Apparel,
+mcwkd,2,,17763,1581648.71,Retail,
+mcwkd,2,,17770,695611.17,Eating,
+mcwkd,2,,17770,169636.35,Apparel,
+mcwkd,2,,17770,1603920.43,Retail,
+mcwkd,2,,17777,749622.21,Eating,
+mcwkd,2,,17777,186395.45,Apparel,
+mcwkd,2,,17777,1730994.92,Retail,
+mcwkd,2,,17784,777713.55,Eating,
+mcwkd,2,,17784,195715.94,Apparel,
+mcwkd,2,,17784,1776458.57,Retail,
+mcwkd,2,,17791,798073.6499999999,Eating,
+mcwkd,2,,17791,209093.04,Apparel,
+mcwkd,2,,17791,1815093.04,Retail,
+mcwkd,2,,17798,826951.42,Eating,
+mcwkd,2,,17798,218302.71,Apparel,
+mcwkd,2,,17798,1874516.43,Retail,
+mcwkd,2,,17805,839972.27,Eating,
+mcwkd,2,,17805,213823.16999999998,Apparel,
+mcwkd,2,,17805,1864616.95,Retail,
+mcwkd,2,,17812,854839.7999999999,Eating,
+mcwkd,2,,17812,212856.32,Apparel,
+mcwkd,2,,17812,1865758.51,Retail,
+mcwkd,2,,17819,878852.41,Eating,
+mcwkd,2,,17819,212269.78,Apparel,
+mcwkd,2,,17819,1867475.49,Retail,
+mcwkd,2,,17826,858732.65,Eating,
+mcwkd,2,,17826,219959.97,Apparel,
+mcwkd,2,,17826,1886194.52,Retail,
+mcwkd,2,,17833,880048.21,Eating,
+mcwkd,2,,17833,222115.35,Apparel,
+mcwkd,2,,17833,1922761.55,Retail,
+mcwkd,2,,17840,873497,Eating,
+mcwkd,2,,17840,216020.36,Apparel,
+mcwkd,2,,17840,1865108.76,Retail,
+mcwkd,2,,17847,898172.64,Eating,
+mcwkd,2,,17847,225576,Apparel,
+mcwkd,2,,17847,1963831.98,Retail,
+mcwkd,2,,17854,905030.26,Eating,
+mcwkd,2,,17854,219911.4,Apparel,
+mcwkd,2,,17854,1938585.07,Retail,
+mcwkd,2,,17861,924279.4500000001,Eating,
+mcwkd,2,,17861,222806.76,Apparel,
+mcwkd,2,,17861,1998452.28,Retail,
+mcwkd,2,,17868,938092.34,Eating,
+mcwkd,2,,17868,229703.31,Apparel,
+mcwkd,2,,17868,2026616,Retail,
+mcwkd,2,,17875,928846.71,Eating,
+mcwkd,2,,17875,222474.89,Apparel,
+mcwkd,2,,17875,1940562.9,Retail,
+mcwkd,2,,17882,770677.42,Eating,
+mcwkd,2,,17882,215018.63,Apparel,
+mcwkd,2,,17882,1674695.08,Retail,
+mcwkd,2,,17889,783422.9,Eating,
+mcwkd,2,,17889,216027.16,Apparel,
+mcwkd,2,,17889,1724575.74,Retail,
+mcwkd,2,,17896,690769.39,Eating,
+mcwkd,2,,17896,194491.45,Apparel,
+mcwkd,2,,17896,1612602.3800000001,Retail,
+mcwkd,2,,17903,785477.3,Eating,
+mcwkd,2,,17903,183751.03,Apparel,
+mcwkd,2,,17903,1695666.58,Retail,
+mcwkd,2,,17910,837300.04,Eating,
+mcwkd,2,,17910,184132.2,Apparel,
+mcwkd,2,,17910,1734688.14,Retail,
+mcwkd,2,,17917,843598.14,Eating,
+mcwkd,2,,17917,187779.64,Apparel,
+mcwkd,2,,17917,1745620.64,Retail,
+mcwkd,2,,17924,852670.5,Eating,
+mcwkd,2,,17924,187996.63,Apparel,
+mcwkd,2,,17924,1745404.12,Retail,
+mcwkd,2,,17931,878055.0700000001,Eating,
+mcwkd,2,,17931,187082.3,Apparel,
+mcwkd,2,,17931,1782332.17,Retail,
+mcwkd,2,,17938,904405.86,Eating,
+mcwkd,2,,17938,182480.75,Apparel,
+mcwkd,2,,17938,1764727.78,Retail,
+mcwkd,2,,17945,869333.11,Eating,
+mcwkd,2,,17945,177387.74,Apparel,
+mcwkd,2,,17945,1732908.93,Retail,
+mcwkd,2,,17952,896279.43,Eating,
+mcwkd,2,,17952,200715.55,Apparel,
+mcwkd,2,,17952,1878836.3800000001,Retail,
+mcwkd,2,,17959,912186.96,Eating,
+mcwkd,2,,17959,205810.23,Apparel,
+mcwkd,2,,17959,1877609.43,Retail,
+mcwkd,2,,17966,918671.36,Eating,
+mcwkd,2,,17966,199802.82,Apparel,
+mcwkd,2,,17966,1873737.5999999999,Retail,
+mcwkd,2,,17973,940445.92,Eating,
+mcwkd,2,,17973,205175.58,Apparel,
+mcwkd,2,,17973,1915227.43,Retail,
+mcwkd,2,,17980,957348.1699999999,Eating,
+mcwkd,2,,17980,210356.31,Apparel,
+mcwkd,2,,17980,1924707.15,Retail,
+mcwkd,2,,17987,900449.3,Eating,
+mcwkd,2,,17987,211682.67,Apparel,
+mcwkd,2,,17987,1916903.04,Retail,
+mcwkd,2,,17994,907476.24,Eating,
+mcwkd,2,,17994,208638.62,Apparel,
+mcwkd,2,,17994,1907340.57,Retail,
+mcwkd,2,,18001,797658.76,Eating,
+mcwkd,2,,18001,198558.30000000002,Apparel,
+mcwkd,2,,18001,1499155.64,Retail,
+mcwkd,2,,18008,950414.29,Eating,
+mcwkd,2,,18008,209941.99,Apparel,
+mcwkd,2,,18008,1975388.17,Retail,
+mcwkd,2,,18015,950011.7,Eating,
+mcwkd,2,,18015,210655.4,Apparel,
+mcwkd,2,,18015,1965377.73,Retail,
+mcwkd,2,,18022,902285.59,Eating,
+mcwkd,2,,18022,200366.52,Apparel,
+mcwkd,2,,18022,1894901.32,Retail,
+mcwkd,2,,18029,917188.61,Eating,
+mcwkd,2,,18029,209998.47,Apparel,
+mcwkd,2,,18029,1939765.81,Retail,
+mcwkd,2,,18036,912351.13,Eating,
+mcwkd,2,,18036,206376.88999999998,Apparel,
+mcwkd,2,,18036,1899777.93,Retail,
+mcwkd,2,,18043,847968.37,Eating,
+mcwkd,2,,18043,213471.79,Apparel,
+mcwkd,2,,18043,1917842.51,Retail,
+mcwkd,2,,18050,954596.28,Eating,
+mcwkd,2,,18050,225506.43,Apparel,
+mcwkd,2,,18050,2031837.61,Retail,
+mcwkd,2,,18057,991724.3200000001,Eating,
+mcwkd,2,,18057,223332.81,Apparel,
+mcwkd,2,,18057,2084324.61,Retail,
+mcwkd,2,,18064,943547.6,Eating,
+mcwkd,2,,18064,224524.46,Apparel,
+mcwkd,2,,18064,2072596.81,Retail,
+mcwkd,2,,18071,912554.33,Eating,
+mcwkd,2,,18071,220039.69,Apparel,
+mcwkd,2,,18071,2027774.63,Retail,
+mcwkd,2,,18078,940974.86,Eating,
+mcwkd,2,,18078,224749.4,Apparel,
+mcwkd,2,,18078,2092446.7,Retail,
+mcwkd,2,,18085,955141.7,Eating,
+mcwkd,2,,18085,224008.39,Apparel,
+mcwkd,2,,18085,2090543.8900000001,Retail,
+mcwkd,2,,18092,941490.1900000001,Eating,
+mcwkd,2,,18092,220856.13,Apparel,
+mcwkd,2,,18092,2018667.4000000001,Retail,
+mcwkd,2,,18099,942676.26,Eating,
+mcwkd,2,,18099,220908.5,Apparel,
+mcwkd,2,,18099,2004280.0899999999,Retail,
+mcwkd,2,,18106,919442.77,Eating,
+mcwkd,2,,18106,206355.04,Apparel,
+mcwkd,2,,18106,1933763.04,Retail,
+mcwkd,2,,18113,932610.97,Eating,
+mcwkd,2,,18113,206375.52,Apparel,
+mcwkd,2,,18113,1966830.63,Retail,
+mcwkd,2,,18120,942072.17,Eating,
+mcwkd,2,,18120,214212.74,Apparel,
+mcwkd,2,,18120,1978179.64,Retail,
+mcwkd,2,,18127,865755.85,Eating,
+mcwkd,2,,18127,182760.97999999998,Apparel,
+mcwkd,2,,18127,1800812.3800000001,Retail,
+mcwkd,2,,18134,897234.68,Eating,
+mcwkd,2,,18134,201851.88,Apparel,
+mcwkd,2,,18134,1927275.3599999999,Retail,
+mcwkd,2,,18141,945043.96,Eating,
+mcwkd,2,,18141,227613.33,Apparel,
+mcwkd,2,,18141,2040146.59,Retail,
+mcwkd,2,,18148,974631.43,Eating,
+mcwkd,2,,18148,215643.41999999998,Apparel,
+mcwkd,2,,18148,2069242.06,Retail,
+mcwkd,2,,18155,966370.48,Eating,
+mcwkd,2,,18155,229181.66,Apparel,
+mcwkd,2,,18155,2080849.33,Retail,
+mcwkd,2,,18162,986266.5,Eating,
+mcwkd,2,,18162,240756.89,Apparel,
+mcwkd,2,,18162,2138747.11,Retail,
+mcwkd,2,,18169,994738.8099999999,Eating,
+mcwkd,2,,18169,236044.72,Apparel,
+mcwkd,2,,18169,2140891.0100000002,Retail,
+mcwkd,2,,18176,1001517.4,Eating,
+mcwkd,2,,18176,229176.86,Apparel,
+mcwkd,2,,18176,2103438.25,Retail,
+mcwkd,2,,18183,1002726.98,Eating,
+mcwkd,2,,18183,239598.11000000002,Apparel,
+mcwkd,2,,18183,2090166.05,Retail,
+mcwkd,2,,18190,1017901.0800000001,Eating,
+mcwkd,2,,18190,241204.59,Apparel,
+mcwkd,2,,18190,2097598.81,Retail,
+mcwkd,2,,18197,984731.3200000001,Eating,
+mcwkd,2,,18197,230935.87,Apparel,
+mcwkd,2,,18197,2028462.94,Retail,
+mcwkd,2,,18204,1009899.26,Eating,
+mcwkd,2,,18204,237691.44,Apparel,
+mcwkd,2,,18204,2109755.0100000002,Retail,
+mcwkd,2,,18211,991632.64,Eating,
+mcwkd,2,,18211,233648.88,Apparel,
+mcwkd,2,,18211,2098247.56,Retail,
+mcwkd,2,,18218,1008814.28,Eating,
+mcwkd,2,,18218,235004.46,Apparel,
+mcwkd,2,,18218,2112267.57,Retail,
+mcwkd,2,,18225,1023850.5700000001,Eating,
+mcwkd,2,,18225,213581.76,Apparel,
+mcwkd,2,,18225,2087937.96,Retail,
+mcwkd,2,,18232,1025949.92,Eating,
+mcwkd,2,,18232,242932.69,Apparel,
+mcwkd,2,,18232,2119153.11,Retail,
+mcwkd,2,,18239,1061379.01,Eating,
+mcwkd,2,,18239,230800.28,Apparel,
+mcwkd,2,,18239,2023662.72,Retail,
+mcwkd,2,,18246,1013082.27,Eating,
+mcwkd,2,,18246,226498.12,Apparel,
+mcwkd,2,,18246,1914695.9200000002,Retail,
+mcwkd,2,,18253,884477.42,Eating,
+mcwkd,2,,18253,228239.8,Apparel,
+mcwkd,2,,18253,1846827.19,Retail,
+mcwkd,2,,18260,841634.05,Eating,
+mcwkd,2,,18260,212900.17,Apparel,
+mcwkd,2,,18260,1826467.66,Retail,
+mcwkd,2,,18267,913689.58,Eating,
+mcwkd,2,,18267,200349.56,Apparel,
+mcwkd,2,,18267,1849653.6,Retail,
+mcwkd,2,,18274,957326,Eating,
+mcwkd,2,,18274,205754.88,Apparel,
+mcwkd,2,,18274,1914436.06,Retail,
+mcwkd,2,,18281,952744.03,Eating,
+mcwkd,2,,18281,203692.27,Apparel,
+mcwkd,2,,18281,1900255.82,Retail,
+mcwkd,2,,18288,956472.05,Eating,
+mcwkd,2,,18288,197475.27,Apparel,
+mcwkd,2,,18288,1889574.38,Retail,
+mcwkd,2,,18295,897634.72,Eating,
+mcwkd,2,,18295,181303.86,Apparel,
+mcwkd,2,,18295,1761309.2,Retail,
+mcwkd,2,,18302,959984.8,Eating,
+mcwkd,2,,18302,170485.59,Apparel,
+mcwkd,2,,18302,1830339.88,Retail,
+mcwkd,2,,18309,976984.64,Eating,
+mcwkd,2,,18309,188610.78999999998,Apparel,
+mcwkd,2,,18309,1882740.46,Retail,
+mcwkd,2,,18316,1008866.16,Eating,
+mcwkd,2,,18316,202114.96,Apparel,
+mcwkd,2,,18316,1963870.52,Retail,
+mcwkd,2,,18323,1084529.19,Eating,
+mcwkd,2,,18323,182389.06,Apparel,
+mcwkd,2,,18323,2115343.77,Retail,
+mcwkd,2,,18330,749983.17,Eating,
+mcwkd,2,,18330,125128.52,Apparel,
+mcwkd,2,,18330,1823158.71,Retail,
+mcwkd,2,,18337,69454.73,Eating,
+mcwkd,2,,18337,11206.710000000001,Apparel,
+mcwkd,2,,18337,756811.56,Retail,
+mcwkd,2,,18344,10860.44,Eating,
+mcwkd,2,,18344,0,Apparel,
+mcwkd,2,,18344,305601.36,Retail,
+mcwkd,2,,18351,14676.35,Eating,
+mcwkd,2,,18351,41.2,Apparel,
+mcwkd,2,,18351,337698.98,Retail,
+mcwkd,2,,18358,13769.31,Eating,
+mcwkd,2,,18358,0,Apparel,
+mcwkd,2,,18358,346954.73,Retail,
+mcwkd,2,,18365,21372.48,Eating,
+mcwkd,2,,18365,0,Apparel,
+mcwkd,2,,18365,365100.84,Retail,
+mcwkd,2,,18372,27689.93,Eating,
+mcwkd,2,,18372,80.22,Apparel,
+mcwkd,2,,18372,384434.81,Retail,
+mcwkd,2,,18379,34470.76,Eating,
+mcwkd,2,,18379,34.53,Apparel,
+mcwkd,2,,18379,408462.38,Retail,
+mcwkd,2,,18386,28994.24,Eating,
+mcwkd,2,,18386,11.94,Apparel,
+mcwkd,2,,18386,369939.88,Retail,
+mcwkd,2,,18393,57364.57,Eating,
+mcwkd,2,,18393,135.36,Apparel,
+mcwkd,2,,18393,471154.36,Retail,
+mcwkd,2,,18400,69081.63,Eating,
+mcwkd,2,,18400,185.29,Apparel,
+mcwkd,2,,18400,516368.82,Retail,
+mcwkd,2,,18407,73682.1,Eating,
+mcwkd,2,,18407,0,Apparel,
+mcwkd,2,,18407,491596.85,Retail,
+mcwkd,2,,18414,80858.92,Eating,
+mcwkd,2,,18414,161.01999999999998,Apparel,
+mcwkd,2,,18414,534555.97,Retail,
+mcwkd,2,,18421,95817.86,Eating,
+mcwkd,2,,18421,405.37,Apparel,
+mcwkd,2,,18421,560458.9,Retail,
+mcwkd,2,,18428,108644.27,Eating,
+mcwkd,2,,18428,62031,Apparel,
+mcwkd,2,,18428,761938.7,Retail,
+mcwkd,2,,18435,110964.2,Eating,
+mcwkd,2,,18435,66463.06999999999,Apparel,
+mcwkd,2,,18435,760040.0599999999,Retail,
+mcwkd,2,,18442,286353.38,Eating,
+mcwkd,2,,18442,83042.81,Apparel,
+mcwkd,2,,18442,950465.47,Retail,
+mcwkd,2,,18449,322208.97,Eating,
+mcwkd,2,,18449,82460.25,Apparel,
+mcwkd,2,,18449,972010.51,Retail,
+mcwkd,2,,18456,320659.35,Eating,
+mcwkd,2,,18456,78046.12,Apparel,
+mcwkd,2,,18456,899687.13,Retail,
+mcwkd,2,,18463,373468.47,Eating,
+mcwkd,2,,18463,85329.71,Apparel,
+mcwkd,2,,18463,997355.5700000001,Retail,
+mcwkd,2,,18470,425378.35,Eating,
+mcwkd,2,,18470,85797.94,Apparel,
+mcwkd,2,,18470,1075914.77,Retail,
+mcwkd,2,,18477,435642.08,Eating,
+mcwkd,2,,18477,79808.23,Apparel,
+mcwkd,2,,18477,1051980.43,Retail,
+mcwkd,2,,18484,472680.32,Eating,
+mcwkd,2,,18484,90333.23,Apparel,
+mcwkd,2,,18484,1108470.6199999999,Retail,
+mcwkd,2,,18491,507542.89999999997,Eating,
+mcwkd,2,,18491,92496.42,Apparel,
+mcwkd,2,,18491,1194523.78,Retail,
+mcwkd,2,,18498,579882.75,Eating,
+mcwkd,2,,18498,107586.05,Apparel,
+mcwkd,2,,18498,1297023.01,Retail,
+mcwkd,2,,18505,582260.59,Eating,
+mcwkd,2,,18505,98867.09,Apparel,
+mcwkd,2,,18505,1229881.56,Retail,
+mcwkd,2,,18512,629385.79,Eating,
+mcwkd,2,,18512,101056.51,Apparel,
+mcwkd,2,,18512,1324931.87,Retail,
+mcwkd,2,,18519,658957.46,Eating,
+mcwkd,2,,18519,106497.81999999999,Apparel,
+mcwkd,2,,18519,1417182.6300000001,Retail,
+mcwkd,2,,18526,587031.75,Eating,
+mcwkd,2,,18526,129233.87,Apparel,
+mcwkd,2,,18526,1377108.31,Retail,
+mcwkd,2,,18533,612268.14,Eating,
+mcwkd,2,,18533,124306.51000000001,Apparel,
+mcwkd,2,,18533,1427360.56,Retail,
+mcwkd,2,,18540,674855.8099999999,Eating,
+mcwkd,2,,18540,134416.43,Apparel,
+mcwkd,2,,18540,1471299.39,Retail,
+mcwkd,2,,18547,558856.27,Eating,
+mcwkd,2,,18547,127422.58,Apparel,
+mcwkd,2,,18547,1404953.26,Retail,
+mcwkd,2,,18554,585803.19,Eating,
+mcwkd,2,,18554,125628.74,Apparel,
+mcwkd,2,,18554,1427991.82,Retail,
+mcwkd,2,,18561,647060.89,Eating,
+mcwkd,2,,18561,134083.07,Apparel,
+mcwkd,2,,18561,1549141.65,Retail,
+mcwkd,2,,18568,124748.04,Eating,
+mcwkd,2,,18568,374.05,Apparel,
+mcwkd,2,,18568,623560.67,Retail,
+mcwkd,2,,18575,129978.53,Eating,
+mcwkd,2,,18575,229.1,Apparel,
+mcwkd,2,,18575,636580.94,Retail,
+mcwkd,2,,18582,147394.58,Eating,
+mcwkd,2,,18582,207.79,Apparel,
+mcwkd,2,,18582,659142.24,Retail,
+mcwkd,2,,18589,149691.96,Eating,
+mcwkd,2,,18589,128.97,Apparel,
+mcwkd,2,,18589,682393.86,Retail,
+mcwkd,2,,18596,659235.98,Eating,
+mcwkd,2,,18596,152190.32,Apparel,
+mcwkd,2,,18596,1527193.18,Retail,
+mcwkd,2,,18603,675841.6,Eating,
+mcwkd,2,,18603,160564.17,Apparel,
+mcwkd,2,,18603,1590389.25,Retail,
+mcwkd,2,,18610,168564.63,Eating,
+mcwkd,2,,18610,142698.96,Apparel,
+mcwkd,2,,18610,988548.42,Retail,
+mcwkd,2,,18617,78401.8,Eating,
+mcwkd,2,,18617,654.86,Apparel,
+mcwkd,2,,18617,308117.11,Retail,
+mcwkd,2,,18624,107690.08,Eating,
+mcwkd,2,,18624,279.47,Apparel,
+mcwkd,2,,18624,487138.31,Retail,
+htrw,2,,18262,0.028987895996705548,Passengers,
+htrw,2,,18262,0.005913080370164134,Air transport movements,
+htrw,2,,18262,-0.11370360104609059,Cargo,
+htrw,2,,18293,-0.0073739285495399,Passengers,
+htrw,2,,18293,0.00287495374455609,Air transport movements,
+htrw,2,,18293,-0.09530600289203886,Cargo,
+htrw,2,,18322,-0.5240367314291913,Passengers,
+htrw,2,,18322,-0.35260608798213255,Air transport movements,
+htrw,2,,18322,-0.3249924414353037,Cargo,
+htrw,2,,18353,-0.9696502550964872,Passengers,
+htrw,2,,18353,-0.8790979535068547,Air transport movements,
+htrw,2,,18353,-0.6166161678085615,Cargo,
+htrw,2,,18383,-0.9664303063583567,Passengers,
+htrw,2,,18383,-0.8442408062149747,Air transport movements,
+htrw,2,,18383,-0.41966706250795854,Cargo,
+htrw,2,,18414,-0.9516624147858643,Passengers,
+htrw,2,,18414,-0.8234948317248812,Air transport movements,
+htrw,2,,18414,-0.32099254395931454,Cargo,
+htrw,2,,18444,-0.8882332390482038,Passengers,
+htrw,2,,18444,-0.7165137178450858,Air transport movements,
+htrw,2,,18444,-0.32308676643202516,Cargo,
+htrw,2,,18475,-0.8152835159232152,Passengers,
+htrw,2,,18475,-0.636751525553013,Air transport movements,
+htrw,2,,18475,-0.3460743639687871,Cargo,
+htrw,2,,18506,-0.8145997227433798,Passengers,
+htrw,2,,18506,-0.6290463243215513,Air transport movements,
+htrw,2,,18506,-0.2820006382384789,Cargo,
+htrw,2,,18536,-0.823685355196532,Passengers,
+htrw,2,,18536,-0.5658268702731345,Air transport movements,
+htrw,2,,18536,-0.23009491385175726,Cargo,
+htrw,2,,18567,-0.8801767974306527,Passengers,
+htrw,2,,18567,-0.7005139016998287,Air transport movements,
+htrw,2,,18567,-0.15282915976817954,Cargo,
+htrw,2,,18597,-0.8292408139151285,Passengers,
+htrw,2,,18597,-0.6770033933698774,Air transport movements,
+htrw,2,,18597,-0.1505160041421156,Cargo,
+htrw,2,,18628,-0.8889465633335902,Passengers,
+htrw,2,,18628,-0.7461250527203711,Air transport movements,
+htrw,2,,18628,-0.21077490137219954,Cargo,
+htrw,2,,18659,-0.9152518016811158,Passengers,
+htrw,2,,18659,-0.7790361035422343,Air transport movements,
+htrw,2,,18659,-0.1277785114260102,Cargo,
+tno,2,,17897,842045,,
+tno,2,,17928,850337,,
+tno,2,,17956,862032,,
+tno,2,,17987,870019,,
+tno,2,,18017,875970,,
+tno,2,,18048,882010,,
+tno,2,,18078,888910,,
+tno,2,,18109,896189,,
+tno,2,,18140,903321,,
+tno,2,,18170,910490,,
+tno,2,,18201,914822,,
+tno,2,,18231,917786,,
+tno,2,,18262,921351,,
+tno,2,,18293,923872,,
+tno,2,,18322,910838,,
+tno,2,,18353,884727,,
+tno,2,,18383,864755,,
+tno,2,,18414,850485,,
+tno,2,,18444,839528,,
+tno,2,,18475,833679,,
+tno,2,,18506,828950,,
+tno,2,,18536,818889,,
+tno,2,,18567,804572,,
+tno,2,,18597,789601,,
+tno,2,,18628,765869,,
+tno,2,,18659,744637,,
+htcrm,2,,17897,1269,,
+htcrm,2,,17928,1364,,
+htcrm,2,,17956,1632,,
+htcrm,2,,17987,1506,,
+htcrm,2,,18017,1539,,
+htcrm,2,,18048,1581,,
+htcrm,2,,18078,1728,,
+htcrm,2,,18109,1604,,
+htcrm,2,,18140,1529,,
+htcrm,2,,18170,1628,,
+htcrm,2,,18201,1582,,
+htcrm,2,,18231,1518,,
+htcrm,2,,18262,1423,,
+htcrm,2,,18293,1559,,
+htcrm,2,,18322,1556,,
+htcrm,2,,18353,1263,,
+htcrm,2,,18383,1639,,
+htcrm,2,,18414,2449,,
+htcrm,2,,18444,2351,,
+htcrm,2,,18475,2236,,
+htcrm,2,,18506,1977,,
+htcrm,2,,18536,1718,,
+htcrm,2,,18567,1591,,
+htcrm,2,,18597,1418,,
+htcrm,2,,18628,1300,,
+htcrm,2,,18659,1342,,
+dmab,2,,17897,7404,,
+dmab,2,,17928,6926,,
+dmab,2,,17956,7266,,
+dmab,2,,17987,7134,,
+dmab,2,,18017,7456,,
+dmab,2,,18048,7599,,
+dmab,2,,18078,8128,,
+dmab,2,,18109,7858,,
+dmab,2,,18140,7336,,
+dmab,2,,18170,7529,,
+dmab,2,,18201,7301,,
+dmab,2,,18231,7542,,
+dmab,2,,18262,7482,,
+dmab,2,,18293,7108,,
+dmab,2,,18322,7396,,
+dmab,2,,18353,7392,,
+dmab,2,,18383,8361,,
+dmab,2,,18414,8139,,
+dmab,2,,18444,8658,,
+dmab,2,,18475,9117,,
+dmab,2,,18506,8064,,
+dmab,2,,18536,7676,,
+dmab,2,,18567,7478,,
+dmab,2,,18597,7690,,
+dmab,2,,18628,7195,,
+dmab,2,,18659,6902,,
+asb,2,,17897,243052,,
+asb,2,,17928,246413,,
+asb,2,,17956,249529,,
+asb,2,,17987,251135,,
+asb,2,,18017,253665,,
+asb,2,,18048,256887,,
+asb,2,,18078,261993,,
+asb,2,,18109,266017,,
+asb,2,,18140,268564,,
+asb,2,,18170,269546,,
+asb,2,,18201,270233,,
+asb,2,,18231,270936,,
+asb,2,,18262,271437,,
+asb,2,,18293,271261,,
+asb,2,,18322,275659,,
+asb,2,,18353,323866,,
+asb,2,,18383,367441,,
+asb,2,,18414,389431,,
+asb,2,,18444,402512,,
+asb,2,,18475,417758,,
+asb,2,,18506,429940,,
+asb,2,,18536,442300,,
+asb,2,,18567,460195,,
+asb,2,,18597,474292,,
+asb,2,,18628,492803,,
+asb,2,,18659,507049,,
+pmi,2,,18262,56.47341176470587,,
+pmi,2,,18293,56.040935781224256,,
+pmi,2,,18322,31.488,,
+pmi,2,,18353,13.383808253318422,,
+pmi,2,,18383,30.302004504504502,,
+pmi,2,,18414,46.24186259734312,,
+pmi,2,,18444,55.48909610036636,,
+pmi,2,,18475,56.447041748526516,,
+pmi,2,,18506,55.06244638380416,,
+pmi,2,,18536,51.359,,
+pmi,2,,18567,48.246,,
+pmi,2,,18597,51.07,,
+pmi,2,,18628,44.91886395625717,,
+pmi,2,,18659,52.08890295116515,,
+pmi_new,2,,18262,56.86200173729951,,
+pmi_new,2,,18293,54.17024108107011,,
+pmi_new,2,,18322,33.52456693414898,,
+pmi_new,2,,18353,14.859979432150086,,
+pmi_new,2,,18383,29.724241661518402,,
+pmi_new,2,,18414,44.89686695247561,,
+pmi_new,2,,18444,50.356778473129765,,
+pmi_new,2,,18475,56.71392078361208,,
+pmi_new,2,,18506,53.267701542836704,,
+pmi_new,2,,18536,47.186,,
+pmi_new,2,,18567,48.9595,,
+pmi_new,2,,18597,49.065,,
+pmi_new,2,,18628,46.733,,
+pmi_new,2,,18659,50.72079450107266,,
+cconf,2,,17897,-6,,
+cconf,2,,17928,0,,
+cconf,2,,17956,1,,
+cconf,2,,17987,1,,
+cconf,2,,18017,16,,
+cconf,2,,18048,12,,
+cconf,2,,18078,12,,
+cconf,2,,18109,5,,
+cconf,2,,18140,12,,
+cconf,2,,18170,9,,
+cconf,2,,18201,-6,,
+cconf,2,,18231,9,,
+cconf,2,,18262,-4,,
+cconf,2,,18293,-3,,
+cconf,2,,18322,2,,
+cconf,2,,18353,-22,,
+cconf,2,,18383,-24,,
+cconf,2,,18414,-14,,
+cconf,2,,18444,-13,,
+cconf,2,,18475,-13,,
+cconf,2,,18506,-16,,
+cconf,2,,18536,-28,,
+cconf,2,,18567,-24,,
+cconf,2,,18597,-19,,
+cconf,2,,18628,-22,,
+cconf,2,,18659,-12,,
+hsprc,2,,17897,-0.02024863065843463,,Jan 2019
+hsprc,2,,17928,-0.024156341868055348,,Feb 2019
+hsprc,2,,17956,-0.01770891780662952,,Mar 2019
+hsprc,2,,17987,-0.017124450431132816,,Apr 2019
+hsprc,2,,18017,-0.03055551320661124,,May 2019
+hsprc,2,,18048,-0.019490881770614817,,Jun 2019
+hsprc,2,,18078,-0.008869565124609412,,Jul 2019
+hsprc,2,,18109,-0.012632663332867543,,Aug 2019
+hsprc,2,,18140,0.00131581642246697,,Sep 2019
+hsprc,2,,18170,-0.015931714943701124,,Oct 2019
+hsprc,2,,18201,-0.01173147407512346,,Nov 2019
+hsprc,2,,18231,0.012221782973575412,,Dec 2019
+hsprc,2,,18262,0.011594198394929417,,Jan 2020
+hsprc,2,,18293,0.018870174460477764,,Feb 2020
+hsprc,2,,18322,0.04073052942956237,,Mar 2020
+hsprc,2,,18353,0.013912523543084317,,Apr 2020
+hsprc,2,,18383,0.017569792043188082,,May 2020
+hsprc,2,,18414,0.019112935079737,,Jun 2020
+hsprc,2,,18444,0.007892939985578754,,Jul 2020
+hsprc,2,,18475,0.03283234760399921,,Aug 2020
+hsprc,2,,18506,0.04039519484252513,,Sep 2020
+hsprc,2,,18536,0.041908041491899944,,Oct 2020
+hsprc,2,,18567,0.06947472501783705,,Nov 2020
+hsprc,2,,18597,0.03486228956447969,,Dec 2020
+hsprcex,2,,18140,-29.0056592648378,,Sep 2019
+hsprcex,2,,18170,-2.00989797478374,,Oct 2019
+hsprcex,2,,18201,-34.2889529333691,,Nov 2019
+hsprcex,2,,18231,24.4884564817026,,Dec 2019
+hsprcex,2,,18262,40.7451933346703,,Jan 2020
+hsprcex,2,,18293,22.3170037892288,,Feb 2020
+hsprcex,2,,18322,-82.6671169636998,,Mar 2020
+hsprcex,2,,18353,-77.4841581665788,,Apr 2020
+hsprcex,2,,18383,-56.14369961129,,May 2020
+hsprcex,2,,18414,-33.5951119865936,,Jun 2020
+hsprcex,2,,18444,-15.9821417345369,,Jul 2020
+hsprcex,2,,18475,12.7962808244806,,Aug 2020
+hsprcex,2,,18506,3.78438647778147,,Sep 2020
+hsprcex,2,,18536,-16.2923869150554,,Oct 2020
+hsprcex,2,,18567,-5.40958997598819,,Nov 2020
+hsprcex,2,,18597,-20.9282560115028,,Dec 2020
+hsprcex,2,,18628,-38.8484639695539,,Jan 2021
+hsprcex,2,,18659,-12.6950142069912,,Feb 2021
+empl,2,NA,17440,74.5,London,Oct-17
+empl,2,NA,17440,75.1,UK,Oct-17
+empl,2,NA,17471,74.4,London,Nov-17
+empl,2,NA,17471,75.3,UK,Nov-17
+empl,2,NA,17501,74.4,London,Dec-17
+empl,2,NA,17501,75.2,UK,Dec-17
+empl,2,NA,17532,74.7,London,Jan-18
+empl,2,NA,17532,75.3,UK,Jan-18
+empl,2,NA,17563,75,London,Feb-18
+empl,2,NA,17563,75.4,UK,Feb-18
+empl,2,NA,17591,75.1,London,Mar-18
+empl,2,NA,17591,75.6,UK,Mar-18
+empl,2,NA,17622,74.7,London,Apr-18
+empl,2,NA,17622,75.6,UK,Apr-18
+empl,2,NA,17652,74.6,London,May-18
+empl,2,NA,17652,75.6,UK,May-18
+empl,2,NA,17683,74.5,London,Jun-18
+empl,2,NA,17683,75.5,UK,Jun-18
+empl,2,NA,17713,74.6,London,Jul-18
+empl,2,NA,17713,75.5,UK,Jul-18
+empl,2,NA,17744,74.9,London,Aug-18
+empl,2,NA,17744,75.6,UK,Aug-18
+empl,2,NA,17775,75.2,London,Sep-18
+empl,2,NA,17775,75.6,UK,Sep-18
+empl,2,NA,17805,75.5,London,Oct-18
+empl,2,NA,17805,75.7,UK,Oct-18
+empl,2,NA,17836,75,London,Nov-18
+empl,2,NA,17836,75.8,UK,Nov-18
+empl,2,NA,17866,74.8,London,Dec-18
+empl,2,NA,17866,75.8,UK,Dec-18
+empl,2,NA,17897,75.4,London,Jan-19
+empl,2,NA,17897,76.1,UK,Jan-19
+empl,2,NA,17928,74.8,London,Feb-19
+empl,2,NA,17928,76.1,UK,Feb-19
+empl,2,NA,17956,75,London,Mar-19
+empl,2,NA,17956,76.1,UK,Mar-19
+empl,2,NA,17987,74.9,London,Apr-19
+empl,2,NA,17987,76.1,UK,Apr-19
+empl,2,NA,18017,75,London,May-19
+empl,2,NA,18017,76,UK,May-19
+empl,2,NA,18048,74.7,London,Jun-19
+empl,2,NA,18048,76.1,UK,Jun-19
+empl,2,NA,18078,74.3,London,Jul-19
+empl,2,NA,18078,76.1,UK,Jul-19
+empl,2,NA,18109,74.2,London,Aug-19
+empl,2,NA,18109,75.9,UK,Aug-19
+empl,2,NA,18140,74.6,London,Sep-19
+empl,2,NA,18140,76,UK,Sep-19
+empl,2,NA,18170,74.8,London,Oct-19
+empl,2,NA,18170,76.2,UK,Oct-19
+empl,2,NA,18201,75.6,London,Nov-19
+empl,2,NA,18201,76.3,UK,Nov-19
+empl,2,NA,18231,75.5,London,Dec-19
+empl,2,NA,18231,76.5,UK,Dec-19
+empl,2,NA,18262,76,London,Jan-20
+empl,2,NA,18262,76.5,UK,Jan-20
+empl,2,NA,18293,76.7,London,Feb-20
+empl,2,NA,18293,76.6,UK,Feb-20
+empl,2,NA,18322,76.6,London,Mar-20
+empl,2,NA,18322,76.3,UK,Mar-20
+empl,2,NA,18353,76.2,London,Apr-20
+empl,2,NA,18353,76,UK,Apr-20
+empl,2,NA,18383,75.4,London,May-20
+empl,2,NA,18383,75.9,UK,May-20
+empl,2,NA,18414,76.2,London,Jun-20
+empl,2,NA,18414,75.8,UK,Jun-20
+empl,2,NA,18444,76.6,London,Jul-20
+empl,2,NA,18444,75.8,UK,Jul-20
+empl,2,NA,18475,76.1,London,Aug-20
+empl,2,NA,18475,75.6,UK,Aug-20
+empl,2,NA,18506,75.2,London,Sep-20
+empl,2,NA,18506,75.3,UK,Sep-20
+empl,2,NA,18536,75.2,London,Oct-20
+empl,2,NA,18536,75.2,UK,Oct-20
+empl,2,NA,18567,75.1,London,Nov-20
+empl,2,NA,18567,75.2,UK,Nov-20
+empl,2,NA,18597,74.7,London,Dec-20
+empl,2,NA,18597,75,UK,Dec-20
+empl,2,NA,18628,74.4,London,Jan-21
+empl,2,NA,18628,75,UK,Jan-21
+unempl,2,NA,17440,4.9,London,Oct-17
+unempl,2,NA,17440,4.2,UK,Oct-17
+unempl,2,NA,17471,5.2,London,Nov-17
+unempl,2,NA,17471,4.3,UK,Nov-17
+unempl,2,NA,17501,5,London,Dec-17
+unempl,2,NA,17501,4.4,UK,Dec-17
+unempl,2,NA,17532,5,London,Jan-18
+unempl,2,NA,17532,4.3,UK,Jan-18
+unempl,2,NA,17563,4.8,London,Feb-18
+unempl,2,NA,17563,4.2,UK,Feb-18
+unempl,2,NA,17591,4.9,London,Mar-18
+unempl,2,NA,17591,4.2,UK,Mar-18
+unempl,2,NA,17622,5.2,London,Apr-18
+unempl,2,NA,17622,4.2,UK,Apr-18
+unempl,2,NA,17652,5.1,London,May-18
+unempl,2,NA,17652,4.2,UK,May-18
+unempl,2,NA,17683,4.9,London,Jun-18
+unempl,2,NA,17683,4,UK,Jun-18
+unempl,2,NA,17713,4.7,London,Jul-18
+unempl,2,NA,17713,4,UK,Jul-18
+unempl,2,NA,17744,4.7,London,Aug-18
+unempl,2,NA,17744,4,UK,Aug-18
+unempl,2,NA,17775,4.6,London,Sep-18
+unempl,2,NA,17775,4.1,UK,Sep-18
+unempl,2,NA,17805,4.6,London,Oct-18
+unempl,2,NA,17805,4.1,UK,Oct-18
+unempl,2,NA,17836,4.6,London,Nov-18
+unempl,2,NA,17836,4,UK,Nov-18
+unempl,2,NA,17866,4.5,London,Dec-18
+unempl,2,NA,17866,4,UK,Dec-18
+unempl,2,NA,17897,4.2,London,Jan-19
+unempl,2,NA,17897,3.9,UK,Jan-19
+unempl,2,NA,17928,4.5,London,Feb-19
+unempl,2,NA,17928,3.9,UK,Feb-19
+unempl,2,NA,17956,4.4,London,Mar-19
+unempl,2,NA,17956,3.8,UK,Mar-19
+unempl,2,NA,17987,4.3,London,Apr-19
+unempl,2,NA,17987,3.8,UK,Apr-19
+unempl,2,NA,18017,4.3,London,May-19
+unempl,2,NA,18017,3.8,UK,May-19
+unempl,2,NA,18048,4.5,London,Jun-19
+unempl,2,NA,18048,3.9,UK,Jun-19
+unempl,2,NA,18078,4.6,London,Jul-19
+unempl,2,NA,18078,3.8,UK,Jul-19
+unempl,2,NA,18109,4.6,London,Aug-19
+unempl,2,NA,18109,3.9,UK,Aug-19
+unempl,2,NA,18140,4.5,London,Sep-19
+unempl,2,NA,18140,3.8,UK,Sep-19
+unempl,2,NA,18170,4.5,London,Oct-19
+unempl,2,NA,18170,3.8,UK,Oct-19
+unempl,2,NA,18201,4.3,London,Nov-19
+unempl,2,NA,18201,3.8,UK,Nov-19
+unempl,2,NA,18231,4.3,London,Dec-19
+unempl,2,NA,18231,3.8,UK,Dec-19
+unempl,2,NA,18262,4.5,London,Jan-20
+unempl,2,NA,18262,3.9,UK,Jan-20
+unempl,2,NA,18293,4.5,London,Feb-20
+unempl,2,NA,18293,4,UK,Feb-20
+unempl,2,NA,18322,4.7,London,Mar-20
+unempl,2,NA,18322,4,UK,Mar-20
+unempl,2,NA,18353,4.7,London,Apr-20
+unempl,2,NA,18353,4,UK,Apr-20
+unempl,2,NA,18383,5.2,London,May-20
+unempl,2,NA,18383,4.1,UK,May-20
+unempl,2,NA,18414,4.8,London,Jun-20
+unempl,2,NA,18414,4.1,UK,Jun-20
+unempl,2,NA,18444,5.1,London,Jul-20
+unempl,2,NA,18444,4.3,UK,Jul-20
+unempl,2,NA,18475,5.3,London,Aug-20
+unempl,2,NA,18475,4.5,UK,Aug-20
+unempl,2,NA,18506,6,London,Sep-20
+unempl,2,NA,18506,4.8,UK,Sep-20
+unempl,2,NA,18536,6.3,London,Oct-20
+unempl,2,NA,18536,4.9,UK,Oct-20
+unempl,2,NA,18567,6.9,London,Nov-20
+unempl,2,NA,18567,5,UK,Nov-20
+unempl,2,NA,18597,7,London,Dec-20
+unempl,2,NA,18597,5.1,UK,Dec-20
+unempl,2,NA,18628,7.2,London,Jan-21
+unempl,2,NA,18628,5,UK,Jan-21
+brrw,2,,18353,2.2442464094675962,,Apr '20
+brrw,2,,18383,2.5407555958495784,,May '20
+brrw,2,,18444,1.893720071997519,,Jul '20
+brrw,2,,18567,3.82165744625236,,Nov '20
+rnt,2,,18353,7.38519421161217,All,Apr '20
+rnt,2,,18383,8.108941012971393,All,May '20
+rnt,2,,18444,10.56066550061172,All,Jul '20
+rnt,2,,18567,8.89639276287329,All,Nov '20
+rnt,2,,18353,4.699800112886543,Own/mortgage,Apr '20
+rnt,2,,18383,4.145049718198748,Own/mortgage,May '20
+rnt,2,,18444,4.614714630303264,Own/mortgage,Jul '20
+rnt,2,,18567,3.7939782374498505,Own/mortgage,Nov '20
+rnt,2,,18353,11.757761097519671,Rented,Apr '20
+rnt,2,,18383,13.496116151238946,Rented,May '20
+rnt,2,,18444,14.304525650311877,Rented,Jul '20
+rnt,2,,18567,12.769967991278081,Rented,Nov '20
+blls,2,,18353,9.536804564374323,,Apr '20
+blls,2,,18383,11.185443096636028,,May '20
+blls,2,,18444,9.328415592381564,,Jul '20
+blls,2,,18567,12.280331788657346,,Nov '20
+fdins,2,,18361,0.18,,Apr '20
+fdins,2,,18399,0.12,,May '20
+fdins,2,,18506,0.11,,Sep '20
+anx,2,,18376,13,,Apr '20
+anx,2,,18382,17,,Apr '20
+anx,2,,18389,14,,May '20
+anx,2,,18396,16,,May '20
+anx,2,,18403,13,,May '20
+anx,2,,18411,13,,May '20
+anx,2,,18417,15,,Jun '20
+anx,2,,18424,13,,Jun '20
+anx,2,,18432,17,,Jun '20
+anx,2,,18438,13,,Jun '20
+anx,2,,18445,13,,Jul '20
+anx,2,,18474,11,,Jul '20
+anx,2,,18506,12,,Sep '20
+anx,2,,18537,15.83,,Oct '20
+anx,2,,18565,13.48,,Oct '20
+anx,2,,18593,15.32,,Nov '20
+anx,2,,18613,16.5,,Dec '20
+anx,2,,18280,16.52,,Jan '20
+lnl,2,,18353,6.9842296749293915,,Apr '20
+lnl,2,,18383,11.439257306007168,,May '20
+lnl,2,,18414,9.364393208274604,,Jun '20
+lnl,2,,18444,7.166214664384767,,Jul '20
+lnl,2,,18506,7.761461254491298,,Sep '20
+lnl,2,,18567,11.213477781824484,,Nov '20
+hlp,1,2018-19,NA,92.91393674249557,,
+hlp,1,2019-20,NA,94.5,,
+infhlp,1,2020-04-01,NA,39.3602700837241,,
+infhlp,1,2020-11-01,NA,31.564512669396322,,
+fmlvol,1,2013-14,NA,40.6019022624513,,
+fmlvol,1,2014-15,NA,45.13209944421999,,
+fmlvol,1,2015-16,NA,36.83663022499213,,
+fmlvol,1,2016-17,NA,35.98483,,
+fmlvol,1,2017-18,NA,36.967080158004784,,
+fmlvol,1,2018-19,NA,34.230907399464996,,
+fmlvol,1,2019-20,NA,35.6,,
+nghb,1,2013-14,NA,68.72073788324855,,
+nghb,1,2014-15,NA,66.73639046979103,,
+nghb,1,2015-16,NA,66.95733074395243,,
+nghb,1,2016-17,NA,65.52854,,
+nghb,1,2017-18,NA,65.58317980270733,,
+nghb,1,2018-19,NA,64.91399199602185,,
+nghb,1,2019-20,NA,65,,
+phys,2,,18376,26,,24 Apr '20
+phys,2,,18382,25,,30 Apr '20
+phys,2,,18389,30,,07 May '20
+phys,2,,18396,26,,14 May '20
+phys,2,,18403,26,,21 May '20
+phys,2,,18411,22,,29 May '20
+phys,2,,18417,24,,04 Jun '20
+phys,2,,18424,27,,11 Jun '20
+phys,2,,18432,32,,19 Jun '20
+phys,2,,18438,29,,25 Jun '20
+phys,2,,18445,28,,02 Jul '20
+phys,2,,18474,26.84,,31 Jul '20
+phys,2,,18506,27.28,,01 Sep '20
+phys,2,,18537,28.37,,02 Oct '20
+phys,2,,18565,30.67,,30 Oct '20
+phys,2,,18593,31.58,,27 Nov '20
+phys,2,,18613,29.99,,17 Dec '20
+phys,2,,18280,31.15,,19 Jan '20
+coh,2,,18353,0.95,,Apr '20
+coh,2,,18383,0.95,,May '20
+coh,2,,18414,0.93,,Jun '20
+coh,2,,18444,0.95,,Jul '20
+coh,2,,18475,0.93,,Aug '20
+coh,2,,18506,0.96,,Sep '20
+lfsat,2,,18383,53.75893690758442,,May '20
+lfsat,2,,18444,58.222489285997426,,Jul '20
+lfsat,2,,18506,61.672796473971125,,Sep '20
+lfsat,2,,18567,56.99128406398677,,Nov '20
+tfl,2,,18274,5881655,Bus,
+tfl,2,,18274,3729472,Tube,
+tfl,2,,18275,5914852,Bus,
+tfl,2,,18275,3914362,Tube,
+tfl,2,,18276,6062975,Bus,
+tfl,2,,18276,4031075,Tube,
+tfl,2,,18277,6071724,Bus,
+tfl,2,,18277,4055631,Tube,
+tfl,2,,18278,6154895,Bus,
+tfl,2,,18278,4108235,Tube,
+tfl,2,,18279,4589302,Bus,
+tfl,2,,18279,2966125,Tube,
+tfl,2,,18280,3262006,Bus,
+tfl,2,,18280,1978172,Tube,
+tfl,2,,18281,5985607,Bus,
+tfl,2,,18281,3874576,Tube,
+tfl,2,,18282,6082516,Bus,
+tfl,2,,18282,4086764,Tube,
+tfl,2,,18283,6036078,Bus,
+tfl,2,,18283,4132064,Tube,
+tfl,2,,18284,6074064,Bus,
+tfl,2,,18284,4188357,Tube,
+tfl,2,,18285,6172316,Bus,
+tfl,2,,18285,4201554,Tube,
+tfl,2,,18286,4622023,Bus,
+tfl,2,,18286,3010773,Tube,
+tfl,2,,18287,3257783,Bus,
+tfl,2,,18287,1974140,Tube,
+tfl,2,,18288,5925418,Bus,
+tfl,2,,18288,3847397,Tube,
+tfl,2,,18289,6160383,Bus,
+tfl,2,,18289,4064016,Tube,
+tfl,2,,18290,6153124,Bus,
+tfl,2,,18290,4128499,Tube,
+tfl,2,,18291,6102039,Bus,
+tfl,2,,18291,4121155,Tube,
+tfl,2,,18292,6310174,Bus,
+tfl,2,,18292,4211740,Tube,
+tfl,2,,18293,4710653,Bus,
+tfl,2,,18293,2836621,Tube,
+tfl,2,,18294,3295530,Bus,
+tfl,2,,18294,1872646,Tube,
+tfl,2,,18295,5984069,Bus,
+tfl,2,,18295,3816946,Tube,
+tfl,2,,18296,6117828,Bus,
+tfl,2,,18296,4023156,Tube,
+tfl,2,,18297,6153418,Bus,
+tfl,2,,18297,4094479,Tube,
+tfl,2,,18298,6196462,Bus,
+tfl,2,,18298,4152896,Tube,
+tfl,2,,18299,6276933,Bus,
+tfl,2,,18299,4159462,Tube,
+tfl,2,,18300,4804155,Bus,
+tfl,2,,18300,2825546,Tube,
+tfl,2,,18301,2691062,Bus,
+tfl,2,,18301,1484692,Tube,
+tfl,2,,18302,5980102,Bus,
+tfl,2,,18302,3840188,Tube,
+tfl,2,,18303,6139366,Bus,
+tfl,2,,18303,4045638,Tube,
+tfl,2,,18304,6132577,Bus,
+tfl,2,,18304,4091746,Tube,
+tfl,2,,18305,6092140,Bus,
+tfl,2,,18305,4115458,Tube,
+tfl,2,,18306,6238413,Bus,
+tfl,2,,18306,4114052,Tube,
+tfl,2,,18307,4219842,Bus,
+tfl,2,,18307,2460058,Tube,
+tfl,2,,18308,2956460,Bus,
+tfl,2,,18308,1691504,Tube,
+tfl,2,,18309,5318372,Bus,
+tfl,2,,18309,3845004,Tube,
+tfl,2,,18310,5349578,Bus,
+tfl,2,,18310,3974142,Tube,
+tfl,2,,18311,5297330,Bus,
+tfl,2,,18311,4024468,Tube,
+tfl,2,,18312,5208108,Bus,
+tfl,2,,18312,4051753,Tube,
+tfl,2,,18313,5475057,Bus,
+tfl,2,,18313,4014944,Tube,
+tfl,2,,18314,4601021,Bus,
+tfl,2,,18314,2626597,Tube,
+tfl,2,,18315,3276144,Bus,
+tfl,2,,18315,1756353,Tube,
+tfl,2,,18316,5806992,Bus,
+tfl,2,,18316,3714589,Tube,
+tfl,2,,18317,6132632,Bus,
+tfl,2,,18317,3997158,Tube,
+tfl,2,,18318,6138131,Bus,
+tfl,2,,18318,4052387,Tube,
+tfl,2,,18319,6016549,Bus,
+tfl,2,,18319,4141715,Tube,
+tfl,2,,18320,6061035,Bus,
+tfl,2,,18320,4084951,Tube,
+tfl,2,,18321,4457331,Bus,
+tfl,2,,18321,2789113,Tube,
+tfl,2,,18322,3330113,Bus,
+tfl,2,,18322,1989551,Tube,
+tfl,2,,18323,5994481,Bus,
+tfl,2,,18323,3674597,Tube,
+tfl,2,,18324,6094655,Bus,
+tfl,2,,18324,3867901,Tube,
+tfl,2,,18325,6068168,Bus,
+tfl,2,,18325,3898754,Tube,
+tfl,2,,18326,5864717,Bus,
+tfl,2,,18326,3914077,Tube,
+tfl,2,,18327,6215328,Bus,
+tfl,2,,18327,3920079,Tube,
+tfl,2,,18328,4480486,Bus,
+tfl,2,,18328,2722289,Tube,
+tfl,2,,18329,3137337,Bus,
+tfl,2,,18329,1811036,Tube,
+tfl,2,,18330,5886506,Bus,
+tfl,2,,18330,3533250,Tube,
+tfl,2,,18331,5893736,Bus,
+tfl,2,,18331,3544657,Tube,
+tfl,2,,18332,5842502,Bus,
+tfl,2,,18332,3516336,Tube,
+tfl,2,,18333,5729170,Bus,
+tfl,2,,18333,3372462,Tube,
+tfl,2,,18334,5543903,Bus,
+tfl,2,,18334,2997763,Tube,
+tfl,2,,18335,3885307,Bus,
+tfl,2,,18335,1775137,Tube,
+tfl,2,,18336,2553040,Bus,
+tfl,2,,18336,1115176,Tube,
+tfl,2,,18337,4829248,Bus,
+tfl,2,,18337,2300417,Tube,
+tfl,2,,18338,4345852,Bus,
+tfl,2,,18338,1762322,Tube,
+tfl,2,,18339,3921240,Bus,
+tfl,2,,18339,1437508,Tube,
+tfl,2,,18340,3638926,Bus,
+tfl,2,,18340,1216961,Tube,
+tfl,2,,18341,3306876,Bus,
+tfl,2,,18341,1009101,Tube,
+tfl,2,,18342,1916796,Bus,
+tfl,2,,18342,426689,Tube,
+tfl,2,,18343,1132192,Bus,
+tfl,2,,18343,240920,Tube,
+tfl,2,,18344,1919898,Bus,
+tfl,2,,18344,582338,Tube,
+tfl,2,,18345,1348657,Bus,
+tfl,2,,18345,371183,Tube,
+tfl,2,,18346,1184609,Bus,
+tfl,2,,18346,282144,Tube,
+tfl,2,,18347,1125834,Bus,
+tfl,2,,18347,253258,Tube,
+tfl,2,,18348,1156046,Bus,
+tfl,2,,18348,243415,Tube,
+tfl,2,,18349,830755,Bus,
+tfl,2,,18349,123375,Tube,
+tfl,2,,18350,538838,Bus,
+tfl,2,,18350,84087,Tube,
+tfl,2,,18351,1027778,Bus,
+tfl,2,,18351,208459,Tube,
+tfl,2,,18352,1034033,Bus,
+tfl,2,,18352,205999,Tube,
+tfl,2,,18353,1008223,Bus,
+tfl,2,,18353,202371,Tube,
+tfl,2,,18354,990490,Bus,
+tfl,2,,18354,197509,Tube,
+tfl,2,,18355,1054004,Bus,
+tfl,2,,18355,201754,Tube,
+tfl,2,,18356,796733,Bus,
+tfl,2,,18356,110716,Tube,
+tfl,2,,18357,556354,Bus,
+tfl,2,,18357,80685,Tube,
+tfl,2,,18358,994231,Bus,
+tfl,2,,18358,194552,Tube,
+tfl,2,,18359,978195,Bus,
+tfl,2,,18359,190887,Tube,
+tfl,2,,18360,971327,Bus,
+tfl,2,,18360,187964,Tube,
+tfl,2,,18361,1005191,Bus,
+tfl,2,,18361,189579,Tube,
+tfl,2,,18362,738225,Bus,
+tfl,2,,18362,110395,Tube,
+tfl,2,,18363,744717,Bus,
+tfl,2,,18363,97355,Tube,
+tfl,2,,18364,444008,Bus,
+tfl,2,,18364,64473,Tube,
+tfl,2,,18365,622177,Bus,
+tfl,2,,18365,92500,Tube,
+tfl,2,,18366,990530,Bus,
+tfl,2,,18366,189314,Tube,
+tfl,2,,18367,967288,Bus,
+tfl,2,,18367,193748,Tube,
+tfl,2,,18368,966677,Bus,
+tfl,2,,18368,192074,Tube,
+tfl,2,,18369,998934,Bus,
+tfl,2,,18369,195858,Tube,
+tfl,2,,18370,744100,Bus,
+tfl,2,,18370,109338,Tube,
+tfl,2,,18371,391541,Bus,
+tfl,2,,18371,80064,Tube,
+tfl,2,,18372,34593,Bus,
+tfl,2,,18372,191955,Tube,
+tfl,2,,18373,20998,Bus,
+tfl,2,,18373,190002,Tube,
+tfl,2,,18374,16071,Bus,
+tfl,2,,18374,189678,Tube,
+tfl,2,,18375,13233,Bus,
+tfl,2,,18375,194307,Tube,
+tfl,2,,18376,12610,Bus,
+tfl,2,,18376,196549,Tube,
+tfl,2,,18377,8596,Bus,
+tfl,2,,18377,108317,Tube,
+tfl,2,,18378,5237,Bus,
+tfl,2,,18378,75878,Tube,
+tfl,2,,18379,9415,Bus,
+tfl,2,,18379,198275,Tube,
+tfl,2,,18380,7181,Bus,
+tfl,2,,18380,197847,Tube,
+tfl,2,,18381,7354,Bus,
+tfl,2,,18381,202366,Tube,
+tfl,2,,18382,6711,Bus,
+tfl,2,,18382,202889,Tube,
+tfl,2,,18383,6585,Bus,
+tfl,2,,18383,208546,Tube,
+tfl,2,,18384,5078,Bus,
+tfl,2,,18384,117473,Tube,
+tfl,2,,18385,3058,Bus,
+tfl,2,,18385,78065,Tube,
+tfl,2,,18386,5634,Bus,
+tfl,2,,18386,211144,Tube,
+tfl,2,,18387,5290,Bus,
+tfl,2,,18387,216167,Tube,
+tfl,2,,18388,4928,Bus,
+tfl,2,,18388,218913,Tube,
+tfl,2,,18389,4793,Bus,
+tfl,2,,18389,222499,Tube,
+tfl,2,,18390,3584,Bus,
+tfl,2,,18390,129717,Tube,
+tfl,2,,18391,3626,Bus,
+tfl,2,,18391,120264,Tube,
+tfl,2,,18392,2189,Bus,
+tfl,2,,18392,83254,Tube,
+tfl,2,,18393,4391,Bus,
+tfl,2,,18393,228330,Tube,
+tfl,2,,18394,4119,Bus,
+tfl,2,,18394,233625,Tube,
+tfl,2,,18395,3899,Bus,
+tfl,2,,18395,236605,Tube,
+tfl,2,,18396,3879,Bus,
+tfl,2,,18396,241339,Tube,
+tfl,2,,18397,3885,Bus,
+tfl,2,,18397,250710,Tube,
+tfl,2,,18398,3135,Bus,
+tfl,2,,18398,149024,Tube,
+tfl,2,,18399,2191,Bus,
+tfl,2,,18399,107180,Tube,
+tfl,2,,18400,4284,Bus,
+tfl,2,,18400,281558,Tube,
+tfl,2,,18401,3974,Bus,
+tfl,2,,18401,288935,Tube,
+tfl,2,,18402,3939,Bus,
+tfl,2,,18402,298497,Tube,
+tfl,2,,18403,4038,Bus,
+tfl,2,,18403,296238,Tube,
+tfl,2,,18404,4909,Bus,
+tfl,2,,18404,307783,Tube,
+tfl,2,,18405,38308,Bus,
+tfl,2,,18405,175289,Tube,
+tfl,2,,18406,29252,Bus,
+tfl,2,,18406,131722,Tube,
+tfl,2,,18407,38910,Bus,
+tfl,2,,18407,177610,Tube,
+tfl,2,,18408,59568,Bus,
+tfl,2,,18408,325358,Tube,
+tfl,2,,18409,61256,Bus,
+tfl,2,,18409,331429,Tube,
+tfl,2,,18410,64035,Bus,
+tfl,2,,18410,342170,Tube,
+tfl,2,,18411,68543,Bus,
+tfl,2,,18411,354664,Tube,
+tfl,2,,18412,378816,Bus,
+tfl,2,,18412,243393,Tube,
+tfl,2,,18413,275023,Bus,
+tfl,2,,18413,175557,Tube,
+tfl,2,,18414,486155,Bus,
+tfl,2,,18414,386382,Tube,
+tfl,2,,18415,487229,Bus,
+tfl,2,,18415,401514,Tube,
+tfl,2,,18416,468837,Bus,
+tfl,2,,18416,418003,Tube,
+tfl,2,,18417,473624,Bus,
+tfl,2,,18417,399913,Tube,
+tfl,2,,18418,494393,Bus,
+tfl,2,,18418,416894,Tube,
+tfl,2,,18419,841555,Bus,
+tfl,2,,18419,290026,Tube,
+tfl,2,,18420,627502,Bus,
+tfl,2,,18420,216666,Tube,
+tfl,2,,18421,1099937,Bus,
+tfl,2,,18421,424035,Tube,
+tfl,2,,18422,1124579,Bus,
+tfl,2,,18422,448833,Tube,
+tfl,2,,18423,1066626,Bus,
+tfl,2,,18423,439460,Tube,
+tfl,2,,18424,1093860,Bus,
+tfl,2,,18424,450391,Tube,
+tfl,2,,18425,1164792,Bus,
+tfl,2,,18425,473459,Tube,
+tfl,2,,18426,1219734,Bus,
+tfl,2,,18426,352034,Tube,
+tfl,2,,18427,853642,Bus,
+tfl,2,,18427,226966,Tube,
+tfl,2,,18428,1575897,Bus,
+tfl,2,,18428,546465,Tube,
+tfl,2,,18429,1582284,Bus,
+tfl,2,,18429,542027,Tube,
+tfl,2,,18430,1537741,Bus,
+tfl,2,,18430,538298,Tube,
+tfl,2,,18431,1538877,Bus,
+tfl,2,,18431,542930,Tube,
+tfl,2,,18432,1706155,Bus,
+tfl,2,,18432,585584,Tube,
+tfl,2,,18433,1617062,Bus,
+tfl,2,,18433,466062,Tube,
+tfl,2,,18434,1090959,Bus,
+tfl,2,,18434,285300,Tube,
+tfl,2,,18435,1898078,Bus,
+tfl,2,,18435,596055,Tube,
+tfl,2,,18436,1904950,Bus,
+tfl,2,,18436,618423,Tube,
+tfl,2,,18437,1905970,Bus,
+tfl,2,,18437,628193,Tube,
+tfl,2,,18438,1935915,Bus,
+tfl,2,,18438,635881,Tube,
+tfl,2,,18439,2020219,Bus,
+tfl,2,,18439,642745,Tube,
+tfl,2,,18440,1660639,Bus,
+tfl,2,,18440,459602,Tube,
+tfl,2,,18441,1204256,Bus,
+tfl,2,,18441,344464,Tube,
+tfl,2,,18442,2031582,Bus,
+tfl,2,,18442,638842,Tube,
+tfl,2,,18443,2029021,Bus,
+tfl,2,,18443,650561,Tube,
+tfl,2,,18444,2078619,Bus,
+tfl,2,,18444,679747,Tube,
+tfl,2,,18445,2071720,Bus,
+tfl,2,,18445,681426,Tube,
+tfl,2,,18446,2225757,Bus,
+tfl,2,,18446,740166,Tube,
+tfl,2,,18447,1941345,Bus,
+tfl,2,,18447,607374,Tube,
+tfl,2,,18448,1460400,Bus,
+tfl,2,,18448,446305,Tube,
+tfl,2,,18449,2255160,Bus,
+tfl,2,,18449,744073,Tube,
+tfl,2,,18450,2285857,Bus,
+tfl,2,,18450,769984,Tube,
+tfl,2,,18451,2222527,Bus,
+tfl,2,,18451,770542,Tube,
+tfl,2,,18452,2267493,Bus,
+tfl,2,,18452,781913,Tube,
+tfl,2,,18453,2460883,Bus,
+tfl,2,,18453,866933,Tube,
+tfl,2,,18454,2208421,Bus,
+tfl,2,,18454,719827,Tube,
+tfl,2,,18455,1578266,Bus,
+tfl,2,,18455,502273,Tube,
+tfl,2,,18456,2438634,Bus,
+tfl,2,,18456,792921,Tube,
+tfl,2,,18457,2447021,Bus,
+tfl,2,,18457,817202,Tube,
+tfl,2,,18458,2450415,Bus,
+tfl,2,,18458,844616,Tube,
+tfl,2,,18459,2499481,Bus,
+tfl,2,,18459,870433,Tube,
+tfl,2,,18460,2672089,Bus,
+tfl,2,,18460,951568,Tube,
+tfl,2,,18461,2328873,Bus,
+tfl,2,,18461,789816,Tube,
+tfl,2,,18462,1557739,Bus,
+tfl,2,,18462,497401,Tube,
+tfl,2,,18463,2463148,Bus,
+tfl,2,,18463,850554,Tube,
+tfl,2,,18464,2490599,Bus,
+tfl,2,,18464,878561,Tube,
+tfl,2,,18465,2498774,Bus,
+tfl,2,,18465,906519,Tube,
+tfl,2,,18466,2509131,Bus,
+tfl,2,,18466,924843,Tube,
+tfl,2,,18467,2633105,Bus,
+tfl,2,,18467,978837,Tube,
+tfl,2,,18468,2253728,Bus,
+tfl,2,,18468,747647,Tube,
+tfl,2,,18469,1703069,Bus,
+tfl,2,,18469,562241,Tube,
+tfl,2,,18470,2426496,Bus,
+tfl,2,,18470,858204,Tube,
+tfl,2,,18471,2600853,Bus,
+tfl,2,,18471,927389,Tube,
+tfl,2,,18472,2635254,Bus,
+tfl,2,,18472,972995,Tube,
+tfl,2,,18473,2647874,Bus,
+tfl,2,,18473,988392,Tube,
+tfl,2,,18474,2697085,Bus,
+tfl,2,,18474,1029310,Tube,
+tfl,2,,18475,2409018,Bus,
+tfl,2,,18475,889634,Tube,
+tfl,2,,18476,1771490,Bus,
+tfl,2,,18476,622791,Tube,
+tfl,2,,18477,2616951,Bus,
+tfl,2,,18477,956853,Tube,
+tfl,2,,18478,2669766,Bus,
+tfl,2,,18478,1006896,Tube,
+tfl,2,,18479,2704179,Bus,
+tfl,2,,18479,1050754,Tube,
+tfl,2,,18480,2655533,Bus,
+tfl,2,,18480,1026752,Tube,
+tfl,2,,18481,2688092,Bus,
+tfl,2,,18481,1046580,Tube,
+tfl,2,,18482,2408808,Bus,
+tfl,2,,18482,850568,Tube,
+tfl,2,,18483,1780612,Bus,
+tfl,2,,18483,599058,Tube,
+tfl,2,,18484,2619617,Bus,
+tfl,2,,18484,986098,Tube,
+tfl,2,,18485,2621346,Bus,
+tfl,2,,18485,1032911,Tube,
+tfl,2,,18486,2614126,Bus,
+tfl,2,,18486,1048309,Tube,
+tfl,2,,18487,2626217,Bus,
+tfl,2,,18487,1012811,Tube,
+tfl,2,,18488,2735551,Bus,
+tfl,2,,18488,1088057,Tube,
+tfl,2,,18489,2414950,Bus,
+tfl,2,,18489,907744,Tube,
+tfl,2,,18490,1758580,Bus,
+tfl,2,,18490,635997,Tube,
+tfl,2,,18491,2723533,Bus,
+tfl,2,,18491,1049584,Tube,
+tfl,2,,18492,2834913,Bus,
+tfl,2,,18492,1107151,Tube,
+tfl,2,,18493,2672256,Bus,
+tfl,2,,18493,1120202,Tube,
+tfl,2,,18494,2976975,Bus,
+tfl,2,,18494,1134286,Tube,
+tfl,2,,18495,2907764,Bus,
+tfl,2,,18495,1158269,Tube,
+tfl,2,,18496,2642195,Bus,
+tfl,2,,18496,996270,Tube,
+tfl,2,,18497,1889489,Bus,
+tfl,2,,18497,684659,Tube,
+tfl,2,,18498,2897216,Bus,
+tfl,2,,18498,1125025,Tube,
+tfl,2,,18499,2859089,Bus,
+tfl,2,,18499,1186375,Tube,
+tfl,2,,18500,3086265,Bus,
+tfl,2,,18500,1307817,Tube,
+tfl,2,,18501,2852948,Bus,
+tfl,2,,18501,1182474,Tube,
+tfl,2,,18502,3044990,Bus,
+tfl,2,,18502,1244023,Tube,
+tfl,2,,18503,2702148,Bus,
+tfl,2,,18503,1069210,Tube,
+tfl,2,,18504,2036698,Bus,
+tfl,2,,18504,825781,Tube,
+tfl,2,,18505,2362584,Bus,
+tfl,2,,18505,936639,Tube,
+tfl,2,,18506,3088296,Bus,
+tfl,2,,18506,1212711,Tube,
+tfl,2,,18507,3149312,Bus,
+tfl,2,,18507,1271539,Tube,
+tfl,2,,18508,3223127,Bus,
+tfl,2,,18508,1282773,Tube,
+tfl,2,,18509,3480520,Bus,
+tfl,2,,18509,1383244,Tube,
+tfl,2,,18510,2849146,Bus,
+tfl,2,,18510,1133539,Tube,
+tfl,2,,18511,2037410,Bus,
+tfl,2,,18511,781714,Tube,
+tfl,2,,18512,3527984,Bus,
+tfl,2,,18512,1260365,Tube,
+tfl,2,,18513,3611351,Bus,
+tfl,2,,18513,1343755,Tube,
+tfl,2,,18514,3609452,Bus,
+tfl,2,,18514,1389845,Tube,
+tfl,2,,18515,3667002,Bus,
+tfl,2,,18515,1433402,Tube,
+tfl,2,,18516,3778924,Bus,
+tfl,2,,18516,1475588,Tube,
+tfl,2,,18517,2851983,Bus,
+tfl,2,,18517,1181513,Tube,
+tfl,2,,18518,2093422,Bus,
+tfl,2,,18518,838822,Tube,
+tfl,2,,18519,3600340,Bus,
+tfl,2,,18519,1327640,Tube,
+tfl,2,,18520,3645236,Bus,
+tfl,2,,18520,1399673,Tube,
+tfl,2,,18521,3662708,Bus,
+tfl,2,,18521,1452147,Tube,
+tfl,2,,18522,3689536,Bus,
+tfl,2,,18522,1464646,Tube,
+tfl,2,,18523,3819862,Bus,
+tfl,2,,18523,1515986,Tube,
+tfl,2,,18524,2870435,Bus,
+tfl,2,,18524,1204585,Tube,
+tfl,2,,18525,2044610,Bus,
+tfl,2,,18525,822065,Tube,
+tfl,2,,18526,3593710,Bus,
+tfl,2,,18526,1333884,Tube,
+tfl,2,,18527,3674895,Bus,
+tfl,2,,18527,1428360,Tube,
+tfl,2,,18528,3597790,Bus,
+tfl,2,,18528,1412163,Tube,
+tfl,2,,18529,3617521,Bus,
+tfl,2,,18529,1432983,Tube,
+tfl,2,,18530,3738242,Bus,
+tfl,2,,18530,1517707,Tube,
+tfl,2,,18531,2792741,Bus,
+tfl,2,,18531,1246303,Tube,
+tfl,2,,18532,1894234,Bus,
+tfl,2,,18532,812517,Tube,
+tfl,2,,18533,3593202,Bus,
+tfl,2,,18533,1317255,Tube,
+tfl,2,,18534,3643244,Bus,
+tfl,2,,18534,1396714,Tube,
+tfl,2,,18535,3654312,Bus,
+tfl,2,,18535,1445120,Tube,
+tfl,2,,18536,3687643,Bus,
+tfl,2,,18536,1475415,Tube,
+tfl,2,,18537,3520413,Bus,
+tfl,2,,18537,1480322,Tube,
+tfl,2,,18538,2664779,Bus,
+tfl,2,,18538,1204332,Tube,
+tfl,2,,18539,1797437,Bus,
+tfl,2,,18539,790491,Tube,
+tfl,2,,18540,3612307,Bus,
+tfl,2,,18540,1346314,Tube,
+tfl,2,,18541,3630862,Bus,
+tfl,2,,18541,1418614,Tube,
+tfl,2,,18542,3672367,Bus,
+tfl,2,,18542,1486730,Tube,
+tfl,2,,18543,3597242,Bus,
+tfl,2,,18543,1487789,Tube,
+tfl,2,,18544,3744997,Bus,
+tfl,2,,18544,1562274,Tube,
+tfl,2,,18545,2886488,Bus,
+tfl,2,,18545,1274997,Tube,
+tfl,2,,18546,2063411,Bus,
+tfl,2,,18546,872348,Tube,
+tfl,2,,18547,3562488,Bus,
+tfl,2,,18547,1352738,Tube,
+tfl,2,,18548,3622506,Bus,
+tfl,2,,18548,1437368,Tube,
+tfl,2,,18549,3683619,Bus,
+tfl,2,,18549,1490889,Tube,
+tfl,2,,18550,3676125,Bus,
+tfl,2,,18550,1529867,Tube,
+tfl,2,,18551,3802054,Bus,
+tfl,2,,18551,1610432,Tube,
+tfl,2,,18552,2698798,Bus,
+tfl,2,,18552,1162351,Tube,
+tfl,2,,18553,1922468,Bus,
+tfl,2,,18553,810759,Tube,
+tfl,2,,18554,3451451,Bus,
+tfl,2,,18554,1292688,Tube,
+tfl,2,,18555,3502186,Bus,
+tfl,2,,18555,1356472,Tube,
+tfl,2,,18556,3336162,Bus,
+tfl,2,,18556,1361885,Tube,
+tfl,2,,18557,3559892,Bus,
+tfl,2,,18557,1420097,Tube,
+tfl,2,,18558,3531125,Bus,
+tfl,2,,18558,1458917,Tube,
+tfl,2,,18559,2675039,Bus,
+tfl,2,,18559,1172360,Tube,
+tfl,2,,18560,1985614,Bus,
+tfl,2,,18560,856280,Tube,
+tfl,2,,18561,2974035,Bus,
+tfl,2,,18561,1289522,Tube,
+tfl,2,,18562,2888951,Bus,
+tfl,2,,18562,1328966,Tube,
+tfl,2,,18563,2998177,Bus,
+tfl,2,,18563,1403298,Tube,
+tfl,2,,18564,2886435,Bus,
+tfl,2,,18564,1394677,Tube,
+tfl,2,,18565,3190126,Bus,
+tfl,2,,18565,1492026,Tube,
+tfl,2,,18566,2705270,Bus,
+tfl,2,,18566,1124981,Tube,
+tfl,2,,18567,2032828,Bus,
+tfl,2,,18567,837566,Tube,
+tfl,2,,18568,3652825,Bus,
+tfl,2,,18568,1447300,Tube,
+tfl,2,,18569,3864465,Bus,
+tfl,2,,18569,1627540,Tube,
+tfl,2,,18570,3998730,Bus,
+tfl,2,,18570,1780512,Tube,
+tfl,2,,18571,2924239,Bus,
+tfl,2,,18571,966029,Tube,
+tfl,2,,18572,2955097,Bus,
+tfl,2,,18572,928668,Tube,
+tfl,2,,18573,1831550,Bus,
+tfl,2,,18573,519566,Tube,
+tfl,2,,18574,1241445,Bus,
+tfl,2,,18574,347609,Tube,
+tfl,2,,18575,2985636,Bus,
+tfl,2,,18575,935191,Tube,
+tfl,2,,18576,3029469,Bus,
+tfl,2,,18576,969363,Tube,
+tfl,2,,18577,2992602,Bus,
+tfl,2,,18577,979101,Tube,
+tfl,2,,18578,3036117,Bus,
+tfl,2,,18578,989229,Tube,
+tfl,2,,18579,3072549,Bus,
+tfl,2,,18579,983770,Tube,
+tfl,2,,18580,1798119,Bus,
+tfl,2,,18580,520972,Tube,
+tfl,2,,18581,1298262,Bus,
+tfl,2,,18581,386817,Tube,
+tfl,2,,18582,2984433,Bus,
+tfl,2,,18582,947799,Tube,
+tfl,2,,18583,3015656,Bus,
+tfl,2,,18583,983162,Tube,
+tfl,2,,18584,3009310,Bus,
+tfl,2,,18584,990985,Tube,
+tfl,2,,18585,2987575,Bus,
+tfl,2,,18585,992189,Tube,
+tfl,2,,18586,3036203,Bus,
+tfl,2,,18586,996449,Tube,
+tfl,2,,18587,1978546,Bus,
+tfl,2,,18587,602313,Tube,
+tfl,2,,18588,1390260,Bus,
+tfl,2,,18588,432815,Tube,
+tfl,2,,18589,2990504,Bus,
+tfl,2,,18589,977065,Tube,
+tfl,2,,18590,3032979,Bus,
+tfl,2,,18590,1012951,Tube,
+tfl,2,,18591,2985231,Bus,
+tfl,2,,18591,1015530,Tube,
+tfl,2,,18592,3027123,Bus,
+tfl,2,,18592,1036085,Tube,
+tfl,2,,18593,3053673,Bus,
+tfl,2,,18593,1046167,Tube,
+tfl,2,,18594,2021331,Bus,
+tfl,2,,18594,648043,Tube,
+tfl,2,,18595,1364271,Bus,
+tfl,2,,18595,429496,Tube,
+tfl,2,,18596,3024512,Bus,
+tfl,2,,18596,1021029,Tube,
+tfl,2,,18597,3148705,Bus,
+tfl,2,,18597,1086624,Tube,
+tfl,2,,18598,3515853,Bus,
+tfl,2,,18598,1345793,Tube,
+tfl,2,,18599,3420768,Bus,
+tfl,2,,18599,1418976,Tube,
+tfl,2,,18600,3661057,Bus,
+tfl,2,,18600,1563644,Tube,
+tfl,2,,18601,2800415,Bus,
+tfl,2,,18601,1363668,Tube,
+tfl,2,,18602,1894764,Bus,
+tfl,2,,18602,884485,Tube,
+tfl,2,,18603,3472279,Bus,
+tfl,2,,18603,1349474,Tube,
+tfl,2,,18604,3550111,Bus,
+tfl,2,,18604,1432561,Tube,
+tfl,2,,18605,3542939,Bus,
+tfl,2,,18605,1483154,Tube,
+tfl,2,,18606,3553488,Bus,
+tfl,2,,18606,1506360,Tube,
+tfl,2,,18607,3659171,Bus,
+tfl,2,,18607,1607379,Tube,
+tfl,2,,18608,2783842,Bus,
+tfl,2,,18608,1398881,Tube,
+tfl,2,,18609,1862105,Bus,
+tfl,2,,18609,870505,Tube,
+tfl,2,,18610,3468699,Bus,
+tfl,2,,18610,1379763,Tube,
+tfl,2,,18611,3653633,Bus,
+tfl,2,,18611,1570182,Tube,
+tfl,2,,18612,3217545,Bus,
+tfl,2,,18612,1200691,Tube,
+tfl,2,,18613,3226261,Bus,
+tfl,2,,18613,1203311,Tube,
+tfl,2,,18614,3023641,Bus,
+tfl,2,,18614,1173407,Tube,
+tfl,2,,18615,2442786,Bus,
+tfl,2,,18615,887434,Tube,
+tfl,2,,18616,1416323,Bus,
+tfl,2,,18616,391196,Tube,
+tfl,2,,18617,2201448,Bus,
+tfl,2,,18617,670435,Tube,
+tfl,2,,18618,2261151,Bus,
+tfl,2,,18618,637793,Tube,
+tfl,2,,18619,2262231,Bus,
+tfl,2,,18619,610669,Tube,
+tfl,2,,18620,1980194,Bus,
+tfl,2,,18620,461690,Tube,
+tfl,2,,18621,212,Bus,
+tfl,2,,18621,5,Tube,
+tfl,2,,18622,999050,Bus,
+tfl,2,,18622,215725,Tube,
+tfl,2,,18623,1106654,Bus,
+tfl,2,,18623,286059,Tube,
+tfl,2,,18624,1319139,Bus,
+tfl,2,,18624,336966,Tube,
+tfl,2,,18625,1815207,Bus,
+tfl,2,,18625,485255,Tube,
+tfl,2,,18626,1870114,Bus,
+tfl,2,,18626,504895,Tube,
+tfl,2,,18627,1792614,Bus,
+tfl,2,,18627,462058,Tube,
+tfl,2,,18628,830163,Bus,
+tfl,2,,18628,210839,Tube,
+tfl,2,,18629,1426786,Bus,
+tfl,2,,18629,353030,Tube,
+tfl,2,,18630,1101019,Bus,
+tfl,2,,18630,299497,Tube,
+tfl,2,,18631,1945184,Bus,
+tfl,2,,18631,656304,Tube,
+tfl,2,,18632,1879554,Bus,
+tfl,2,,18632,622635,Tube,
+tfl,2,,18633,1883322,Bus,
+tfl,2,,18633,617498,Tube,
+tfl,2,,18634,1862418,Bus,
+tfl,2,,18634,610393,Tube,
+tfl,2,,18635,1902255,Bus,
+tfl,2,,18635,614845,Tube,
+tfl,2,,18636,1464881,Bus,
+tfl,2,,18636,348607,Tube,
+tfl,2,,18637,1002590,Bus,
+tfl,2,,18637,232107,Tube,
+tfl,2,,18638,1856748,Bus,
+tfl,2,,18638,606716,Tube,
+tfl,2,,18639,1841108,Bus,
+tfl,2,,18639,606851,Tube,
+tfl,2,,18640,1823407,Bus,
+tfl,2,,18640,609136,Tube,
+tfl,2,,18641,1802725,Bus,
+tfl,2,,18641,607154,Tube,
+tfl,2,,18642,1969034,Bus,
+tfl,2,,18642,633009,Tube,
+tfl,2,,18643,1408545,Bus,
+tfl,2,,18643,347401,Tube,
+tfl,2,,18644,1101337,Bus,
+tfl,2,,18644,270653,Tube,
+tfl,2,,18645,1896056,Bus,
+tfl,2,,18645,621271,Tube,
+tfl,2,,18646,1900033,Bus,
+tfl,2,,18646,627222,Tube,
+tfl,2,,18647,1849014,Bus,
+tfl,2,,18647,628897,Tube,
+tfl,2,,18648,1936802,Bus,
+tfl,2,,18648,643616,Tube,
+tfl,2,,18649,2041546,Bus,
+tfl,2,,18649,662457,Tube,
+tfl,2,,18650,1576914,Bus,
+tfl,2,,18650,395562,Tube,
+tfl,2,,18651,990272,Bus,
+tfl,2,,18651,239348,Tube,
+tfl,2,,18652,1974512,Bus,
+tfl,2,,18652,644986,Tube,
+tfl,2,,18653,1929639,Bus,
+tfl,2,,18653,645638,Tube,
+tfl,2,,18654,1952869,Bus,
+tfl,2,,18654,655565,Tube,
+tfl,2,,18655,1984174,Bus,
+tfl,2,,18655,661985,Tube,
+tfl,2,,18656,2083714,Bus,
+tfl,2,,18656,681045,Tube,
+tfl,2,,18657,1525615,Bus,
+tfl,2,,18657,386370,Tube,
+tfl,2,,18658,1152106,Bus,
+tfl,2,,18658,287209,Tube,
+tfl,2,,18659,2014815,Bus,
+tfl,2,,18659,664952,Tube,
+tfl,2,,18660,2041969,Bus,
+tfl,2,,18660,673283,Tube,
+tfl,2,,18661,2000276,Bus,
+tfl,2,,18661,675996,Tube,
+tfl,2,,18662,2019091,Bus,
+tfl,2,,18662,676722,Tube,
+tfl,2,,18663,2210693,Bus,
+tfl,2,,18663,720419,Tube,
+tfl,2,,18664,1666054,Bus,
+tfl,2,,18664,424976,Tube,
+tfl,2,,18665,1053770,Bus,
+tfl,2,,18665,261971,Tube,
+tfl,2,,18666,1922869,Bus,
+tfl,2,,18666,661614,Tube,
+tfl,2,,18667,1925389,Bus,
+tfl,2,,18667,670336,Tube,
+tfl,2,,18668,2044005,Bus,
+tfl,2,,18668,704103,Tube,
+tfl,2,,18669,2041306,Bus,
+tfl,2,,18669,702610,Tube,
+tfl,2,,18670,2148603,Bus,
+tfl,2,,18670,723635,Tube,
+tfl,2,,18671,1656014,Bus,
+tfl,2,,18671,444334,Tube,
+tfl,2,,18672,1156019,Bus,
+tfl,2,,18672,302615,Tube,
+tfl,2,,18673,2008445,Bus,
+tfl,2,,18673,692054,Tube,
+tfl,2,,18674,2004890,Bus,
+tfl,2,,18674,701311,Tube,
+tfl,2,,18675,2035126,Bus,
+tfl,2,,18675,722102,Tube,
+tfl,2,,18676,2046148,Bus,
+tfl,2,,18676,719249,Tube,
+tfl,2,,18677,2158427,Bus,
+tfl,2,,18677,734440,Tube,
+tfl,2,,18678,1798712,Bus,
+tfl,2,,18678,520836,Tube,
+tfl,2,,18679,1246492,Bus,
+tfl,2,,18679,334404,Tube,
+tfl,2,,18680,1996206,Bus,
+tfl,2,,18680,721592,Tube,
+tfl,2,,18681,2136612,Bus,
+tfl,2,,18681,758258,Tube,
+tfl,2,,18682,2136900,Bus,
+tfl,2,,18682,770678,Tube,
+tfl,2,,18683,2159360,Bus,
+tfl,2,,18683,755171,Tube,
+tfl,2,,18684,2382134,Bus,
+tfl,2,,18684,819541,Tube,
+tfl,2,,18685,1940699,Bus,
+tfl,2,,18685,574169,Tube,
+tfl,2,,18686,1306932,Bus,
+tfl,2,,18686,358145,Tube,
+tfl,2,,18687,2254670,Bus,
+tfl,2,,18687,764450,Tube,
+tfl,2,,18688,2244021,Bus,
+tfl,2,,18688,777132,Tube,
+tfl,2,,18689,2180214,Bus,
+tfl,2,,18689,781583,Tube,
+tfl,2,,18690,2256569,Bus,
+tfl,2,,18690,787872,Tube,
+tfl,2,,18691,2387262,Bus,
+tfl,2,,18691,841213,Tube,
+tfl,2,,18692,1842800,Bus,
+tfl,2,,18692,563216,Tube,
+tfl,2,,18693,1327899,Bus,
+tfl,2,,18693,381190,Tube,
+tfl,2,,18694,2682935,Bus,
+tfl,2,,18694,855405,Tube,
+tfl,2,,18695,2855593,Bus,
+tfl,2,,18695,918406,Tube,
+tfl,2,,18696,2731100,Bus,
+tfl,2,,18696,888840,Tube,
+tfl,2,,18697,2922176,Bus,
+tfl,2,,18697,916704,Tube,
+tfl,2,,18698,3063935,Bus,
+tfl,2,,18698,947673,Tube,
+tfl,2,,18699,1995403,Bus,
+tfl,2,,18699,559387,Tube,
+tfl,2,,18700,1399600,Bus,
+tfl,2,,18700,384143,Tube,
+tfl,2,,18701,2974644,Bus,
+tfl,2,,18701,912963,Tube,
+tfl,2,,18702,2999623,Bus,
+tfl,2,,18702,939163,Tube,
+tfl,2,,18703,2916781,Bus,
+tfl,2,,18703,963538,Tube,
+tfl,2,,18704,2979608,Bus,
+tfl,2,,18704,940925,Tube,
+tfl,2,,18705,3156502,Bus,
+tfl,2,,18705,1004916,Tube,
+tfl,2,,18706,1961446,Bus,
+tfl,2,,18706,618947,Tube,
+tfl,2,,18707,1401245,Bus,
+tfl,2,,18707,427824,Tube,
+rdnss_eth,1,2019,NA,75,White,
+rdnss_eth,1,2019,NA,76,Mixed,
+rdnss_eth,1,2019,NA,75,Asian,
+rdnss_eth,1,2019,NA,70,Black,
+rdnss_eth,1,2019,NA,82,Chinese,
+rdnss_eth,1,2019,NA,73,All pupils,
+rdnss_eth,1,2018,NA,74,White,
+rdnss_eth,1,2018,NA,75,Mixed,
+rdnss_eth,1,2018,NA,74,Asian,
+rdnss_eth,1,2018,NA,70,Black,
+rdnss_eth,1,2018,NA,83,Chinese,
+rdnss_eth,1,2018,NA,73,All pupils,
+rdnss_eth,1,2017,NA,73,White,
+rdnss_eth,1,2017,NA,75,Mixed,
+rdnss_eth,1,2017,NA,73,Asian,
+rdnss_eth,1,2017,NA,70,Black,
+rdnss_eth,1,2017,NA,79,Chinese,
+rdnss_eth,1,2017,NA,72,All pupils,
+rdnss_eth,1,2016,NA,71,White,
+rdnss_eth,1,2016,NA,73,Mixed,
+rdnss_eth,1,2016,NA,71,Asian,
+rdnss_eth,1,2016,NA,68,Black,
+rdnss_eth,1,2016,NA,74,Chinese,
+rdnss_eth,1,2016,NA,70,All pupils,
+rdnss_eth,1,2015,NA,68,White,
+rdnss_eth,1,2015,NA,69,Mixed,
+rdnss_eth,1,2015,NA,67,Asian,
+rdnss_eth,1,2015,NA,64,Black,
+rdnss_eth,1,2015,NA,71,Chinese,
+rdnss_eth,1,2015,NA,66,All pupils,
+rdnss_eth,1,2014,NA,62,White,
+rdnss_eth,1,2014,NA,64,Mixed,
+rdnss_eth,1,2014,NA,61,Asian,
+rdnss_eth,1,2014,NA,59,Black,
+rdnss_eth,1,2014,NA,62,Chinese,
+rdnss_eth,1,2014,NA,60,All pupils,
+rdnss_eth,1,2013,NA,52,White,
+rdnss_eth,1,2013,NA,53,Mixed,
+rdnss_eth,1,2013,NA,50,Asian,
+rdnss_eth,1,2013,NA,49,Black,
+rdnss_eth,1,2013,NA,51,Chinese,
+rdnss_eth,1,2013,NA,50,All pupils,
+rdnss_fsm,1,2019,NA,63,Pupils known to be eligible for free school meals,
+rdnss_fsm,1,2019,NA,75,All other pupils,
+rdnss_fsm,1,2019,NA,73,All Pupils,
+rdnss_fsm,1,2018,NA,63,Pupils known to be eligible for free school meals,
+rdnss_fsm,1,2018,NA,74,All other pupils,
+rdnss_fsm,1,2018,NA,73,All Pupils,
+rdnss_fsm,1,2017,NA,62,Pupils known to be eligible for free school meals,
+rdnss_fsm,1,2017,NA,73,All other pupils,
+rdnss_fsm,1,2017,NA,72,All Pupils,
+rdnss_fsm,1,2016,NA,60,Pupils known to be eligible for free school meals,
+rdnss_fsm,1,2016,NA,71,All other pupils,
+rdnss_fsm,1,2016,NA,70,All Pupils,
+rdnss_fsm,1,2015,NA,56,Pupils known to be eligible for free school meals,
+rdnss_fsm,1,2015,NA,68,All other pupils,
+rdnss_fsm,1,2015,NA,66,All Pupils,
+rdnss_fsm,1,2014,NA,50,Pupils known to be eligible for free school meals,
+rdnss_fsm,1,2014,NA,62,All other pupils,
+rdnss_fsm,1,2014,NA,60,All Pupils,
+rdnss_fsm,1,2013,NA,40,Pupils known to be eligible for free school meals,
+rdnss_fsm,1,2013,NA,53,All other pupils,
+rdnss_fsm,1,2013,NA,50,All Pupils,
+hghent,1,2018/19 (2016/17 cohort),NA,75,London,
+hghent,1,2017/18 (2015/16 cohort),NA,73,London,
+hghent,1,2018/19 (2016/17 cohort),NA,77,Inner London,
+hghent,1,2017/18 (2015/16 cohort),NA,75,Inner London,
+hghent,1,2018/19 (2016/17 cohort),NA,74,Outer London,
+hghent,1,2017/18 (2015/16 cohort),NA,72,Outer London,
+chobs_sx,1,2007/08,NA,23.6916389092757,Male,
+chobs_sx,1,2007/08,NA,19.4736532926041,Female,
+chobs_sx,1,2008/09,NA,23.331111851605,Male,
+chobs_sx,1,2008/09,NA,19.1685778151944,Female,
+chobs_sx,1,2009/10,NA,24.0042703457338,Male,
+chobs_sx,1,2009/10,NA,19.5851024420825,Female,
+chobs_sx,1,2010/11,NA,24.4243644875075,Male,
+chobs_sx,1,2010/11,NA,19.3579984327773,Female,
+chobs_sx,1,2011/12,NA,24.4183535762483,Male,
+chobs_sx,1,2011/12,NA,20.5943427994163,Female,
+chobs_sx,1,2012/13,NA,24.6127828631251,Male,
+chobs_sx,1,2012/13,NA,20.2286526995241,Female,
+chobs_sx,1,2013/14,NA,24.7517478974567,Male,
+chobs_sx,1,2013/14,NA,20.0596627756161,Female,
+chobs_sx,1,2014/15,NA,24.9632172633644,Male,
+chobs_sx,1,2014/15,NA,20.1994073032297,Female,
+chobs_sx,1,2015/16,NA,25.335086030844302,Male,
+chobs_sx,1,2015/16,NA,20.9096018964295,Female,
+chobs_sx,1,2016/17,NA,26.203562224908,Male,
+chobs_sx,1,2016/17,NA,20.952268709487,Female,
+chobs_sx,1,2017/18,NA,25.6306717033563,Male,
+chobs_sx,1,2017/18,NA,20.4622475260946,Female,
+chobs_sx,1,2018/19,NA,26.2142099681866,Male,
+chobs_sx,1,2018/19,NA,20.2388623963569,Female,
+chobs_sx,1,2019/20,NA,27,Male,
+chobs_sx,1,2019/20,NA,20.3,Female,
+chobs_eth,1,2009/10 - 13/14,NA,18.9482756262056,White,
+chobs_eth,1,2009/10 - 13/14,NA,22.8134608814486,Asian,
+chobs_eth,1,2009/10 - 13/14,NA,27.4128740189119,Black,
+chobs_eth,1,2010/11 - 14/15,NA,18.8629937155618,White,
+chobs_eth,1,2010/11 - 14/15,NA,23.2602977428284,Asian,
+chobs_eth,1,2010/11 - 14/15,NA,27.7141729174891,Black,
+chobs_eth,1,2011/12 - 15/16,NA,18.9100496849506,White,
+chobs_eth,1,2011/12 - 15/16,NA,23.5502140805376,Asian,
+chobs_eth,1,2011/12 - 15/16,NA,28.0007356515114,Black,
+chobs_eth,1,2012/13 - 16/17,NA,18.9347144686662,White,
+chobs_eth,1,2012/13 - 16/17,NA,24.074389588603,Asian,
+chobs_eth,1,2012/13 - 16/17,NA,28.3642461247008,Black,
+chobs_eth,1,2013/14 - 17/18,NA,18.8264397524825,White,
+chobs_eth,1,2013/14 - 17/18,NA,24.4766586620064,Asian,
+chobs_eth,1,2013/14 - 17/18,NA,28.7074185750953,Black,
+chobs_eth,1,2014/15 - 18/19,NA,18.8608900288215,White,
+chobs_eth,1,2014/15 - 18/19,NA,24.7118470965859,Asian,
+chobs_eth,1,2014/15 - 18/19,NA,29.0337454951402,Black,
+chobs_eth,1,2015/16 - 19/20,NA,19.1,White,
+chobs_eth,1,2015/16 - 19/20,NA,24.9,Asian,
+chobs_eth,1,2015/16 - 19/20,NA,29.4,Black,
+amh_age,2,,18353,0.4202397493895498,16-29,
+amh_age,2,,18353,0.36460726748044825,30-49,
+amh_age,2,,18353,0.2557433917236249,50+,
+amh_age,2,,18383,0.4761890216355429,16-29,
+amh_age,2,,18383,0.3159157993215093,30-49,
+amh_age,2,,18383,0.23000760624414834,50+,
+amh_age,2,,18414,0.3953637484336477,16-29,
+amh_age,2,,18414,0.3381975488561472,30-49,
+amh_age,2,,18414,0.22447636743778582,50+,
+amh_age,2,,18444,0.31089926875790436,16-29,
+amh_age,2,,18444,0.2796599285863066,30-49,
+amh_age,2,,18444,0.2208139288664728,50+,
+amh_age,2,,18506,0.35573849115985356,16-29,
+amh_age,2,,18506,0.2571882992993939,30-49,
+amh_age,2,,18506,0.19268382615663227,50+,
+amh_age,2,,18567,0.43315875421957445,16-29,
+amh_age,2,,18567,0.3466677594309749,30-49,
+amh_age,2,,18567,0.2607066992047903,50+,
+amh_sx,2,,18353,0.22982481535777632,Male,
+amh_sx,2,,18353,0.3846365798826054,Female,
+amh_sx,2,,18383,0.25097772357720477,Male,
+amh_sx,2,,18383,0.36038333635307745,Female,
+amh_sx,2,,18414,0.2265566714680765,Male,
+amh_sx,2,,18414,0.3514110336299495,Female,
+amh_sx,2,,18444,0.21776203863720597,Male,
+amh_sx,2,,18444,0.2917363466674539,Female,
+amh_sx,2,,18506,0.2132482584306612,Male,
+amh_sx,2,,18506,0.27160171595113997,Female,
+amh_sx,2,,18567,0.31571376432332865,Male,
+amh_sx,2,,18567,0.33142082317598837,Female,
+hsaffeth,1,13/14-16/17,NA,0.5019119082268135,Other,
+hsaffeth,1,15/16-17/18,NA,0.4655296,Other,
+hsaffeth,1,13/14-16/17,NA,0.32561703776259254,Asian,
+hsaffeth,1,15/16-17/18,NA,0.347478466574463,Asian,
+hsaffeth,1,13/14-16/17,NA,0.43694088146650145,Black,
+hsaffeth,1,15/16-17/18,NA,0.425443835834405,Black,
+hsaffeth,1,13/14-16/17,NA,0.2767683232637083,Mixed,
+hsaffeth,1,15/16-17/18,NA,0.3175304,Mixed,
+hsaffeth,1,13/14-16/17,NA,0.21750219637669793,White,
+hsaffeth,1,15/16-17/18,NA,0.209609314529866,White,
+ovrten,1,2013/14,NA,0.036713453712554286,Owner occupied,
+ovrten,1,2013/14,NA,0.12111747726640834,Social rented,
+ovrten,1,2013/14,NA,0.1179646617099452,Private rented,
+ovrten,1,2013/14,NA,0.07863833717025519,All tenures,
+ovrten,1,2014/15,NA,0.032930038777615855,Owner occupied,
+ovrten,1,2014/15,NA,0.12926959644918526,Social rented,
+ovrten,1,2014/15,NA,0.10956914708388527,Private rented,
+ovrten,1,2014/15,NA,0.07632081430508461,All tenures,
+ovrten,1,2015/16,NA,0.0266679049760091,Owner occupied,
+ovrten,1,2015/16,NA,0.13360370431175372,Social rented,
+ovrten,1,2015/16,NA,0.11046729063255739,Private rented,
+ovrten,1,2015/16,NA,0.07463750569791905,All tenures,
+ovrten,1,2016/17,NA,0.024012622084041653,Owner occupied,
+ovrten,1,2016/17,NA,0.13830617433094045,Social rented,
+ovrten,1,2016/17,NA,0.10310940009794149,Private rented,
+ovrten,1,2016/17,NA,0.07252032953033993,All tenures,
+ovrten,1,2017/18,NA,0.026107874950446856,Owner occupied,
+ovrten,1,2017/18,NA,0.14733447285597026,Social rented,
+ovrten,1,2017/18,NA,0.11852947413692407,Private rented,
+ovrten,1,2017/18,NA,0.08028672505672133,All tenures,
+ovrten,1,2018/19,NA,0.027099275799213132,Owner occupied,
+ovrten,1,2018/19,NA,0.14634409344116225,Social rented,
+ovrten,1,2018/19,NA,0.12599171663313605,Private rented,
+ovrten,1,2018/19,NA,0.08251398614391921,All tenures,
+ovreth,1,2010/11-2013/14,NA,0.0509831819065758,White,
+ovreth,1,2014/15-2017/18,NA,0.0594835236093729,White,
+ovreth,1,2010/11-2013/14,NA,0.141858608669774,BAME,
+ovreth,1,2014/15-2017/18,NA,0.158538412209115,BAME,
+ovrhh,1,2010/11-2013/14,NA,0.174999626371826,Couple with dependent children,
+ovrhh,1,2014/15-2017/18,NA,0.192516767756094,Couple with dependent children,
+ovrhh,1,2010/11-2013/14,NA,0.208771820396674,Lone parent with dependent children,
+ovrhh,1,2014/15-2017/18,NA,0.330771117718477,Lone parent with dependent children,
+ovrhh,1,2010/11-2013/14,NA,0.157494568483368,Other multi-person households,
+ovrhh,1,2014/15-2017/18,NA,0.131889030905216,Other multi-person households,
+hmleth,1,2016/17,NA,0.3194905869324474,White,Proportion of total households accepted as statutorily homeless
+hmleth,1,2017/18,NA,0.30510665804783454,White,Proportion of total households accepted as statutorily homeless
+hmleth,1,2018/19,NA,0.31045689160772316,White,Households assessed as owed a duty
+hmleth,1,2019/20,NA,0.3106508875739645,White,Households assessed as owed a duty
+hmleth,1,2016/17,NA,0.3239202657807309,Black or Black British,Proportion of total households accepted as statutorily homeless
+hmleth,1,2017/18,NA,0.2979961215255333,Black or Black British,Proportion of total households accepted as statutorily homeless
+hmleth,1,2018/19,NA,0.3140890843051042,Black or Black British,Households assessed as owed a duty
+hmleth,1,2019/20,NA,0.3210059171597633,Black or Black British,Households assessed as owed a duty
+hmleth,1,2016/17,NA,0.14839424141749724,Asian or Asian British,Proportion of total households accepted as statutorily homeless
+hmleth,1,2017/18,NA,0.15513897866839044,Asian or Asian British,Proportion of total households accepted as statutorily homeless
+hmleth,1,2018/19,NA,0.12330338367424966,Asian or Asian British,Households assessed as owed a duty
+hmleth,1,2019/20,NA,0.125,Asian or Asian British,Households assessed as owed a duty
+hmleth,1,2016/17,NA,0.04817275747508306,Mixed,Proportion of total households accepted as statutorily homeless
+hmleth,1,2017/18,NA,0.05429864253393665,Mixed,Proportion of total households accepted as statutorily homeless
+hmleth,1,2018/19,NA,0.05027719365322118,Mixed,Households assessed as owed a duty
+hmleth,1,2019/20,NA,0.054178994082840236,Mixed,Households assessed as owed a duty
+hmleth,1,2016/17,NA,0.08139534883720931,Other ethnic origin,Proportion of total households accepted as statutorily homeless
+hmleth,1,2017/18,NA,0.07239819004524888,Other ethnic origin,Proportion of total households accepted as statutorily homeless
+hmleth,1,2018/19,NA,0.08889313706748232,Other ethnic origin,Households assessed as owed a duty
+hmleth,1,2019/20,NA,0.09208579881656805,Other ethnic origin,Households assessed as owed a duty
+hmleth,1,2016/17,NA,0.07918050941306755,Ethnic Group not Stated,Proportion of total households accepted as statutorily homeless
+hmleth,1,2017/18,NA,0.11506140917905623,Ethnic Group not Stated,Proportion of total households accepted as statutorily homeless
+hmleth,1,2018/19,NA,0.11298030969221946,Ethnic Group not Stated,Households assessed as owed a duty
+hmleth,1,2019/20,NA,0.0955991124260355,Ethnic Group not Stated,Households assessed as owed a duty
+hmlfml,1,2016/17,NA,0.24363233665559247,Couple with dependent children,Proportion of total households accepted as statutorily homeless
+hmlfml,1,2017/18,NA,0.2144702842377261,Couple with dependent children,Proportion of total households accepted as statutorily homeless
+hmlfml,1,2018/19,NA,0.061169007702763935,Couple with dependent children,Households assessed as owed a duty
+hmlfml,1,2019/20,NA,0.08665062025550824,Couple with dependent children,Households assessed as owed a duty
+hmlfml,1,2016/17,NA,0.03599114064230343,Male lone parent,Proportion of total households accepted as statutorily homeless
+hmlfml,1,2017/18,NA,0.041343669250646,Male lone parent,Proportion of total households accepted as statutorily homeless
+hmlfml,1,2018/19,NA,0.01812415043044857,Male lone parent,Households assessed as owed a duty
+hmlfml,1,2019/20,NA,0.023884465839659322,Male lone parent,Households assessed as owed a duty
+hmlfml,1,2016/17,NA,0.4894795127353267,Female lone parent,Proportion of total households accepted as statutorily homeless
+hmlfml,1,2017/18,NA,0.49547803617571057,Female lone parent,Proportion of total households accepted as statutorily homeless
+hmlfml,1,2018/19,NA,0.20027186225645674,Female lone parent,Households assessed as owed a duty
+hmlfml,1,2019/20,NA,0.25236067394926864,Female lone parent,Households assessed as owed a duty
+hmlfml,1,2016/17,NA,0.10299003322259136,Male no dependent children,Proportion of total households accepted as statutorily homeless
+hmlfml,1,2017/18,NA,0.12080103359173126,Male no dependent children,Proportion of total households accepted as statutorily homeless
+hmlfml,1,2018/19,NA,0.41232442229270505,Male no dependent children,Households assessed as owed a duty
+hmlfml,1,2019/20,NA,0.3243843732642103,Male no dependent children,Households assessed as owed a duty
+hmlfml,1,2016/17,NA,0.0725359911406423,Female no dependent children,Proportion of total households accepted as statutorily homeless
+hmlfml,1,2017/18,NA,0.08139534883720931,Female no dependent children,Proportion of total households accepted as statutorily homeless
+hmlfml,1,2018/19,NA,0.2546443135478024,Female no dependent children,Households assessed as owed a duty
+hmlfml,1,2019/20,NA,0.23902980929457507,Female no dependent children,Households assessed as owed a duty
+hmlfml,1,2016/17,NA,0.05537098560354374,All other household groups,Proportion of total households accepted as statutorily homeless
+hmlfml,1,2017/18,NA,0.04780361757105943,All other household groups,Proportion of total households accepted as statutorily homeless
+hmlfml,1,2018/19,NA,0.05346624376982329,All other household groups,Households assessed as owed a duty
+hmlfml,1,2019/20,NA,0.07369005739677838,All other household groups,Households assessed as owed a duty
+intage,1,Jan-Mar 2020,NA,0.004228399206242633,16-24,
+intage,1,Jan-Mar 2019,NA,0.005834458006436591,16-24,
+intage,1,Jan-Mar 2018,NA,0.005926944289968889,16-24,
+intage,1,Jan-Mar 2017,NA,0.0046784083837078235,16-24,
+intage,1,Jan-Mar 2020,NA,0.0038518521105303455,25-34,
+intage,1,Jan-Mar 2019,NA,0.0020143565940160427,25-34,
+intage,1,Jan-Mar 2018,NA,0.004788420642150416,25-34,
+intage,1,Jan-Mar 2017,NA,0.005494279960787912,25-34,
+intage,1,Jan-Mar 2020,NA,0.003945701334783704,35-49,
+intage,1,Jan-Mar 2019,NA,0.005541943137097524,35-49,
+intage,1,Jan-Mar 2018,NA,0.007175861320432909,35-49,
+intage,1,Jan-Mar 2017,NA,0.011412790126318816,35-49,
+intage,1,Jan-Mar 2020,NA,0.020748199085958405,50-64,
+intage,1,Jan-Mar 2019,NA,0.04557910956765169,50-64,
+intage,1,Jan-Mar 2018,NA,0.048384492363507683,50-64,
+intage,1,Jan-Mar 2017,NA,0.05828357694277367,50-64,
+intage,1,Jan-Mar 2020,NA,0.22869463635641712,65+,
+intage,1,Jan-Mar 2019,NA,0.32106942904557373,65+,
+intage,1,Jan-Mar 2018,NA,0.3200504238443413,65+,
+intage,1,Jan-Mar 2017,NA,0.3090498950418176,65+,
+inteth,1,Jan-Mar 2020,NA,0.04762787511319779,White,
+inteth,1,Jan-Mar 2019,NA,0.06868201492865693,White,
+inteth,1,Jan-Mar 2018,NA,0.0690104566410471,White,
+inteth,1,Jan-Mar 2017,NA,0.06216106276235579,White,
+inteth,1,Jan-Mar 2020,NA,0,Mixed/Multiple ethnic groups,
+inteth,1,Jan-Mar 2019,NA,0.03687104688867792,Mixed/Multiple ethnic groups,
+inteth,1,Jan-Mar 2018,NA,0,Mixed/Multiple ethnic groups,
+inteth,1,Jan-Mar 2017,NA,0.02666006293555859,Mixed/Multiple ethnic groups,
+inteth,1,Jan-Mar 2020,NA,0.01892623477387687,Indian,
+inteth,1,Jan-Mar 2019,NA,0.05954702882403495,Indian,
+inteth,1,Jan-Mar 2018,NA,0.0709950081634885,Indian,
+inteth,1,Jan-Mar 2017,NA,0.07737946592082043,Indian,
+inteth,1,Jan-Mar 2020,NA,0.11049312996902712,Pakistani/Bangladeshi,
+inteth,1,Jan-Mar 2019,NA,0.0662501056155273,Pakistani/Bangladeshi,
+inteth,1,Jan-Mar 2018,NA,0.09449912979983624,Pakistani/Bangladeshi,
+inteth,1,Jan-Mar 2017,NA,0.06804799137233755,Pakistani/Bangladeshi,
+inteth,1,Jan-Mar 2020,NA,0.05011021385727306,Black/African/Caribbean/Black British,
+inteth,1,Jan-Mar 2019,NA,0.0972023533353954,Black/African/Caribbean/Black British,
+inteth,1,Jan-Mar 2018,NA,0.0888005099362098,Black/African/Caribbean/Black British,
+inteth,1,Jan-Mar 2017,NA,0.05299811172424602,Black/African/Caribbean/Black British,
+inteth,1,Jan-Mar 2020,NA,0.027560128153061685,Other ethnic group,
+inteth,1,Jan-Mar 2019,NA,0.05273883989712016,Other ethnic group,
+inteth,1,Jan-Mar 2018,NA,0.0433811443965824,Other ethnic group,
+inteth,1,Jan-Mar 2017,NA,0.06060288971358517,Other ethnic group,
+intdis,1,Jan-Mar 2020,NA,0.13344032560350327,Equality Act Disabled,
+intdis,1,Jan-Mar 2019,NA,0.2047098501811723,Equality Act Disabled,
+intdis,1,Jan-Mar 2018,NA,0.19221188839466236,Equality Act Disabled,
+intdis,1,Jan-Mar 2017,NA,0.1876268420471417,Equality Act Disabled,
+intdis,1,Jan-Mar 2020,NA,0.021961236413564976,Not Equality Act Disabled,
+intdis,1,Jan-Mar 2019,NA,0.031240843865628087,Not Equality Act Disabled,
+intdis,1,Jan-Mar 2018,NA,0.037205274802798255,Not Equality Act Disabled,
+intdis,1,Jan-Mar 2017,NA,0.031176626579768205,Not Equality Act Disabled,
+empeth_gap,1,2012,NA,73.7,White,
+empeth_gap,1,2012,NA,59.6,Ethnic Minorities,
+empeth_gap,1,2013,NA,75,White,
+empeth_gap,1,2013,NA,60.8,Ethnic Minorities,
+empeth_gap,1,2014,NA,76.8,White,
+empeth_gap,1,2014,NA,62.7,Ethnic Minorities,
+empeth_gap,1,2015,NA,78.2,White,
+empeth_gap,1,2015,NA,65,Ethnic Minorities,
+empeth_gap,1,2016,NA,78.6,White,
+empeth_gap,1,2016,NA,66.3,Ethnic Minorities,
+empeth_gap,1,2017,NA,78.8,White,
+empeth_gap,1,2017,NA,66.4,Ethnic Minorities,
+empeth_gap,1,2018,NA,79.6,White,
+empeth_gap,1,2018,NA,66.4,Ethnic Minorities,
+empeth_gap,1,2019,NA,79.3,White,
+empeth_gap,1,2019,NA,67.1,Ethnic Minorities,
+pvty,1,10/11-12/13,NA,21.00519227610875,UK,
+pvty,1,10/11-12/13,NA,27.869770406138286,London,
+pvty,1,11/12-13/14,NA,20.961550762426434,UK,
+pvty,1,11/12-13/14,NA,27.420462350511126,London,
+pvty,1,12/13-14/15,NA,21.02821293257831,UK,
+pvty,1,12/13-14/15,NA,27.25071579014282,London,
+pvty,1,13/14-15/16,NA,21.284408003881378,UK,
+pvty,1,13/14-15/16,NA,26.80750808332449,London,
+pvty,1,14/15-16/17,NA,21.64742204300362,UK,
+pvty,1,14/15-16/17,NA,27.85011078501663,London,
+pvty,1,15/16-17/18,NA,21.79991576245698,UK,
+pvty,1,15/16-17/18,NA,27.664168379577173,London,
+pvty,1,16/17-18/19,NA,21.85650633973943,UK,
+pvty,1,16/17-18/19,NA,28.23074739677449,London,
+pvty,1,17/18-19/20,NA,21.850139043431128,UK,
+pvty,1,17/18-19/20,NA,27.156607647500834,London,
+abspv,1,10/11-12/13,NA,21.63786776734061,UK,
+abspv,1,11/12-13/14,NA,21.779252783993744,UK,
+abspv,1,12/13-14/15,NA,21.26099198770208,UK,
+abspv,1,13/14-15/16,NA,20.524580567932798,UK,
+abspv,1,14/15-16/17,NA,19.76066997966811,UK,
+abspv,1,15/16-17/18,NA,19.43361757955241,UK,
+abspv,1,16/17-18/19,NA,19.33326428459489,UK,
+abspv,1,17/18-19/20,NA,18.879732820248424,UK,
+abspv,1,10/11-12/13,NA,28.462613172744017,London,
+abspv,1,11/12-13/14,NA,28.22049132558639,London,
+abspv,1,12/13-14/15,NA,27.462390827271474,London,
+abspv,1,13/14-15/16,NA,25.945442249690405,London,
+abspv,1,14/15-16/17,NA,25.796372096376285,London,
+abspv,1,15/16-17/18,NA,25.216240825377806,London,
+abspv,1,16/17-18/19,NA,25.877597455947683,London,
+abspv,1,17/18-19/20,NA,24.36219091820007,London,
+att_fsm,1,2015/16,NA,53.6,All other Pupils,solid
+att_fsm,1,2015/16,NA,51.9,All Pupils,solid
+att_fsm,1,2015/16,NA,44.8,Pupils known to be eligible for free school meals,solid
+att_fsm,1,2016/17,NA,50.6,All other Pupils,solid
+att_fsm,1,2016/17,NA,48.9,All Pupils,solid
+att_fsm,1,2016/17,NA,41.2,Pupils known to be eligible for free school meals,solid
+att_fsm,1,2017/18,NA,40.8,Pupils known to be eligible for free school meals,solid
+att_fsm,1,2017/18,NA,51.1,All other Pupils,solid
+att_fsm,1,2017/18,NA,49.4,All Pupils,solid
+att_fsm,1,2018/19,NA,41.1,Pupils known to be eligible for free school meals,solid
+att_fsm,1,2018/19,NA,51.6,All other Pupils,solid
+att_fsm,1,2018/19,NA,49.7,All Pupils,solid
+att_fsm,1,2019/20,NA,45,Pupils known to be eligible for free school meals,dotted
+att_fsm,1,2019/20,NA,55.2,All other Pupils,dotted
+att_fsm,1,2019/20,NA,53.2,All Pupils,dotted
+att_eth,1,2015/16,NA,55.8,Asian,solid
+att_eth,1,2015/16,NA,49.2,Black,solid
+att_eth,1,2015/16,NA,64.4,Chinese,solid
+att_eth,1,2015/16,NA,52,Mixed,solid
+att_eth,1,2015/16,NA,51.7,White,solid
+att_eth,1,2016/17,NA,53.5,Asian,solid
+att_eth,1,2016/17,NA,45.4,Black,solid
+att_eth,1,2016/17,NA,64.6,Chinese,solid
+att_eth,1,2016/17,NA,48.8,Mixed,solid
+att_eth,1,2016/17,NA,48.4,White,solid
+att_eth,1,2017/18,NA,48.8,White,solid
+att_eth,1,2017/18,NA,49.1,Mixed,solid
+att_eth,1,2017/18,NA,54.4,Asian,solid
+att_eth,1,2017/18,NA,45.6,Black,solid
+att_eth,1,2017/18,NA,67.4,Chinese,solid
+att_eth,1,2018/19,NA,49.2,White,solid
+att_eth,1,2018/19,NA,49.6,Mixed,solid
+att_eth,1,2018/19,NA,55,Asian,solid
+att_eth,1,2018/19,NA,45.4,Black,solid
+att_eth,1,2018/19,NA,66.9,Chinese,solid
+att_eth,1,2019/20,NA,52.9,White,dotted
+att_eth,1,2019/20,NA,53,Mixed,dotted
+att_eth,1,2019/20,NA,58,Asian,dotted
+att_eth,1,2019/20,NA,49.4,Black,dotted
+att_eth,1,2019/20,NA,69.1,Chinese,dotted
+att_sx,1,2015/16,NA,49.7,Boys,solid
+att_sx,1,2015/16,NA,54.1,Girls,solid
+att_sx,1,2016/17,NA,46.3,Boys,solid
+att_sx,1,2016/17,NA,51.5,Girls,solid
+att_sx,1,2017/18,NA,46.7,Boys,solid
+att_sx,1,2017/18,NA,52.1,Girls,solid
+att_sx,1,2018/19,NA,46.9,Boys,solid
+att_sx,1,2018/19,NA,52.6,Girls,solid
+att_sx,1,2019/20,NA,50.5,Boys,dotted
+att_sx,1,2019/20,NA,55.9,Girls,dotted
+ythemp,2,NA,17440,15.7,NA,Aug-Oct 2017
+ythemp,2,NA,17471,15.1,NA,Sep-Nov 2017
+ythemp,2,NA,17501,14.8,NA,Oct-Dec 2017
+ythemp,2,NA,17532,13.1,NA,Nov-Jan 2018
+ythemp,2,NA,17563,11.9,NA,Dec-Feb 2018
+ythemp,2,NA,17591,12.7,NA,Jan-Mar 2018
+ythemp,2,NA,17622,12.4,NA,Feb-Apr 2018
+ythemp,2,NA,17652,13,NA,Mar-May 2018
+ythemp,2,NA,17683,12.4,NA,Apr-Jun 2018
+ythemp,2,NA,17713,14.1,NA,May-Jul 2018
+ythemp,2,NA,17744,13.4,NA,Jun-Aug 2018
+ythemp,2,NA,17775,12.9,NA,Jul-Sep 2018
+ythemp,2,NA,17805,13.8,NA,Aug-Oct 2018
+ythemp,2,NA,17836,15.5,NA,Sep-Nov 2018
+ythemp,2,NA,17866,15.3,NA,Oct-Dec 2018
+ythemp,2,NA,17897,14.1,NA,Nov-Jan 2019
+ythemp,2,NA,17928,15.1,NA,Dec-Feb 2019
+ythemp,2,NA,17956,14.4,NA,Jan-Mar 2019
+ythemp,2,NA,17987,13.5,NA,Feb-Apr 2019
+ythemp,2,NA,18017,15.1,NA,Mar-May 2019
+ythemp,2,NA,18048,15.7,NA,Apr-Jun 2019
+ythemp,2,NA,18078,18.1,NA,May-Jul 2019
+ythemp,2,NA,18109,17.5,NA,Jun-Aug 2019
+ythemp,2,NA,18140,17.9,NA,Jul-Sep 2019
+ythemp,2,NA,18170,18.5,NA,Aug-Oct 2019
+ythemp,2,NA,18201,16,NA,Sep-Nov 2019
+ythemp,2,NA,18231,14.5,NA,Oct-Dec 2019
+ythemp,2,NA,18262,12.5,NA,Nov-Jan 2020
+ythemp,2,NA,18293,11.3,NA,Dec-Feb 2020
+ythemp,2,NA,18322,11.4,NA,Jan-Mar 2020
+ythemp,2,NA,18353,10.9,NA,Feb-Apr 2020
+ythemp,2,NA,18383,13,NA,Mar-May 2020
+ythemp,2,NA,18414,14.3,NA,Apr-Jun 2020
+ythemp,2,NA,18444,19.6,NA,May-Jul 2020
+ythemp,2,NA,18475,21.3,NA,Jun-Aug 2020
+ythemp,2,NA,18506,23.1,NA,Jul-Sep 2020
+ythemp,2,NA,18536,22.3,NA,Aug-Oct 2020
+ythemp,2,NA,18567,21.8,NA,Sep-Nov 2020
+ythemp,2,NA,18597,20.8,NA,Oct-Dec 2020
+ythemp,2,NA,18628,18.8,NA,Nov-Jan 2021

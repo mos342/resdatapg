@@ -1,0 +1,110 @@
+dataset,Outcome,Method ,Owner ,Format ,Frequency ,Template ,TimelinessRisk,RAG
+wlkcyc,"Cleaner, Greener London",Manual,TBD,TBD,Ad Hoc,NA ,High,R
+tfl_md,"Cleaner, Greener London",TBD,TBD,TBD,TBD,TBD,High,TBD
+tfl_wlkcyc,"Cleaner, Greener London",TBD,TBD,TBD,TBD,TBD,High,TBD
+aqno2,"Cleaner, Greener London",API ,Direct ,R,D,NA ,Low,G
+gg_dat,"Cleaner, Greener London",Manual,External Team ,Pdf,Q,NA ,High,R
+ggemp,"Cleaner, Greener London",Manual,External Team ,Pdf,Ad Hoc,NA ,High,R
+emms,"Cleaner, Greener London",Download ,Direct ,Excel,A,NA ,High,A
+energy,"Cleaner, Greener London",Download ,Direct ,R,A,NA ,Low,A
+epc,"Cleaner, Greener London",Download ,Direct ,Excel,Q,NA ,High,A
+fpov,"Cleaner, Greener London",Download ,TBD,Excel,Ad Hoc,NA ,High,R
+wst,"Cleaner, Greener London",API ,Direct ,R,Ad Hoc,NA ,High,A
+bio,"Cleaner, Greener London",Template,External Team ,Excel,Ad Hoc,No,High,A
+rcyc,"Cleaner, Greener London",Template,External Team ,Excel,Ad Hoc,No,High,A
+intage,Narrow Inequalities,Template,Internal Team,Excel,A,Yes ,Low,G
+intdis,Narrow Inequalities,Template,Internal Team,Excel,A,Yes ,Low,G
+inteth,Narrow Inequalities,Template,Internal Team,Excel,A,Yes ,Low,G
+chobs_dep,Narrow Inequalities,API ,Internal Team,Excel,A,NA ,Low,G
+chobs_eth,Narrow Inequalities,API ,Internal Team,Excel,A,NA ,Low,G
+chobs_sx,Narrow Inequalities,API ,Internal Team,Excel,A,NA ,Low,G
+att_eth,Narrow Inequalities,Download ,Internal Team,Excel,A,No,Low,G
+att_fsm,Narrow Inequalities,Download ,Internal Team,Excel,A,No,Low,G
+att_sx,Narrow Inequalities,Download ,Internal Team,Excel,A,No,Low,G
+rdnss_eth,Narrow Inequalities,Download ,Internal Team,Excel,A,No,Low,G
+rndss_fsm,Narrow Inequalities,Download ,Internal Team,Excel,A,No,Low,G
+entry,Narrow Inequalities,Download ,Internal Team,Excel,A,No,Low,G
+amh_age,Narrow Inequalities,Template,Internal Team,Excel,Q,Yes ,Low,G
+amh_sx,Narrow Inequalities,Template,Internal Team,Excel,Q,Yes ,Low,G
+empdis_gap,Narrow Inequalities,Download ,Internal Team,Excel,A,No,Medium,G
+empeth_gap,Narrow Inequalities,Download ,Internal Team,Excel,A,No,Medium,G
+empsx_gap,Narrow Inequalities,Download ,Internal Team,Excel,A,No,Medium,G
+prvspc_age,Narrow Inequalities,Template,Internal Team,Excel,Ad Hoc,Yes ,Medium,G
+prvspc_eth,Narrow Inequalities,Template,Internal Team,Excel,Ad Hoc,Yes ,Medium,G
+hmleth,Narrow Inequalities,Template,Internal Team,Excel,A,Yes ,Low,G
+hmlfml,Narrow Inequalities,Template,Internal Team,Excel,A,Yes ,Low,G
+hsaffeth,Narrow Inequalities,Template,Internal Team,Excel,A,Yes ,Low,G
+ovreth,Narrow Inequalities,Template,Internal Team,Excel,A,Yes ,Low,G
+ovrhh,Narrow Inequalities,Template,Internal Team,Excel,A,Yes ,Low,G
+ovrten,Narrow Inequalities,Template,Internal Team,Excel,A,Yes ,Low,G
+ae,Reverse economic damage,Download ,External Team ,Excel,A,No,High,A-R
+aelw,Reverse economic damage,Download ,External Team ,Excel,A,No,High,A-R
+aeme,Reverse economic damage,Download ,External Team ,Excel,A,No,High,A-R
+bics,Reverse economic damage,Template,Internal Team,Excel,A,Yes ,Low,G
+cconf,Reverse economic damage,Template,Internal Team,Excel,A,Yes ,Low,G
+gva,Reverse economic damage,Template,Internal Team,Excel,A,Yes ,Low,G
+hsprc,Reverse economic damage,Template,Internal Team,Excel,A,Yes ,Low,G
+hsprcex,Reverse economic damage,Template,Internal Team,Excel,A,Yes ,Low,G
+pmi,Reverse economic damage,Template,Internal Team,Excel,A,Yes ,Low,G
+pmi_new,Reverse economic damage,Template,Internal Team,Excel,A,Yes ,Low,G
+uc,Reverse economic damage,API ,Direct ,R,M,NA ,Low,G
+payrempl,Reverse economic damage,Webscapping,Direct ,R,M,NA ,Low,G
+empl,Reverse economic damage,API ,Direct ,R,M,NA ,Low,G
+unempl,Reverse economic damage,API ,Direct ,R,M,NA ,Low,G
+inswk,Reverse economic damage,Download ,Internal Team,Excel,A,No,Medium,A
+llw,Reverse economic damage,Download ,Internal Team,Excel,A,No,Medium,A
+frl,Reverse economic damage,Download ,External Team ,Excel,M,No,Medium,A
+frlb,Reverse economic damage,Template,External Team ,Excel,M,Yes ,Medium,A-G
+seiss,Reverse economic damage,Template,External Team ,Excel,M,Yes ,Medium,A-G
+clmts,Reverse economic damage,API ,External Team ,R,M,NA ,Low,G
+pstngs,Reverse economic damage,Template,External Team ,Excel,M,Yes ,Medium,A-G
+intst,Reverse economic damage,Template,External Team ,Unknown,Unknown,Unknown,Unknown,Unknown
+intvst,Reverse economic damage,Template,External Team ,Unknown,Unknown,Unknown,Unknown,Unknown
+mcwdy,Reverse economic damage,Download ,External Team ,Excel,W,No,Medium,A-R
+mcwkd,Reverse economic damage,Download ,External Team ,Excel,W,No,Medium,A-R
+gres,Reverse economic damage,Webscapping,Direct ,Excel,D,NA ,Low,G
+gtransit,Reverse economic damage,Webscapping,Direct ,Excel,D,NA ,Low,G
+htrw,Reverse economic damage,Webscapping,Direct ,Excel,M,NA ,Low,A-G
+tfl,Reverse economic damage,TBD,TBD,TBD,TBD,TBD,,A
+coh,Support communities,Template,Internal Team,Email ,M,Yes ,Low,G
+fmlvol,Support communities,Template,Internal Team,Excel,A,Yes ,Medium,G
+hlp,Support communities,Template,Internal Team,Excel,A,Yes ,Medium,G
+infhlp,Support communities,Template,Internal Team,Excel,A,Yes ,Medium,G
+nghb,Support communities,Template,Internal Team,Excel,A,Yes ,Medium,G
+asb,Support communities,Download ,External Team ,TBD,TBD,TBD,High,A-R
+dmab,Support communities,Download ,External Team ,TBD,TBD,TBD,High,A-R
+htcrm,Support communities,Download ,External Team ,TBD,TBD,TBD,High,A-R
+tno,Support communities,Download ,External Team ,TBD,TBD,TBD,High,A-R
+phys,Support communities,Template,Internal Team,Excel,Ad Hoc,Yes ,High,A
+prvl,Support communities,Template,Internal Team,Excel,A,Yes ,Medium,G
+abspv,Support communities,Download ,Internal Team,Excel,A,No,Medium,A
+pvty,Support communities,Download ,Internal Team,Excel,,No,Medium,A
+blls,Support communities,Template,Internal Team,Excel,Ad Hoc,Yes ,Medium,G
+brrw,Support communities,Template,Internal Team,Excel,Ad Hoc,Yes ,Medium,G
+fdins,Support communities,Template,Internal Team,Excel,Ad Hoc,Yes ,Medium,G
+hmls,Support communities,Template,Internal Team,Excel,A,Yes ,Medium,TBD
+rnt,Support communities,Template,Internal Team,Excel,Ad Hoc,Yes ,Medium,A-G
+ca_rp,Support communities,TBD,TBD,Excel,TBD,TBD,TBD,TBD
+rghlsp,Support communities,TBD,Direct ,TBD,Q,NA ,High,R
+cnc,Support communities,TBD,TBD,Excel,TBD,TBD,TBD,TBD
+gp,Support communities,Manual,Direct ,Excel,TBD,No,TBD,TBD
+mar,Support communities,Manual,Internal Team,Excel,TBD,No,TBD,TBD
+anx,Support communities,Template,Internal Team,Excel,Ad Hoc,Yes ,Medium,G
+lfsat,Support communities,Template,Internal Team,Excel,Ad Hoc,Yes ,Medium,G
+lnl,Support communities,Template,Internal Team,Excel,Ad Hoc,Yes ,Medium,G
+las_ass,Young people,Manual,TBD,Excel,A,No,,A-R
+cpps,Young people,Manual,TBD,Excel,A,No,Medium,A-R
+att,Young people,Download ,External Team ,Excel,A,No,Medium,A
+excl,Young people,Manual,External Team ,Excel,A,No,High,A
+rdnss,Young people,Download ,TBD,Excel,A,No,Medium,A
+ythemp,Young people,API ,TBD,R,M,NA ,Low,G
+neets,Young people,TBD,TBD,TBD,TBD,TBD,TBD,TBD
+chobsf,Young people,API ,Internal Team,R,A,NA ,Low,G
+imms,Young people,TBD,TBD,TBD,TBD,TBD,TBD,TBD
+chphys,Young people,Template,Internal Team,Excel,A,Yes ,Medium,G
+chovrcrwd,Young people,Template,Internal Team,Excel,A,Yes ,Medium,G
+chpv,Young people,Manual,Internal Team,Excel,A,No,Medium,A
+acprv,Young people,TBD,TBD,TBD,TBD,TBD,TBD,TBD
+chtmout,Young people,Template,Internal Team,Excel,A,Yes ,Medium,G
+chhapp,Young people,TBD,TBD,TBD,TBD,TBD,TBD,TBD
+ylstsf,Young people,Template,Internal Team,Excel,A,Yes ,Medium,G
